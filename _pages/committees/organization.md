@@ -193,6 +193,14 @@ sidebar:
    site="https://faculty.ecnu.edu.cn/_s16/cq2_21262/main.psp"
    picture="/assets/images/committee/Qin-Chen.jpg"
 %}
+{% include committee-member.html
+   name="Hou Pong Chan"
+   institution="Alibaba DAMO Academy"
+   email="kenchanhp@gmail.com"
+   role="Publication Chairs"
+   site="https://kenchan0226.github.io/"
+   picture="/assets/images/committee/Ken-Chan.jpg"
+%}
 
 <h2>Handbook Chairs</h2>
 {% include committee-member.html
