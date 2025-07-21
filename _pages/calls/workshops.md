@@ -6,9 +6,6 @@ sidebar:
     nav: "calls"
 ---
 
-
-## Overview
-
 IJCNLP-AACL 2025 invites the submission of workshops papers featuring substantial, original, and unpublished research in all areas of computational linguistics, language resources and evaluation, including (not limited to)
 - Linguistics
 - Language Documentation
@@ -20,6 +17,25 @@ IJCNLP-AACL 2025 invites the submission of workshops papers featuring substantia
 Workshops will be held in Mumbai, India. In-person format is preferred, with hybrid format allowed under special circumstances.
 
 *Important Note*: At least one organizer of accepted workshops must be present in person in Mumbai, India.
+
+## Workshop Schedule
+
+Here is a list of workshops in IJCNLP-AACL 2025.
+
+| Date         | Workshop       | Full Name                                                                           |
+| ------------ | -------------- | ----------------------------------------------------------------------------------- |
+| TBD | WSLP   | [The 1st Workshop on Sign Language Processing (WSLP)](https://exploration-lab.github.io/WSLP/) |
+| TBD | Eval4NLP | [Fifth Workshop on Evaluation & Comparison of NLP Systems (Eval4NLP)](https://eval4nlp.github.io/2025/index.html) |
+| TBD | QuantumNLP | [QuantumNLP: Integrating Quantum Computing with Natural Language Processing](http://qnlp.in/) |
+| TBD | SciProdLLM | [The 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production](https://sciprodllm.github.io/2025/) |
+| TBD | CHOMPS | [CHOMPS – Confabulation, Hallucinations, & Overgeneration in Multilingual & Precision-critical Settings](https://chomps2025.github.io/) |
+| TBD | WAT | [The 12th Workshop on Asian Translation (WAT2025)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/) |
+| TBD | WASP | [Third Workshop on Artificial intelligence for Scientific Publications (WASP)](https://ui.adsabs.harvard.edu/WIESP/2025/) |
+| TBD | MMLoSo | [Multimodal Models for Low-Resource Contexts and Social Impact](https://mmloso-workshop.github.io/) |
+| TBD | JUST-NLP | [JUST-NLP: Workshop on NLP for Empowering Justice](https://github.com/Exploration-Lab/JUST-NLP) |
+| TBD | BHASHA | [BHASHA: Benchmarks, Harmonization, Annotation, and Standardization for Human-Centric AI in Indian Languages](https://bhasha-workshop.github.io) | 
+| TBD | BLP | [Second Bangla Language Processing Workshop](https://blp-workshop.github.io/) |
+| TBD | NLP-AI4Health | [NLP-AI4Health: Second Workshop on Integrating NLP and AI for Multilingual and Patient-Centric Healthcare Communication](https://2025.nlpai4health.com/) | 
 
 ## Important Dates
 
