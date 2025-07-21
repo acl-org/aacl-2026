@@ -6,6 +6,8 @@ sidebar:
     nav: "calls"
 ---
 
+## Overview
+
 IJCNLP-AACL 2025 invites the submission of workshops papers featuring substantial, original, and unpublished research in all areas of computational linguistics, language resources and evaluation, including (not limited to)
 - Linguistics
 - Language Documentation
