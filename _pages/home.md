@@ -12,16 +12,6 @@ excerpt: "December 20 &ndash;24<br>Mumbai, India"
 ## Welcome!
 The 14th IJCNLP & 4th AACL will be held in Mumbai, India from **December 20th** to **December 24th, 2025**.
 
-## News
-
-<style>
-.news-table { font-size: .9em; table-layout: fixed; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
-</style>
-| May 12, 2025 | [Call for tutorials](#) is now open. Submit your proposals.
-{: .news-table}
-
-
 ## Important Dates
 
 ARR submission deadline (long & short papers) | July 28, 2025
