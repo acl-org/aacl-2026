@@ -85,7 +85,7 @@ Note that submissions that do not report any form of evaluation may be desk reje
 
 Submissions can contain up to **6 pages** (longer submissions will be desk rejected), plus **2 pages** for references and informative appendices. Submissions must conform to the IJCNLP-AACL 2025 official style guidelines and must be in PDF format. Submissions must describe original, unpublished work, as publication in IJCNLP-AACL will be archival. Any papers that do not follow the official style guidelines and page limits will be desk rejected.
 
-The template and submission guidelines are available online[https://aclrollingreview.org/cfp#paper-submission-and-templates]. Use the provided template and submit through the OpenReview system [https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/System_Demonstrations].
+The template and submission guidelines are available [online](https://aclrollingreview.org/cfp#paper-submission-and-templates). Use the provided template and submit through [OpenReview](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/System_Demonstrations).
 
 **A Demonstration Video**
 
