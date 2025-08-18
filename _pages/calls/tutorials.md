@@ -78,7 +78,7 @@ Please submit the proposals using the START system at this URL: [https://softcon
 
 **Please note that we encourage 100% in-person tutorials. If and how many virtual and/or hybrid formats are possible will be decided at a later point. For in-person tutorials, at least one tutorial organiser is required to be physically present to run the tutorial at IJCNLP-AACL 2025.**
 
-## Diversity & Evaluation
+## Diversity & Inclusion
 The proposals should describe the ways in which the tutorial will support diversity in NLP. We suggest organizers consider the following points, while developing the proposal:
 - **Contribution to academic diversity**: The proposals could explain how the subject matter of the tutorial will contribute to the diversity of the field, e.g. use of multilingual data, indications of how the described methods scale up to various languages or domains, accessibility of resources, supporting underrepresented communities of NLP and so on.
 - **Diversifying representation**: Following the WiNLP initiative, we recognize the current problems of demographic imbalance in the field. Therefore, we particularly encourage submissions including members of under-represented groups in computational linguistics. The proposals should describe how their selection of invited speakers, panelists, organizers, and program committee promotes diverse representation (for example, considering underrepresented demographics based on gender, ethnicity, nationality, and so on). We also suggest including speakers and panelists, who have not appeared as a keynote speaker or panelist in recent conferences.
