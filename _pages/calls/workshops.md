@@ -34,7 +34,7 @@ Here is a list of workshops in IJCNLP-AACL 2025.
 | 24th Dec | WAT | [The 12th Workshop on Asian Translation (WAT2025)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/) |
 | 23rd Dec | WASP | [Third Workshop on Artificial intelligence for Scientific Publications (WASP)](https://ui.adsabs.harvard.edu/WIESP/2025/) |
 | 23rd Dec | MMLoSo | [Multimodal Models for Low-Resource Contexts and Social Impact](https://mmloso-workshop.github.io/) |
-| 24th Dec | JUST-NLP | [JUST-NLP: Workshop on NLP for Empowering Justice](https://github.com/Exploration-Lab/JUST-NLP) |
+| 24th Dec | JUST-NLP | [JUST-NLP: Workshop on NLP for Empowering Justice](https://exploration-lab.github.io/JUST-NLP/) |
 | 23rd Dec | BHASHA | [BHASHA: Benchmarks, Harmonization, Annotation, and Standardization for Human-Centric AI in Indian Languages](https://bhasha-workshop.github.io) | 
 | 23rd Dec | BLP | [Second Bangla Language Processing Workshop](https://blp-workshop.github.io/) |
 | 24th Dec | NLP-AI4Health | [NLP-AI4Health: Second Workshop on Integrating NLP and AI for Multilingual and Patient-Centric Healthcare Communication](https://2025.nlpai4health.com/) | 
