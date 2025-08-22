@@ -344,6 +344,16 @@ sidebar:
    picture="/assets/images/committee/Xiting-Wang.jpg"
 %}
 
+<h2>Student Volunteer Chairs</h2>
+{% include committee-member.html
+   name="Yuxia Wang"
+   institution="Mohamed bin Zayed University of Artificial Intelligence"
+   email="Yuxia.Wang@mbzuai.ac.ae"
+   role="Student Volunteer Chairs"
+   site="https://yuxiaw.github.io/"
+   picture="/assets/images/committee/Yuxia-Wang.jpg"
+%}
+
 <h2>Publicity Chairs</h2>
 {% include committee-member.html
    name="Raj Dabre"
