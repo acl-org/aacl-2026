@@ -16,10 +16,10 @@ The 14th IJCNLP & 4th AACL will be held in Mumbai, India from **December 20th** 
 
 ARR submission deadline (long & short papers) | July 28, 2025
 Reviewer registration deadline for ALL authors | July 30, 2025
-Review submission deadline | August 27, 2025
-Author response and author-reviewer discussion | September 4 - 10, 2025
-Meta-review deadline | September 23, 2025
-Commitment deadline | October 10, 2025
+Review submission deadline | September 1, 2025
+Author response and author-reviewer discussion | September 9 - 15, 2025
+Meta-review deadline | September 25, 2025
+Commitment deadline | October 5, 2025
 Notification of acceptance (long & short papers) | October 25, 2025
 Camera-ready papers due (long & short) | November 10, 2025
 Main Conference (dates for Workshops/Tutorials TBD) | December 20 - 24, 2025
