@@ -138,4 +138,4 @@ Long and short papers will be presented orally or as posters as determined by th
 
 For questions related to paper submission, and the review process in general, email: [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org)
 
-For questions about commitment and post review related topics, email: [ijcnlp-aacl2025-pc@googlegroups.com](mailto:ijcnlp-aacl2025-pc@googlegroups.com)
+For questions about commitment and post review related topics, email: [aacl-ijcnlp25-pc_chairs@googlegroups.com](mailto:aacl-ijcnlp25-pc_chairs@googlegroups.com)
