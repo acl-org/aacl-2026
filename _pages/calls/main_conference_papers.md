@@ -33,7 +33,7 @@ At the time of submission to ARR, authors will be asked to select a preferred ve
 
 ## Paper Submission Information
 
-**Note that we are following a new ARR cycle schedule (5 cycles/year)**! Papers may be submitted to the [ARR 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/July) July cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 July cycle or an earlier ARR cycle) may be committed to IJCNLP-AACL 2025 via the [commitment link](#).
+**Note that we are following a new ARR cycle schedule (5 cycles/year)**! Papers may be submitted to the [ARR 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/July) July cycle. Papers that have received reviews and a meta-review from ARR (whether from the ARR 2025 July cycle or an earlier ARR cycle) may be committed to IJCNLP-AACL 2025 via the [commitment link](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/ARR_Commitment).
 
 ## Mandatory Reviewing Workload
 
