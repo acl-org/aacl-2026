@@ -4,11 +4,11 @@ main:
   - title: "Calls"
     url: /calls/main_conference_papers/
 
-  - title: "Committees"
-    url: /organization
-
   - title: "Workshop Program"
     url: /program/workshops/
+
+  - title: "Committees"
+    url: /organization
 
   # - title: "Blog"
   #   url: /blog/

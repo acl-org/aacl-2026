@@ -3,9 +3,6 @@ title: Workshops
 layout: single
 excerpt: "EMNLP 2024 Workshops."
 permalink: /program/workshops/
-toc: true
-toc_sticky: true
-toc_icon: "cog" 
 sidebar: 
     nav: program
 ---
