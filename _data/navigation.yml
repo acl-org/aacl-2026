@@ -4,7 +4,7 @@ main:
   - title: "Calls"
     url: /calls/main_conference_papers/
 
-  - title: "Workshop Program"
+  - title: "Program"
     url: /program/workshops/
 
   - title: "Committees"
@@ -24,6 +24,12 @@ main:
  
   # - title: "Ethics"
   #   url: /ethics/faq/
+
+program:
+  - title: "Programs"
+    children:
+      - title: "Workshops"
+        url: /program/workshops/
 
 calls:
   - title: "Call for"
