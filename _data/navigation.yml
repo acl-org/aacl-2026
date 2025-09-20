@@ -7,8 +7,8 @@ main:
   - title: "Committees"
     url: /organization
 
-  # - title: "Sponsors"
-  #   url: /sponsors/
+  - title: "Workshop Program"
+    url: /program/workshops/
 
   # - title: "Blog"
   #   url: /blog/
