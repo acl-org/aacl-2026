@@ -43,6 +43,71 @@ sidebar:
    picture="/assets/images/committee/Derek-F-Wong.jpg"
 %}
 
+<h2>ARR Editors in Chief</h2>
+{% include committee-member.html
+   name="Vincent Ng"
+   institution="University of Texas at Dallas"
+   role="ARR Editors In Chief"
+   site="https://personal.utdallas.edu/~vince/"
+   picture="/assets/images/committee/Vincent-Ng.jpg"
+%}
+
+{% include committee-member.html
+   name="Anna Rogers"
+   institution="IT University of Copenhagen"
+   role="ARR Editors In Chief"
+   site="https://annargrs.github.io/"
+   picture="/assets/images/committee/Anna-Rogers.jpg"
+%}
+
+{% include committee-member.html
+   name="Jun Suzuki"
+   institution="Tohoku University"
+   role="ARR Editors In Chief"
+   site="https://aclrollingreview.org/organization#:~:text=University%20of%20Copenhagen-,Jun%20Suzuki,-Tohoku%20University"
+   picture="/assets/images/committee/Jun-Suzuki.jpg"
+%}
+
+{% include committee-member.html
+   name="Jing Jiang"
+   institution="Singapore Management University"
+   role="ARR Editors In Chief"
+   site="https://faculty.smu.edu.sg/profile/jing-jiang-636"
+   picture="/assets/images/committee/Jing-Jiang.jpg"
+%}
+
+{% include committee-member.html
+   name="Michael White"
+   institution="The Ohio State University"
+   role="ARR Editors In Chief"
+   site="https://u.osu.edu/white.1240/"
+   picture="/assets/images/committee/Michael-White.jpg"
+%}
+
+{% include committee-member.html
+   name="Margot Mieskes"
+   institution="University of Applied Sciences, Darmstadt"
+   role="ARR Editors In Chief"
+   site="https://scholar.google.de/citations?user=NSHuWowAAAAJ&hl=de"
+   picture="/assets/images/committee/Margot-Mieskes.jpg"
+%}
+
+{% include committee-member.html
+   name="Xiaodan Zhu"
+   institution="Queen's University"
+   role="ARR Editors In Chief"
+   site="https://www.xiaodanzhu.com/"
+   picture="/assets/images/committee/Xiaodan-Zhu.jpg"
+%}
+
+{% include committee-member.html
+   name="Sarvnaz Karimi"
+   institution="CSIRO"
+   role="ARR Editors In Chief"
+   site="https://www.linkedin.com/in/sarvnaz-karimi-64ab491/?originalSubdomain=au"
+   picture="/assets/images/committee/Sarvnaz-Karimi.jpg"
+%}
+
 <h2>Local Organizing Chairs</h2>
 {% include committee-member.html
    name="Pushpak Bhattacharyya"
@@ -440,69 +505,4 @@ sidebar:
    email="raj.saroj@iitb.ac.in"
    role="Website Chairs"
    picture="/assets/images/committee/Raj-Saroj.jpg"
-%}
-
-<h2>ARR Editors in Chief</h2>
-{% include committee-member.html
-   name="Vincent Ng"
-   institution="University of Texas at Dallas"
-   role="ARR Editors In Chief"
-   site="https://personal.utdallas.edu/~vince/"
-   picture="/assets/images/committee/Vincent-Ng.jpg"
-%}
-
-{% include committee-member.html
-   name="Anna Rogers"
-   institution="IT University of Copenhagen"
-   role="ARR Editors In Chief"
-   site="https://annargrs.github.io/"
-   picture="/assets/images/committee/Anna-Rogers.jpg"
-%}
-
-{% include committee-member.html
-   name="Jun Suzuki"
-   institution="Tohoku University"
-   role="ARR Editors In Chief"
-   site="https://aclrollingreview.org/organization#:~:text=University%20of%20Copenhagen-,Jun%20Suzuki,-Tohoku%20University"
-   picture="/assets/images/committee/Jun-Suzuki.jpg"
-%}
-
-{% include committee-member.html
-   name="Jing Jiang"
-   institution="Singapore Management University"
-   role="ARR Editors In Chief"
-   site="https://faculty.smu.edu.sg/profile/jing-jiang-636"
-   picture="/assets/images/committee/Jing-Jiang.jpg"
-%}
-
-{% include committee-member.html
-   name="Michael White"
-   institution="The Ohio State University"
-   role="ARR Editors In Chief"
-   site="https://u.osu.edu/white.1240/"
-   picture="/assets/images/committee/Michael-White.jpg"
-%}
-
-{% include committee-member.html
-   name="Margot Mieskes"
-   institution="University of Applied Sciences, Darmstadt"
-   role="ARR Editors In Chief"
-   site="https://scholar.google.de/citations?user=NSHuWowAAAAJ&hl=de"
-   picture="/assets/images/committee/Margot-Mieskes.jpg"
-%}
-
-{% include committee-member.html
-   name="Xiaodan Zhu"
-   institution="Queen's University"
-   role="ARR Editors In Chief"
-   site="https://www.xiaodanzhu.com/"
-   picture="/assets/images/committee/Xiaodan-Zhu.jpg"
-%}
-
-{% include committee-member.html
-   name="Sarvnaz Karimi"
-   institution="CSIRO"
-   role="ARR Editors In Chief"
-   site="https://www.linkedin.com/in/sarvnaz-karimi-64ab491/?originalSubdomain=au"
-   picture="/assets/images/committee/Sarvnaz-Karimi.jpg"
 %}
