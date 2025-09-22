@@ -8,56 +8,57 @@ toc_sticky: true
 toc_icon: "cog"
 toc_label: "&nbsp;Sponsorship Tier"
 
-diamond:
-  - url: https://machinelearning.apple.com
-    image_path: /assets/images/logos/apple-logo.png
-    alt: Apple
-    title: Apple
+# diamond:
+#   - url: https://machinelearning.apple.com
+#     image_path: /assets/images/logos/apple-logo.png
+#     alt: Apple
+#     title: Apple
 
-platinum:
-  - url: https://toloka.ai/
-    image_path: /assets/images/logos/tolokaai-logo.png
-    alt: Toloka AI
-    title: Toloka AI
-  - url: https://home.baidu.com/home/index
-    image_path: /assets/images/logos/baidu-logo.png
-    alt: Baidu
-    title: Baidu
+# platinum:
+#   - url: https://toloka.ai/
+#     image_path: /assets/images/logos/tolokaai-logo.png
+#     alt: Toloka AI
+#     title: Toloka AI
+#   - url: https://home.baidu.com/home/index
+#     image_path: /assets/images/logos/baidu-logo.png
+#     alt: Baidu
+#     title: Baidu
 
 gold:
-  - url: https://www.amazon.science/
-    image_path: /assets/images/logos/amazonscience-logo.png
-    alt: Amazon Science
-    title: Baidu
+  - url: https://research.google/
+    image_path: /assets/images/logos/google-logo.jpg
+    alt: Google
+    title: Google
 
-silver:
-  - url: https://research.adobe.com/
-    image_path: /assets/images/logos/adobe-logo.png
-    alt: Adobe
-    title: Adobe
-  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
-    image_path: /assets/images/logos/bloomberg-logo.png
-    alt: Bloomberg
-    title: Bloomberg
-  - url: https://www.appen.com/
-    image_path: /assets/images/logos/appen-logo.png
-    alt: Appen
-    title: Appen
+# silver:
+#   - url: https://research.adobe.com/
+#     image_path: /assets/images/logos/adobe-logo.png
+#     alt: Adobe
+#     title: Adobe
+#   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
+#     image_path: /assets/images/logos/bloomberg-logo.png
+#     alt: Bloomberg
+#     title: Bloomberg
+#   - url: https://www.appen.com/
+#     image_path: /assets/images/logos/appen-logo.png
+#     alt: Appen
+#     title: Appen
 
 bronze:
-  - url: https://translated.com/welcome
-    image_path: /assets/images/logos/translated-logo.png
-    alt: Translated
-    title: Translated
+  - url: https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering
+    image_path: /assets/images/logos/unsw-sydney-logo.jpg
+    alt: School of Computer Science and Engineering, UNSW Sydney
+    title: School of Computer Science and Engineering, UNSW Sydney
 
-di_ally:
-  - url: https://machinelearning.apple.com
-    image_path: /assets/images/logos/apple-logo.png
-    alt: Apple
-    title: Apple
+# di_ally:
+#   - url: https://machinelearning.apple.com
+#     image_path: /assets/images/logos/apple-logo.png
+#     alt: Apple
+#     title: Apple
 ---
 
-EMNLP 2025 invites you to sponsor the conference. If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202025%20conferences.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Joel Tetreault (<jtetreault@dataminr.com>) and Mengwen Liu (<mengwenliu09@gmail.com>). The deadline to sponsor EMNLP 2025 is Wednesday, September 10, 2025.
+IJCAI-AACL 2025 invites you to sponsor the conference. For any questions regarding sponsorship, please contact the sponsorship chairs: Aditya Joshi (<aditya.joshi@unsw.edu.au>), Manmeet Singh Kapoor (<manmeetsinghkapoor27@gmail.com>) and Sudipta Kar (<sudipta.kar.8080@gmail.com>). 
+<!-- The deadline to sponsor IJCAI-AACL 2025 is Wednesday, September 10, 2025. -->
 
 <style>
 .sponsors-list { justify-content: flex-start; }

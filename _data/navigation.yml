@@ -10,6 +10,9 @@ main:
   - title: "Committees"
     url: /organization
 
+  - title: "Sponsors"
+    url: /sponsors/
+
   # - title: "Blog"
   #   url: /blog/
 
