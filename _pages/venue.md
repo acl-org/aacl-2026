@@ -75,6 +75,12 @@ Booking Link: Coming Soon!
 - JW Marriott,  Mumbai International Airport Airport
 - The Lalit,  Mumbai International Airport
 
+**OYO Hotels/Rooms**
+
+Multiple locations within 1-6 km from campus
+- Various options available in Powai and nearby areas
+- Budget-friendly rates
+
 ## Travel to Venue
 
 ### From Airport
