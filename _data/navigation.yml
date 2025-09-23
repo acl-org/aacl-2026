@@ -13,8 +13,8 @@ main:
   - title: "Sponsors"
     url: /sponsors/
 
-  # - title: "Blog"
-  #   url: /blog/
+  - title: "Participants Info"
+    url: /venue/
 
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
@@ -62,11 +62,11 @@ committees:
       #  url: /committees/program/
 
 
-# participants:
-#   - title: "Participants Information"
-#     children:
-#       - title: "Invitation Letters"
-#         url: /participants/invitation_letters
+participants:
+  - title: "Participants Information"
+    children:
+      - title: "Venue"
+        url: /venue/
 #       - title: "Visa Requirements"
 #         url: /participants/visa_requirements
 #       - title: "Transportation"
