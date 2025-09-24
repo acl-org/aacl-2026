@@ -14,11 +14,11 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     alt: Apple
 #     title: Apple
 
-# platinum:
-#   - url: https://toloka.ai/
-#     image_path: /assets/images/logos/tolokaai-logo.png
-#     alt: Toloka AI
-#     title: Toloka AI
+platinum:
+  - url: https://www.e2enetworks.com/
+    image_path: /assets/images/logos/e2enetworks-logo.png
+    alt: E2E NETWORKS
+    title: E2E NETWORKS
 #   - url: https://home.baidu.com/home/index
 #     image_path: /assets/images/logos/baidu-logo.png
 #     alt: Baidu
@@ -83,11 +83,11 @@ IJCAI-AACL 2025 invites you to sponsor the conference. For any questions regardi
 <!-- 
 ## Diamond
 
-{% include sponsors-list id="diamond" layout="third" %}
+{% include sponsors-list id="diamond" layout="third" %} -->
 
 ## Platinum
 
-{% include sponsors-list id="platinum" layout="third" %} -->
+{% include sponsors-list id="platinum" layout="third" %} 
 
 ## Gold
 
