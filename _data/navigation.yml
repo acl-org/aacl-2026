@@ -58,8 +58,8 @@ committees:
     children:
       - title: "Organizing Committee"
         url: /organization/
-      #- title: "Senior Program Committee"
-      #  url: /committees/program/
+      - title: "Senior Area Chairs"
+        url: /committees/program/
 
 
 participants:

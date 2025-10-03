@@ -1,87 +1,594 @@
 ---
-title: Senior Program Committee
+title: Senior Area Chairs
 layout: single
-excerpt: "EMNLP 2024 senior program committee."
-permalink: /committees/program/
+excerpt: "AACL-IJCNLP 2025 Senior Area Chairs."
+permalink: /organization/program/
 sidebar:
-    nav: "committees"
+  nav: "committees"
 ---
-
-
 ### Computational Social Science and Cultural Analytics
-**SACs:** [Chenhao Tan](mailto:chenhao@uchicago.edu), [David Bamman](mailto:dbamman@berkeley.edu), [Svitlana Volkova](mailto:svolkova@aptima.com), [Tanmoy Chakraborty](mailto:chak.tanmoy.iit@gmail.com)
+
+{% include committee-member.html
+   name="Wei Gao"
+   picture="/assets/images/committee/senior_area_chairs/Wei-Gao.jpg"
+   institution="Singapore Management University"
+%}
+
+{% include committee-member.html
+   name="Steffen Eger"
+   picture="/assets/images/committee/senior_area_chairs/Steffen-Eger.jpg"
+   institution="Universität Mannheim"
+%}
+
+{% include committee-member.html
+   name="Nikos Aletras"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="University of Sheffield, Amazon"
+%}
 
 ### Dialogue and Interactive Systems
-**SACs:** [Larry P. Heck](mailto:larryheck@gatech.edu), [Luis Fernando D'Haro](mailto:luisfernando.dharo@upm.es), [Minlie Huang](mailto:aihuang@tsinghua.edu.cn), [Rebecca Passonneau](mailto:rjp49@psu.edu)
+
+{% include committee-member.html
+name="Koichiro Yoshino"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tokyo Institute of Technology and RIKEN"
+%}
+
+{% include committee-member.html
+name="Kallirroi Georgila"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Southern California, USC/ISI"
+%}
+
+{% include committee-member.html
+name="Ryuichiro Higashinaka"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Nagoya University"
+%}
+
+{% include committee-member.html
+name="David Traum"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Southern California"
+%}
 
 ### Discourse and Pragmatics
-**SACs:** [Malihe Alikhani](mailto:m.alikhani@northeastern.edu), [Vered Shwartz](mailto:vshwartz@cs.ubc.ca)
+
+{% include committee-member.html
+name="Farah Benamara"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Institut de recherche en informatique de toulouse"
+%}
+
+{% include committee-member.html
+name="Amir Zeldes"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Georgetown University"
+%}
+
+
+### Efficient/Low-Resource Methods for NLP
+
+{% include committee-member.html
+name="Min Yang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+%}
+
+{% include committee-member.html
+name="Jun-Hyung Park"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Korea University"
+%}
+
+{% include committee-member.html
+name="Mehdi Rezagholizadeh"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Huawei Technologies Ltd."
+%}
+
+{% include committee-member.html
+name="Kewei Tu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="ShanghaiTech University"
+%}
+
 
 ### Ethics, Bias, and Fairness
-**SACs:** [Malvina Nissim](mailto:m.nissim@rug.nl), [Monojit Choudhury](mailto:monojit.choudhury@mbzuai.ac.ae), [Natalie Schluter](mailto:natschluter@apple.com), [Kai-Wei Chang](mailto:kwchang@cs.ucla.edu)
+
+{% include committee-member.html
+name="Yue Dong"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of California, Riverside, McGill University"
+%}
+
+{% include committee-member.html
+name="Sunipa Dev"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Google"
+%}
+
+{% include committee-member.html
+name="Seunghun J. Lee"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="International Christian University"
+%}
+
 
 ### Generation
-**SACs:** [Mirella Lapata](mailto:mlap@inf.ed.ac.uk), [Naoaki Okazaki](mailto:okazaki@c.titech.ac.jp), [Sebastian Gehrmann](mailto:sgehrmann8@bloomberg.net), [Yangfeng Ji](mailto:yangfeng@virginia.edu)
 
-### Human-Centered NLP
-**SACs:** [David Mimno](mailto:mimno@cornell.edu), [Jeff Bigham](mailto:jbigham@cs.cmu.edu), [Marine Carpuat](mailto:marine@umd.edu)
+{% include committee-member.html
+name="Qipeng Guo"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Shanghai AI Laboratory"
+%}
+
+{% include committee-member.html
+name="Yue Zhang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Westlake University"
+%}
+
+{% include committee-member.html
+name="Pranava Madhyastha"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="City, University of London"
+%}
+
+
+### Human-centered NLP
+
+{% include committee-member.html
+name="Heriberto Cuayahuitl"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Lincoln"
+%}
+
+{% include committee-member.html
+name="Jing Ma"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Hong Kong Baptist University"
+%}
+
+{% include committee-member.html
+name="Pierre Lison"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Norwegian Computing Center"
+%}
+
 
 ### Information Extraction
-**SACs:** [Derry Tanti Wijaya](mailto:wijaya@bu.edu), [Lifu Huang](mailto:lifuh@vt.edu), [Ndapa Nakashole](mailto:nnakashole@ucsd.edu), [Ruihong Huang](mailto:huangrh@tamu.edu), [Scott Yih](mailto:scottyih@fb.com)
+
+{% include committee-member.html
+name="Aakanksha Naik"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Allen Institute for Artificial Intelligence, National Institutes of Health"
+%}
+
+{% include committee-member.html
+name="Francis Ferraro"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Maryland, Baltimore County"
+%}
+
+{% include committee-member.html
+name="Makoto Miwa"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Toyota Technological Institute"
+%}
+
 
 ### Information Retrieval and Text Mining
-**SACs:** [Luca Soldaini](mailto:luca@soldaini.net), [Pawan Goyal](mailto:pawang@cse.iitkgp.ac.in), [Wenhu Chen](mailto:wenhuchen@uwaterloo.ca)
 
-### Interpretability, Interactivity and Analysis of Models for NLP
-**SACs:** [Grzegorz Chrupala](mailto:grzegorz@chrupala.me), [Lingpeng Kong](mailto:lpk@cs.hku.hk), [Nadir Durrani](mailto:ndurrani@hbku.edu.qa), [Tal Linzen](mailto:linzen@nyu.edu), [Xiang Ren](mailto:xiangren@usc.edu), [Xuanjing Huang](mailto:xjhuang@fudan.edu.cn)
+{% include committee-member.html
+name="Yi Cai"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="South China University of Technology"
+%}
+
+{% include committee-member.html
+name="Pawan Goyal"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Indian Institute of Technology"
+%}
+
+{% include committee-member.html
+name="Yangqiu Song"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="The Hong Kong University of Science and Technology"
+%}
+
+
+
+### Interpretability and Analysis of Models for NLP
+
+{% include committee-member.html
+name="Qianying Liu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="NII, Tokyo Institute of Technology"
+%}
+
+{% include committee-member.html
+name="Hao Fei"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="National University of Singapore"
+%}
+
+{% include committee-member.html
+name="Nadir Durrani"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Qatar Computing Research Institute (QCRI) / Hamad bin Khalifa University (HBKU)"
+%}
+
+{% include committee-member.html
+name="Xiaojun Wan"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Peking University"
+%}
+
+{% include committee-member.html
+name="Meishan Zhang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Harbin Institute of Technology (Shenzhen)"
+%}
+
 
 ### Language Modeling
-**SACs:** [Anna Rumshisky](mailto:Anna_Rumshisky@uml.edu), [Nanyun Peng](mailto:violetpeng@cs.ucla.edu), [Swabha Swayamdipta](mailto:swabhas@usc.edu), [Tatsunori Hashimoto](mailto:thashim@stanford.edu)
 
-### Linguistic Theories, Cognitive Modeling and Psycholinguistics
-**SACs:** [Frank Keller](mailto:keller@inf.ed.ac.uk), [Najoung Kim](mailto:najoung@bu.edu)
+{% include committee-member.html
+name="Chris Brew"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Ohio State University, Columbus, Lexis Nexis"
+%}
 
-### Low-resource Methods for NLP
-**SACs:** [Kareem Darwish](mailto:Kareemdarwish@live.com), [Miryam De Lhoneux](mailto:miryam.delhoneux@kuleuven.be), [Shafiq Joty](mailto:sjoty@salesforce.com), [Wenpeng Yin](mailto:wenpeng@psu.edu), [Yue Dong](mailto:yue.dong@ucr.edu)
+{% include committee-member.html
+name="Deyi Xiong"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tianjin University"
+%}
+
+{% include committee-member.html
+name="Iacer Calixto"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Amsterdam UMC, University of Amsterdam"
+%}
+
+
+### Linguistic Theories, Cognitive Modeling, and Psycholinguistics
+
+{% include committee-member.html
+name="Ashutosh Modi"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Indian Institute of Technology Kanpur"
+%}
+
+{% include committee-member.html
+name="Emily Allaway"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Edinburgh"
+%}
+
+{% include committee-member.html
+name="Yohei Oseki"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Tokyo"
+%}
+
 
 ### Machine Learning for NLP
-**SACs:** [Gunhee Kim](mailto:gunhee@snu.ac.kr), [Partha Talukdar](mailto:partha@google.com), [Shashank Srivastava](mailto:ssrivastava@cs.unc.edu), [Taylor Berg-Kirkpatrick](mailto:tberg@ucsd.edu)
+
+{% include committee-member.html
+name="Chenghua Lin"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Manchester"
+%}
+
+{% include committee-member.html
+name="Shujian Huang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Nanjing University"
+%}
+
+{% include committee-member.html
+name="Nicola Cancedda"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Meta"
+%}
+
 
 ### Machine Translation
-**SACs:** [Alexander Fraser](mailto:fraser@cis.uni-muenchen.de), [Lei Li](mailto:leili@cs.cmu.edu), [Paco Guzmán](mailto:fguzman@fb.com)
 
-### Multilinguality and Language Diversity
-**SACs:** [Antonis Anastasopoulos](mailto:antonis@gmu.edu), [Manaal Faruqui](mailto:mfaruqui@google.com), [Steven Bird](mailto:steven.bird@cdu.edu.au), [Zornitsa Kozareva](mailto:zkozareva@gmail.com)
+{% include committee-member.html
+name="Jan Niehues"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Karlsruhe Institute for Technology (KIT)"
+%}
+
+{% include committee-member.html
+name="Zhaopeng Tu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tencent AI Lab"
+%}
+
+
+### Multilingualism and Cross-Lingual NLP
+
+{% include committee-member.html
+name="François Yvon"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Université Pierre et Marie Curie - Paris 6, Sorbonne Université - Faculté des Sciences (Paris VI)"
+%}
+
+{% include committee-member.html
+name="Lemao Liu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tencent"
+%}
+
+{% include committee-member.html
+name="Colin Cherry"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Google"
+%}
+
 
 ### Multimodality and Language Grounding to Vision, Robotics and Beyond
-**SACs:** [Gabriel Stanovsky](mailto:gabriel.stanovsky@mail.huji.ac.il), [Hao Tan](mailto:hatan@adobe.com), [Jack Hessel](mailto:jmhessel@gmail.com), [Jesse Thomason](mailto:jessetho@usc.edu), [Roma Patel](mailto:romapatel@deepmind.com), [Zhe Gan](mailto:z_gan@apple.com)
+
+{% include committee-member.html
+name="Hideki Nakayama"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="The University of Tokyo"
+%}
+
+{% include committee-member.html
+name="Liang Li"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Institute of Computing Technology, Chinese Academy of Sciences"
+%}
+
+{% include committee-member.html
+name="Carina Silberer"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Stuttgart, University of Stuttgart"
+%}
+
+{% include committee-member.html
+name="Wei Yang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="ByteDance Inc."
+%}
+
 
 ### NLP Applications
-**SACs:** [Avirup Sil](mailto:avi@us.ibm.com), [Gholamreza Haffari](mailto:gholamreza.haffari@monash.edu), [Gokhan Tur](mailto:gokhan@illinois.edu), [Joel Tetreault](mailto:jtetreault@dataminr.com), [Kevin Small](mailto:kevinsmall@gmail.com), [Makoto Miwa](mailto:makoto-miwa@toyota-ti.ac.jp), [Parisa Kordjamshidi](mailto:kordjams@msu.edu), [Roman Klinger](mailto:roman.klinger@uni-bamberg.de), [Sudha Rao](mailto:Sudha.Rao@microsoft.com), [Wei Lu](mailto:luwei@sutd.edu.sg)
 
-### Phonology, Morphology and Word Segmentation
-**SACs:** [Brian Roark](mailto:roark@google.com)
+{% include committee-member.html
+name="Feng Jiang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="The Chinese University of Hong Kong, Shenzhen"
+%}
+
+{% include committee-member.html
+name="Tianqing Fang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="The Hong Kong University of Science and Technology"
+%}
+
+{% include committee-member.html
+name="Xuebo Liu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Harbin Institute of Technology, Shenzhen"
+%}
+
+{% include committee-member.html
+name="Yang Feng"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Institute of Computing Technology, Chinese Academy of Sciences"
+%}
+
+{% include committee-member.html
+name="Ruihong Huang"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Texas A&M University"
+%}
+
+{% include committee-member.html
+name="Takehito Utsuro"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Tsukuba"
+%}
+
+{% include committee-member.html
+name="Tao Qi"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tsinghua University, Tsinghua University"
+%}
+
+{% include committee-member.html
+name="Jey Han Lau"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Melbourne"
+%}
+
+
+### Phonology, Morphology, and Word Segmentation
+
+{% include committee-member.html
+name="Cagri Coltekin"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Tuebingen"
+%}
+
+{% include committee-member.html
+name="Zoey Liu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Florida"
+%}
+
 
 ### Question Answering
-**SACs:** [Eunsol Choi](mailto:eunsol@utexas.edu), [Huan Sun](mailto:sun.397@osu.edu), [Mrinmaya Sachan](mailto:msachan@ethz.ch), [Siva Reddy](mailto:siva.reddy@mcgill.ca)
+
+{% include committee-member.html
+name="Yansong Feng"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Peking University"
+%}
+
+{% include committee-member.html
+name="Wenpeng Yin"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Pennsylvania State University"
+%}
+
+{% include committee-member.html
+name="Zhouhan Lin"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Shanghai Jiao Tong University"
+%}
+
+
 
 ### Resources and Evaluation
-**SACs:** [Adina Williams](mailto:adinawilliams@meta.com), [Alane Suhr](mailto:suhr@berkeley.edu), [Eduardo Blanco](mailto:eduardoblanco@arizona.edu), [Jimmy Lin](mailto:jimmylin@uwaterloo.ca), [Masayuki Asahara](mailto:masayu-a@ninjal.ac.jp), [Sujian Li](mailto:lisujian@pku.edu.cn), [Wei Xu](mailto:wei.xu@cc.gatech.edu), [Yue Zhang](mailto:yue.zhang@wias.org.cn), [Yufang Hou](mailto:bnuxiaofang@gmail.com)
 
-### Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.
-**SACs:** [Marianna Apidianaki](mailto:marapi@seas.upenn.edu), [Sujith Ravi](mailto:ravi.sujith@gmail.com)
+{% include committee-member.html
+name="Yunbo Cao"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tencent"
+%}
+
+{% include committee-member.html
+name="Nianwen Xue"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Brandeis University"
+%}
+
+{% include committee-member.html
+name="Jinsong Su"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Xiamen University"
+%}
+
+{% include committee-member.html
+name="Joel R. Tetreault"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Dataminr"
+%}
+
+{% include committee-member.html
+name="Daisuke Kawahara"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Waseda University"
+%}
+
+{% include committee-member.html
+name="Ruifeng Xu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Harbin Institute of Technology at Shenzhen"
+%}
+
+{% include committee-member.html
+name="Hou Pong Chan"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Alibaba DAMO Academy"
+%}
+
+{% include committee-member.html
+name="Baotian Hu"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Harbin Institute of Technology (Shenzhen)"
+%}
+
+
+### Semantics: Lexical and Sentence-Level
+
+{% include committee-member.html
+name="Preslav Nakov"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+%}
+
+{% include committee-member.html
+name="Steven Schockaert"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Cardiff University"
+%}
+
 
 ### Sentiment Analysis, Stylistic Analysis, and Argument Mining
-**SACs:** [Saif Mohammad](mailto:uvgotsaif@gmail.com), [Veronique Hoste](mailto:veronique.hoste@ugent.be), [Zhongyu Wei](mailto:zywei@fudan.edu.cn)
 
-### Special Theme: Efficiency in Model Algorithms, Training, and Inference
-**SACs:** [Emma Strubell](mailto:strubell@cmu.edu), [Nafise Sadat Moosavi](mailto:N.S.Moosavi@sheffield.ac.uk), [Sara Hooker](mailto:sarahooker@cohere.com)
+{% include committee-member.html
+name="Saif Mohammad"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="National Research Council Canada"
+%}
 
-### Speech Processing and Spoken Language Understanding
-**SACs:** [Julia Hirschberg](mailto:julia@cs.columbia.edu), [Preethi Jyothi](mailto:pjyothi@cse.iitb.ac.in)
+{% include committee-member.html
+name="Zhongyu Wei"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Fudan University"
+%}
+
+
+### Special Theme: Advanced Reasoning and Chain-of-Thought in Language Model
+
+{% include committee-member.html
+name="Naoya Inoue"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Japan Advanced Institute of Science and Technology (JAIST) / RIKEN AIP"
+%}
+
+{% include committee-member.html
+name="Wasi Uddin Ahmad"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="NVIDIA"
+%}
+
+
+### Speech Recognition, Text-to-Speech and Spoken Language Understanding
+
+{% include committee-member.html
+name="Brian Roark"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Google"
+%}
+
+{% include committee-member.html
+name="Tong Xiao"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Northeastern University"
+%}
+
+{% include committee-member.html
+name="Kehai Chen"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Harbin Institute of Technology (Shenzhen)"
+%}
+
 
 ### Summarization
-**SACs:** [Ramakanth Pasunuru](mailto:rpasunuru@meta.com), [Xiaojun Wan](mailto:wanxiaojun@pku.edu.cn)
 
-### Syntax, Parsing and their Applications
-**SACs:** [Lingpeng Kong](mailto:lpk@cs.hku.hk), [Najoung Kim](mailto:najoung@bu.edu)
+{% include committee-member.html
+name="Naoaki Okazak"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Tokyo Institute of Technology"
+%}
+
+{% include committee-member.html
+name="Junyi Jessy Li"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="University of Texas, Austin"
+%}
+
+
+### Syntax: Tagging, Chunking and Parsing
+
+{% include committee-member.html
+name="Lingpeng Kong"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Department of Computer Science, The University of Hong Kong"
+%}
+
+{% include committee-member.html
+name="David Vilares"
+picture="/assets/images/committee/senior_area_chairs/test.png"
+institution="Universidade da Coruña"
+%}
