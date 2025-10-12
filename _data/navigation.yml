@@ -33,6 +33,8 @@ program:
     children:
       - title: "Workshops"
         url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
 
 calls:
   - title: "Call for"
