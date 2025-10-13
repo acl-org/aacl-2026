@@ -25,7 +25,7 @@ W4. **[The 1st Workshop on Human–LLM Collaboration for Ethical and Responsible
 
 W5. **[CHOMPS – Confabulation, Hallucinations, & Overgeneration in Multilingual & Precision-critical Settings](https://chomps2025.github.io/)** 
 * Organizers: Aman Sinha, Timothee Mickus, Raul Vazquez, Ioana Buhnila, Rohit Agarwal, Patricia Schmidtova, Jörg Tiedmann, Dilip K. Prasad, Federica Gamba, Laura Zanella and Sai Asrith Devisetti
-* Date: Wed, Dec 24
+* Date: Tue, Dec 23
 
 W6. **[The 12th Workshop on Asian Translation (WAT2025)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/)** 
 * Organizers: Toshiaki Nakazawa, Isao Goto, Hidaya Mino, Naoto Shirai, Chenhui Chu, Haiyue Song, Raj Dabre, Shohei Higashiyama, Anoop Kunchookuttan, Shantipriya Parida, Ondřej Bojar, Katsuhito Sudoh, Masaaki Nagata, Sadao Kurohashi and Pushpak Bhattacharyya

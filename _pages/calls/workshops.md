@@ -30,7 +30,7 @@ Here is a list of workshops in IJCNLP-AACL 2025.
 | 23rd Dec | Eval4NLP | [Fifth Workshop on Evaluation & Comparison of NLP Systems (Eval4NLP)](https://eval4nlp.github.io/2025/index.html) |
 | 24th Dec | QuantumNLP | [QuantumNLP: Integrating Quantum Computing with Natural Language Processing](http://qnlp.in/) |
 | 23rd Dec | SciProdLLM | [The 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production](https://sciprodllm.github.io/2025/) |
-| 24th Dec | CHOMPS | [CHOMPS – Confabulation, Hallucinations, & Overgeneration in Multilingual & Precision-critical Settings](https://chomps2025.github.io/) |
+| 23rd Dec | CHOMPS | [CHOMPS – Confabulation, Hallucinations, & Overgeneration in Multilingual & Precision-critical Settings](https://chomps2025.github.io/) |
 | 24th Dec | WAT | [The 12th Workshop on Asian Translation (WAT2025)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/) |
 | 23rd Dec | WASP | [Third Workshop on Artificial intelligence for Scientific Publications (WASP)](https://ui.adsabs.harvard.edu/WIESP/2025/) |
 | 23rd Dec | MMLoSo | [Multimodal Models for Low-Resource Contexts and Social Impact](https://mmloso-workshop.github.io/) |
