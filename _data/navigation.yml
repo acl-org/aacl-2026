@@ -5,7 +5,7 @@ main:
     url: /calls/main_conference_papers/
 
   - title: "Program"
-    url: /program/workshops/
+    url: /program/
 
   - title: "Committees"
     url: /organization
