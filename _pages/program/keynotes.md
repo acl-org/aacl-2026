@@ -18,9 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Saturday, December 20th, 09:00 - 10:00 
 
-<img src="https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/kurohashi.jpg"
-height="180" 
-style="display: block; margin: 0 auto;">
+<img src="https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/kurohashi.jpg" style="height: 150px; display: block; margin: 0 auto;">
 
 ### Sadao Kurohashi, Kyoto University, In-Person Keynote
 
@@ -30,9 +28,7 @@ TBC
 
 ## Sunday, December 21st, 09:00 - 10:00
 
-<img src="https://cs.stanford.edu/~diyiy/img/Diyi_Yang.jp"
-height="180"
-style="display: block; margin: 0 auto;">
+<img src="https://cs.stanford.edu/~diyiy/img/Diyi_Yang.jpg" style="height: 150px; display: block; margin: 0 auto;">
 
 ### Diyi Yang, Stanford University, Remote Keynote
 
@@ -42,9 +38,7 @@ TBC
 
 ## Monday, December 22nd, 09:00 - 10:00
 
-<img src="https://chenghua-lin.github.io/assets/img/p_chenghua.png"
-height="180"
-style="display: block; margin: 0 auto;">
+<img src="https://chenghua-lin.github.io/assets/img/p_chenghua.png" style="height: 150px; display: block; margin: 0 auto;">
 
 ### Chenghua Lin, Manchester University, In-Person Keynote
 
