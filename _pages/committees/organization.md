@@ -313,6 +313,14 @@ sidebar:
    site="https://www.som.iitb.ac.in/dr-piyush-pandey/"
    picture="/assets/images/committee/Piyush-Pandey.jpg"
 %}
+{% include committee-member.html
+   name="Mitesh M. Khapra"
+   institution="IIT Madras"
+   email="miteshk@cse.iitm.ac.in"
+   role="Finance Chairs"
+   site="https://www.cse.iitm.ac.in/~miteshk/"
+   picture="https://www.cse.iitm.ac.in/~miteshk/fac.jpg"
+%}
 
 <h2>Diversity & Inclusion Chairs</h2>
 {% include committee-member.html
