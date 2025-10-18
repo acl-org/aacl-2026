@@ -117,6 +117,16 @@ sidebar:
    site="https://www.cse.iitb.ac.in/~pb/"
    picture="/assets/images/committee/Pushpak-Bhattacharya.jpg"
 %}
+
+{% include committee-member.html
+   name="Biplab Banerjee"
+   institution="IIT Bombay"
+   email="bbanerjee@iitb.ac.in"
+   role="Local Organizing Chairs"
+   site="https://biplab-banerjee.github.io/"
+   picture="/assets/images/committee/Biplab-Banerjee.jpg"
+%}
+
 {% include committee-member.html
    name="Asif Ekbal"
    institution="IIT Jodhpur"
@@ -287,14 +297,6 @@ sidebar:
 
 
 <h2>Finance Chairs</h2>
-{% include committee-member.html
-   name="Biplab Banerjee"
-   institution="IIT Bombay"
-   email="bbanerjee@iitb.ac.in"
-   role="Finance Chairs"
-   site="https://biplab-banerjee.github.io/"
-   picture="/assets/images/committee/Biplab-Banerjee.jpg"
-%}
 {% include committee-member.html
    name="Dipti Misra Sharma"
    institution="IIIT Hyderabad"
