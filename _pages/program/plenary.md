@@ -30,7 +30,7 @@ TBC
 
 <img src="https://media.licdn.com/dms/image/v2/C5603AQGo40X_WZMu1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1619533755916?e=1762387200&v=beta&t=vNOYQa1gyJzTTyj8sGAmCcMYNVicIRFKdzet2K9Ee1w" style="height: 150px; display: block; margin: 0 auto;">
 
-### Milena Haykowska, Clear Global / Translators without Borders,
+### Milena Haykowska, Clear Global / Translators without Borders, In-Person Plenary Talk
 
 **Abstract**
 

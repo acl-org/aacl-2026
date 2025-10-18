@@ -17,8 +17,8 @@ toc_icon: "cog"
 ### SATURDAY, DECEMBER 20TH
 
 | Time               | Activity                |
-| ------------------ | ----------------------- |
-| 08:00 - 08:30      | Registration (All-Day)  |
+| ------------------ | :---------------------: |
+| 08:00 - 20:00      | Registration (All-Day)  |
 | 08:30 - 09:00      | Opening Session         |
 | 09:00 - 10:00      | Keynote Speaker 1       |
 | 10:00 - 10:30      | Coffee break            |
@@ -34,7 +34,7 @@ toc_icon: "cog"
 ### SUNDAY, DECEMBER 21ST
  
 | Time               | Activity                |
-| ------------------ | ----------------------- |
+| ------------------ | :---------------------: |
 | 08:00 - 21:30      | Registration (All-Day)  |
 | 09:00 - 10:00      | Keynote Speaker 2       |
 | 10:00 - 10:30      | Coffee break            |
@@ -44,13 +44,14 @@ toc_icon: "cog"
 | 14:00 - 15:30      | Parallel Session 5      |
 | 15:30 - 16:00      | Coffee break            |
 | 16:00 - 17:30      | Parallel Session 6      |
+| 17:30 - 19:00      | Free time               |
 | 19:00 - 21:30      | Conference Banquet      |
  
 ### MONDAY, DECEMBER 22ND
 
 | Time               | Activity              |
-| ------------------ | --------------------- |
-| 08:00 - 16:30      | Registration (All-Day)|
+| ------------------ | :-------------------: |
+| 08:00 - 17:00      | Registration (All-Day)|
 | 09:00 - 10:00      | Keynote Speaker 3     |
 | 10:00 - 10:30      | Coffee break          |
 | 10:30 - 12:00      | Parallel Session 7    |
@@ -64,7 +65,7 @@ toc_icon: "cog"
 
 | Time               | Activity             |
 | ------------------ | -------------------- |
-| 08:00 - 09:00      | Registration all day |
+| 08:00 - 17:30      | Registration (All-Day)|
 | 09:00 - 10:30      | Tutorial             |
 | 10:30 - 11:00      | Coffee break         |
 | 11:00 - 12:30      | Tutorial             |
@@ -77,7 +78,7 @@ toc_icon: "cog"
 
 | Time               | Activity             |
 | ------------------ | -------------------- |
-| 08:00 - 09:00      | Registration all day |
+| 08:00 - 17:30      | Registration (All-Day)|
 | 09:00 - 10:30      | Tutorial             |
 | 10:30 - 11:00      | Coffee break         |
 | 11:00 - 12:30      | Tutorial             |
