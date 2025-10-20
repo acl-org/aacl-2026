@@ -49,8 +49,8 @@ calls:
     children:
       #- title: "Diversity & Inclusion Subsidies"
       #  url: /calls/subsidies/
-      # - title: "Volunteers"
-      #   url: /volunteers 
+      - title: "Volunteers"
+        url: /calls/volunteers/ 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
       - title: "Workshops"
