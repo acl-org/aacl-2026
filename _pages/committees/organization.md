@@ -43,23 +43,6 @@ sidebar:
    picture="/assets/images/committee/Derek-F-Wong.jpg"
 %}
 
-<h2>ARR Editors in Chief</h2>
-{% include committee-member.html
-   name="Vincent Ng"
-   institution="University of Texas at Dallas"
-   role="ARR Editors In Chief"
-   site="https://personal.utdallas.edu/~vince/"
-   picture="/assets/images/committee/Vincent-Ng.jpg"
-%}
-
-{% include committee-member.html
-   name="Anna Rogers"
-   institution="IT University of Copenhagen"
-   role="ARR Editors In Chief"
-   site="https://annargrs.github.io/"
-   picture="/assets/images/committee/Anna-Rogers.jpg"
-%}
-
 <h2>Local Organizing Chairs</h2>
 {% include committee-member.html
    name="Pushpak Bhattacharyya"
@@ -467,4 +450,21 @@ sidebar:
    email="raj.saroj@iitb.ac.in"
    role="Website Chairs"
    picture="/assets/images/committee/Raj-Saroj.jpg"
+%}
+
+<h2>ARR Editors in Chief</h2>
+{% include committee-member.html
+   name="Vincent Ng"
+   institution="University of Texas at Dallas"
+   role="ARR Editors In Chief"
+   site="https://personal.utdallas.edu/~vince/"
+   picture="/assets/images/committee/Vincent-Ng.jpg"
+%}
+
+{% include committee-member.html
+   name="Anna Rogers"
+   institution="IT University of Copenhagen"
+   role="ARR Editors In Chief"
+   site="https://annargrs.github.io/"
+   picture="/assets/images/committee/Anna-Rogers.jpg"
 %}
