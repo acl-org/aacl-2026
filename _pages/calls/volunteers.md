@@ -37,8 +37,8 @@ Being a volunteer awards you a complimentary registration solely for IJCNLP-AACL
 <!-- If you require further financial assistance for lodging, airfare, or daily expenses, it’s advisable to apply for Diversity and Inclusion Subsidies. You have the liberty to seek both a Volunteer subsidy and a D&I subsidy simultaneously, as there are no restrictions against receiving both. To review the criteria for D&I Subsidies, please refer to the Call for D&I Post, which includes selection criteria. -->
 
 ## Important Dates
-- Application Opens: October 11, 2025
-- Application Deadline: November 11, 2025 (23:59 Anywhere on Earth)
+- Application Opens: October 20, 2025
+- Application Deadline: November 20, 2025 (23:59 Anywhere on Earth)
 - Acceptance Notifications: November 27, 2025 (23:59 Anywhere on Earth)
 
 ## Contact Details
