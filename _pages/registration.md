@@ -41,17 +41,17 @@ These tiers help balance costs — ensuring that the direct expenses of presenta
   - Designed to encourage active student participation in the conference
 
 #### Registration Options
-| Category                                                  | Description                                                                   |
-|-----------------------------------------------------------|-------------------------------------------------------------------------------|
-| Full-conference Registering Paper - Academic              | In-person Full conference participation.                                      |
-| Full-conference Registering Paper - Industry/Non-Academic | In-person Full conference participation.                                      |
-| Full-conference Registering Paper - Student               | In-person Full conference participation.                                      |
-| Full-conference - Academic                                | In-person Full Conference participation. Paper presentations are not covered. |
-| Full-conference - Industry / Non-Academic                 | In-person Full Conference participation. Paper presentations are not covered. |
-| Full-conference  - Student                                | In-person Full Conference participation. Paper presentations are not covered. |
-| Virtual - Full-conference - Academic                      | Virtual participation.                                                        |
-| Virtual - Full-conference - Industry / Non-Academic       | Virtual participation.                                                        |
-| Virtual - Full-conference - Student                       | Virtual participation.                                                        |
+| **Category** | **Description** |
+|---------------|-----------------|
+| Full-conference Registering Paper - Academic | In-person Full conference participation. |
+| Full-conference Registering Paper - Industry/Non-Academic | In-person Full conference participation. |
+| Full-conference Registering Paper - Student | In-person Full conference participation. |
+| Full-conference - Academic | In-person Full Conference participation. Paper presentations are not covered. |
+| Full-conference - Industry/Non-Academic | In-person Full Conference participation. Paper presentations are not covered. |
+| Full-conference - Student | In-person Full Conference participation. Paper presentations are not covered. |
+| Virtual - Full-conference - Academic | Virtual participation. |
+| Virtual - Full-conference - Industry/Non-Academic | Virtual participation. |
+| Virtual - Full-conference - Student | Virtual participation. |
 
 ### Invited Speakers
 Invited speakers will receive a registration code. Additional invited speakers must register as attendees. ACL membership is not included.
