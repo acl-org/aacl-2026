@@ -41,6 +41,7 @@ These tiers help balance costs — ensuring that the direct expenses of presenta
   - Designed to encourage active student participation in the conference
 
 #### Registration Options
+
 | **Category** | **Description** |
 |---------------|-----------------|
 | Full-conference Registering Paper - Academic | In-person Full conference participation. |
@@ -52,6 +53,7 @@ These tiers help balance costs — ensuring that the direct expenses of presenta
 | Virtual - Full-conference - Academic | Virtual participation. |
 | Virtual - Full-conference - Industry/Non-Academic | Virtual participation. |
 | Virtual - Full-conference - Student | Virtual participation. |
+
 
 ### Invited Speakers
 Invited speakers will receive a registration code. Additional invited speakers must register as attendees. ACL membership is not included.
