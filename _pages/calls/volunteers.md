@@ -33,8 +33,7 @@ Upon acceptance, you’ll receive a dedicated registration link. Additionally, a
 **In the event of non-acceptance, the Registrar will assist in securing early registration fee rates.** For late volunteer registration reimbursements, students need to provide receipts for paid registration fees to the IJCNLP-AACL 2025 Reimbursement Link which will be provided to you by the Volunteer Chairs.
 
 ## Financial Support
-Being a volunteer awards you a complimentary registration solely for IJCNLP-AACL 2025. 
-<!-- If you require further financial assistance for lodging, airfare, or daily expenses, it’s advisable to apply for Diversity and Inclusion Subsidies. You have the liberty to seek both a Volunteer subsidy and a D&I subsidy simultaneously, as there are no restrictions against receiving both. To review the criteria for D&I Subsidies, please refer to the Call for D&I Post, which includes selection criteria. -->
+Being a volunteer awards you a complimentary registration solely for IJCNLP-AACL 2025. If you require further financial assistance for lodging, airfare, or daily expenses, it’s advisable to apply for Diversity and Inclusion Subsidies. You have the liberty to seek both a Volunteer subsidy and a D&I subsidy simultaneously, as there are no restrictions against receiving both. To review the criteria for D&I Subsidies, please refer to the Call for D&I Post, which includes selection criteria.
 
 ## Important Dates
 - Application Opens: October 20, 2025

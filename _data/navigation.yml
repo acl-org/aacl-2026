@@ -7,14 +7,17 @@ main:
   - title: "Program"
     url: /program/
 
+  - title: "Registrations"
+    url: /registration/
+
+  - title: "Participants Info"
+    url: /venue
+
   - title: "Committees"
     url: /organization
 
   - title: "Sponsors"
     url: /sponsors/
-
-  - title: "Participants Info"
-    url: /venue
 
   # - title: "Proceedings"
   #   url: "https://aclanthology.org/events/emnlp-2022/"
