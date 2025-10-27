@@ -54,6 +54,9 @@ These tiers help balance costs — ensuring that the direct expenses of presenta
 | Virtual - Full-conference - Industry/Non-Academic | Virtual participation. |
 | Virtual - Full-conference - Student | Virtual participation. |
 
+### Authors Registration Details
+- **Policy**: At least one author per accepted paper must register for presentation.
+- **Coverage**: One registration can cover multiple papers by the same author.
 
 ### Invited Speakers
 Invited speakers will receive a registration code. Additional invited speakers must register as attendees. ACL membership is not included.
@@ -95,6 +98,9 @@ Invited speakers will receive a registration code. Additional invited speakers m
 | IP - Full Conference - Academic | 550 | 650 | 750 |
 | IP - Full Conference - Industry/Non-Academic | 650 | 750 | 850 |
 | IP - Full Conference - Student | 300 | 400 | 500 |
+| V - Full Conference - Registering Paper - Academic | 400 | 500 | 600 |
+| V - Full Conference - Registering Paper (Industry/Non-Academic) | 450 | 550 | 650 |
+| V - Full Conference - Registering Paper (Student) | 300 | 325 | 350 |
 | V - Full Conference - Academic (Virtual) | 300 | 400 | 500 |
 | V - Full Conference - Industry/Non-Academic (Virtual) | 350 | 450 | 550 |
 | V - Full Conference - Student (Virtual) | 200 | 225 | 250 |
