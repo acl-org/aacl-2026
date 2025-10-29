@@ -9,7 +9,7 @@ sidebar:
     nav: registration
 ---
 
-**Conference Dates**: December 20–24, 2025
+**Conference Dates**: December 20 – 24, 2025
 
 **Registration Link**: [https://www.cfilt.iitb.ac.in/ijcnlp-aacl](https://www.cfilt.iitb.ac.in/ijcnlp-aacl)
 
@@ -19,9 +19,11 @@ We offer early and late rates to encourage early registrations. This helps us es
 
 - **Early Registration (Non-Presenters)**: Starts October 25, 2025 (GMT +5:30) 
 - **Early Registration**: Ends November 30, 2025, 23:59 (GMT +5:30) 
-- **Regular Registration**: Dec 19, 2025, 23:59 (GMT +5:30)
-- **On-site Registration**: Dec 20 - 24, 2025. See on-site registration times (GMT +5:30)
+- **Regular Registration**: Ends for In-Person and Virtual: Dec 19, 2025, 23:59 (GMT +5:30)
+- **On-site Registration**: Will open for In-Person and Virtual during Dec 20-24. See onsite registration times (GMT +5:30)
 
+### Registration and Attendance 
+To be included in the IJCNLP-AACL 2025 Proceedings, at least one author for each accepted paper must be registered by the Early Registration Deadline of November 30. Follow this link to register: https://www.cfilt.iitb.ac.in/ijcnlp-aacl. Only Findings papers that will be presented require at least one author to register. For Findings papers that are not being presented, this registration is not required, and the paper will still be included in the conference proceedings and the ACL Anthology.
 
 ### Registration Tiers
 
@@ -140,3 +142,16 @@ Cancellations up to three weeks before the conference (December 01, 2025) will b
 
 **Exceptions:**
 - Allowed the conversion of in-person registration to virtual and the difference shall be refunded as per the past AACL policy.
+
+
+## Contact Information
+
+**Registration Chairs:**
+
+- [Gajanan Krishna Rane](https://scholar.google.co.in/citations?user=y1lHbmMAAAAJ&hl=en), IIT Bombay
+- [Md Shad Akhtar](https://www.iiitd.ac.in/shad), IIIT Delhi
+
+For questions about registration details, please contact the registration chairs via the following emails: 
+
+- Gajanan Krishna Rane: [gkrane79@gmail.com](mailto:gkrane79@gmail.com)
+- Md Shad Akhtar: [shad.akhtar@iiitd.ac.in](mailto:shad.akhtar@iiitd.ac.in)
