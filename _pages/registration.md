@@ -23,7 +23,7 @@ We offer early and late rates to encourage early registrations. This helps us es
 - **On-site Registration**: Will open for In-Person and Virtual during Dec 20-24. See onsite registration times (GMT +5:30)
 
 ### Registration and Attendance 
-To be included in the IJCNLP-AACL 2025 Proceedings, at least one author for each accepted paper must be registered by the Early Registration Deadline of November 30. Follow this link to register: https://www.cfilt.iitb.ac.in/ijcnlp-aacl. Only Findings papers that will be presented require at least one author to register. For Findings papers that are not being presented, this registration is not required, and the paper will still be included in the conference proceedings and the ACL Anthology.
+To be included in the IJCNLP-AACL 2025 Proceedings, at least one author for each accepted paper must be registered by the Early Registration Deadline of November 30. Follow this link to register: [https://www.cfilt.iitb.ac.in/ijcnlp-aacl](https://www.cfilt.iitb.ac.in/ijcnlp-aacl). Only Findings papers that will be presented require at least one author to register. For Findings papers that are not being presented, this registration is not required, and the paper will still be included in the conference proceedings and the ACL Anthology.
 
 ### Registration Tiers
 
