@@ -102,12 +102,12 @@ Invited speakers will receive a registration code. Additional invited speakers m
 | IP - Full Conference - Academic | 550 | 650 | 750 |
 | IP - Full Conference - Industry/Non-Academic | 650 | 750 | 850 |
 | IP - Full Conference - Student | 300 | 400 | 500 |
-| V - Full Conference - Registering Paper - Academic | 400 | 500 | 600 |
-| V - Full Conference - Registering Paper (Industry/Non-Academic) | 450 | 550 | 650 |
-| V - Full Conference - Registering Paper (Student) | 300 | 325 | 350 |
-| V - Full Conference - Academic (Virtual) | 300 | 400 | 500 |
-| V - Full Conference - Industry/Non-Academic (Virtual) | 350 | 450 | 550 |
-| V - Full Conference - Student (Virtual) | 200 | 225 | 250 |
+| V - Full Conference - Registering Paper Academic (Virtual) | 400 | 500 | NA |
+| V - Full Conference - Registering Paper Industry/Non-Academic (Virtual) | 450 | 550 | NA |
+| V - Full Conference - Registering Paper Student (Virtual) | 300 | 325 | NA |
+| V - Full Conference - Academic (Virtual) | 300 | 400 | NA |
+| V - Full Conference - Industry/Non-Academic (Virtual) | 350 | 450 | NA |
+| V - Full Conference - Student (Virtual) | 200 | 225 | NA |
 
 #### Registration Rates for Workshops/Tutorial-Only
 
@@ -121,9 +121,12 @@ Invited speakers will receive a registration code. Additional invited speakers m
 | IP - Workshop/Tutorials only - Academic | 330 | 390 | 450 |
 | IP - Workshop/Tutorials only - Industry/Non-Academic | 390 | 450 | 510 |
 | IP - Workshop/Tutorials only - Student | 180 | 240 | 300 |
-| V - Workshop/Tutorials only - Academic (Virtual) | 180 | 240 | 300 |
-| V - Workshop/Tutorials only - Industry/Non-Academic (Virtual) | 210 | 270 | 330 |
-| V - Workshop/Tutorials only - Student (Virtual) | 120 | 135 | 150 |
+| V - Workshop/Tutorials only - Registering Paper - Academic (Virtual) | 250 | 300 | NA |
+| V - Workshop/Tutorials only - Registering Paper - Industry/Non-Academic (Virtual) | 300 | 350 | NA |
+| V - Workshop/Tutorials only - Registering Paper - Student (Virtual) | 150 | 200 | NA |
+| V - Workshop/Tutorials only - Academic (Virtual) | 180 | 240 | NA |
+| V - Workshop/Tutorials only - Industry/Non-Academic (Virtual) | 210 | 270 | NA |
+| V - Workshop/Tutorials only - Student (Virtual) | 120 | 135 | NA |
 
 ### Membership Policy 
 
