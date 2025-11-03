@@ -92,16 +92,16 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 #### Registration Rates for Full Conference
 
-| **Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **On-site (In USD)** |
-|----------------|------------|-----------|------------|
 | **Start Date** | 10-Nov-25 (GMT +5:30) | 1-Dec-25 (GMT +5:30) | 20-Dec-25 (GMT +5:30)|
 | **End Date**   | 30-Nov-25 (GMT +5:30) | 19-Dec-25 (GMT +5:30) | 24-Dec-25 (GMT +5:30) |
+| **IP Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **On-site (In USD)** |
 | IP - Full Conference - Registering Paper - Academic | 650 | 750 | 850 |
 | IP - Full Conference - Registering Paper (Industry/Non-Academic) | 750 | 850 | 950 |
 | IP - Full Conference - Registering Paper (Student) | 400 | 500 | 600 |
 | IP - Full Conference - Academic | 550 | 650 | 750 |
 | IP - Full Conference - Industry/Non-Academic | 650 | 750 | 850 |
 | IP - Full Conference - Student | 300 | 400 | 500 |
+| **V Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **Very late Registration (In USD) - During Conference** |
 | V - Full Conference - Registering Paper Academic (Virtual) | 400 | 500 | NA |
 | V - Full Conference - Registering Paper Industry/Non-Academic (Virtual) | 450 | 550 | NA |
 | V - Full Conference - Registering Paper Student (Virtual) | 300 | 325 | NA |
@@ -111,16 +111,16 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 #### Registration Rates for Workshops/Tutorial-Only
 
-| **Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **On-site (In USD)** |
-|----------------|------------|-----------|------------|
 | **Start Date** | 10-Nov-25 (GMT +5:30) | 1-Dec-25 (GMT +5:30) | 20-Dec-25 (GMT +5:30)|
 | **End Date**   | 30-Nov-25 (GMT +5:30) | 19-Dec-25 (GMT +5:30) | 24-Dec-25 (GMT +5:30) |
+| **IP Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **On-site (In USD)** |
 | IP - Workshop/Tutorials only - Registering Paper - Academic | 390 | 450 | 510 |
 | IP - Workshop/Tutorials only - Registering Paper - Industry/Non-Academic | 450 | 510 | 570 |
 | IP - Workshop/Tutorials only - Registering Paper - Student | 240 | 300 | 360 |
 | IP - Workshop/Tutorials only - Academic | 330 | 390 | 450 |
 | IP - Workshop/Tutorials only - Industry/Non-Academic | 390 | 450 | 510 |
 | IP - Workshop/Tutorials only - Student | 180 | 240 | 300 |
+| **V Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **Very Late Registration (In USD) - During Conference** |
 | V - Workshop/Tutorials only - Registering Paper - Academic (Virtual) | 250 | 300 | NA |
 | V - Workshop/Tutorials only - Registering Paper - Industry/Non-Academic (Virtual) | 300 | 350 | NA |
 | V - Workshop/Tutorials only - Registering Paper - Student (Virtual) | 150 | 200 | NA |
