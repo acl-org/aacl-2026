@@ -50,8 +50,6 @@ program:
 calls:
   - title: "Call for"
     children:
-      - title: "Diversity & Inclusion Subsidies"
-        url: /calls/subsidies/
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
       - title: "Workshops"
@@ -64,6 +62,8 @@ calls:
         url: /calls/srw/
       - title: "Volunteers"
         url: /calls/volunteers/ 
+      - title: "Diversity & Inclusion Subsidies"
+        url: /calls/subsidies/
 
 
 committees:

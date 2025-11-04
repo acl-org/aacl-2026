@@ -14,7 +14,8 @@ We're excited to announce the Diversity and Inclusion initiatives for **IJCNLP-A
 
 ## D&I Subsidy Program
 
-**Apply by November 14, 2025 | Notifications by November 24, 2025**
+- **Application Deadline**: November 14, 2025
+- **Notifications**: November 24, 2025
 
 We're offering subsidies to support participation from researchers facing financial barriers, particularly those from developing countries, underrepresented communities, and students. Available subsidies include:
 - **Registration fee waivers** for conference attendance
@@ -30,7 +31,7 @@ We're offering subsidies to support participation from researchers facing financ
 **Application tips:** Clearly justify your need (e.g., "I have an accepted paper but my institution cannot fund registration fees" or "As a first-time attendee from [country], I lack travel funding"). **Do not register until you receive notification—early bird registration ends November 30, 2025.**
 
 
-Apply here - https://tinyurl.com/ijcnlp-aacl-2025-di
+Apply here - [https://tinyurl.com/ijcnlp-aacl-2025-di](https://tinyurl.com/ijcnlp-aacl-2025-di)
 
 
 ## Mentorship Program
