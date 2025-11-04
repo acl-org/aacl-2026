@@ -1,5 +1,5 @@
 ---
-title: 
+title: Call for Student Research Workshops
 layout: single
 permalink: /calls/srw/
 sidebar: 

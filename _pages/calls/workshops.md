@@ -1,5 +1,5 @@
 ---
-title: 
+title: Call for Workshops
 layout: single
 permalink: /calls/workshops/
 sidebar:

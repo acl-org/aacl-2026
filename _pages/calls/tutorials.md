@@ -1,5 +1,5 @@
 ---
-title: 
+title: Call for Tutorials
 layout: single
 permalink: /calls/tutorials/
 sidebar: 
