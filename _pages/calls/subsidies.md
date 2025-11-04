@@ -54,6 +54,6 @@ Apply here - [Application Form](https://forms.office.com/?redirecturl=https%3a%2
 - [Tirthankar Ghosal](https://www.ornl.gov/staff-profile/tirthankar-ghosal), Oak Ridge National Laboratory
 
 
-If you have any enquiries, please contact the IJCNLP-AACL 2025 D&I Chairs.
+If you have any enquiries, please contact the IJCNLP-AACL 2025 D&I Chairs via [aacl-ijcnlp25-dei_chairs@googlegroups.com](mailto:aacl-ijcnlp25-dei_chairs@googlegroups.com).
 
 We look forward to welcoming a diverse community of researchers to IJCNLP-AACL 2025!
