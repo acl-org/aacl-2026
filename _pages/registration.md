@@ -128,6 +128,12 @@ Invited speakers will receive a registration code. Additional invited speakers m
 | **V - Workshop/Tutorials only - Industry/Non-Academic (Virtual)** | 210 | 270 | 320 |
 | **V - Workshop/Tutorials only - Student (Virtual)** | 120 | 135 | 150 |
 
+### Visa Application
+
+If you require visa application support to attend the event, please indicate your interest by filling out the [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9). 
+
+For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com).
+
 ### Membership Policy 
 
 All attendees must be 2025 ACL members. Membership will be added if not already paid:
