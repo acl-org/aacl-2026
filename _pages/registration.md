@@ -67,7 +67,7 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 ### D&I Subsidies and Regional Waivers 
 
-- D&I subsidies remain available to offset registration and travel costs.
+- [D&I subsidies](https://2025.aaclnet.org/calls/subsidies/) remain available to offset registration and travel costs.
 - Papers with all authors in regions eligible for free/sliding-scale virtual registration may register under those terms.
 - If you have submitted a subsidy application, please select the payment option: “My registration has been approved by an ACL grant code.” If you have been notified that your subsidy application was denied, your registration will reflect a balance due. You will be responsible for covering this amount. Please note that all outstanding balances must be paid in full to gain entry to the conference.
 - 20% of total participants (full for students and partial waivers for others)
