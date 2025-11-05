@@ -38,7 +38,7 @@ Apply here - [https://tinyurl.com/ijcnlp-aacl-2025-di](https://tinyurl.com/ijcnl
 
 This year the IJCNLP-AACL 2025 D&I committee is partnering with the [Widening NLP initiative](https://winlp-workshop.github.io) to conduct this activity. Connect with experienced researchers through our mentorship program, available both in-person and virtually. Whether you're navigating your first conference or seeking career guidance, we'll match you with mentors aligned with your interests and goals.
 
-Apply here - [Application Form](https://forms.office.com/?redirecturl=https%3a%2f%2fforms.office.com%2fPages%2fDesignPageV2.aspx%3fsubpage%3ddesign%26FormId%3dXu-lWwkxd06Fvc_rDTR-gnN4RJcEkkBJrIk5gJdk1-1UMU9WMTVGMUpPR1JPRFpFMlAyUkpFVTFMSy4u%26Token%3de7a66533de794f2bbfdf531be4dc2c30&auth_pvr=OrgId)
+Apply here - [Application Form](https://forms.office.com/r/Tr9aSqebzN)
 
 ## Additional D&I Activities
 
