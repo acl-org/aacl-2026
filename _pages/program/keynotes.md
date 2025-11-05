@@ -61,12 +61,12 @@ Diyi Yang is an assistant professor in the Computer Science Department at Stanfo
 
 ### Chenghua Lin, Manchester University, In-Person Keynote
 
-**Title**: Coming Soon
+**Title**: Beyond Correctness: Evaluating the Social Intelligence of LLMs and Re-Evaluating their Role as Evaluators
 
 **Abstract**
 
-Coming Soon
+Similar to human intelligence, which is highly complex in nature, evaluating large language models becomes especially challenging when they move beyond well-defined, STEM-style tasks into socially and culturally rich domains. The first part of this talk focuses on assessing social intelligence in LLMs, exploring their ability to handle phenomena where ambiguity, cultural difference, and subjectivity make “correctness” difficult to define, and where capabilities beyond text are required, such as omni-modal sensory understanding. The talk then examines the role of LLMs as evaluators, considering their reliability, biases, and prompt sensitivity, and concludes with reflections on building more robust and socially grounded evaluation frameworks.
 
 **Speaker's Bio**
 
-Coming Soon
+Chenghua Lin is a Full Professor and Chair in Natural Language Processing in the Department of Computer Science at the University of Manchester. His research focuses on natural language generation, multimodal LLMs, and evaluation methods. He currently serves as Chair of the ACL SIGGEN Board, a member of the IEEE Speech and Language Processing Technical Committee, and Associate Editor for Computer Speech & Language. He has published over 160 papers in leading conferences and journals and has received several awards for his research and academic leadership, including the CIKM Test-of-Time Award, the INLG Best Paper Runner-up Award, and an Honourable Mention for the Scottish Informatics and Computer Science Alliance (SICSA) Supervisor of the Year Award. He has also held numerous program and chairing roles for *ACL conferences, including Tutorial Chair for EACL’26, Documentation Chair for ACL’25, Publication Chair for ACL’23, Workshop Chair for AACL-IJCNLP’22, and Program Chair for INLG’19.
