@@ -12,7 +12,7 @@ toc_icon: "cog"
 
 ## FULL SCHEDULE OF EVENTS
 
-<!-- [Conference handbook](https://github.com/acl-org/emnlp-2024/raw/refs/heads/main/downloads/EMNLP_2024_Handbook_digital.pdf) and [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now live! -->
+<!-- [Conference handbook](https://github.com/acl-org/emnlp-2024/raw/refs/heads/main/downloads/EMNLP_2024_Handbook_digital.pdf) and [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now live! -->    
 
 ### SATURDAY, DECEMBER 20TH
 
@@ -66,23 +66,23 @@ toc_icon: "cog"
 | Time               | Activity             |
 | ------------------ | -------------------- |
 | 08:00 - 17:30      | Registration (All-Day)|
-| 09:00 - 10:30      | Tutorial             |
+| 09:00 - 10:30      | Tutorials & Workshops |
 | 10:30 - 11:00      | Coffee break         |
-| 11:00 - 12:30      | Tutorial             |
+| 09:00 - 10:30      | Tutorials & Workshops |
 | 12:30 - 14:00      | Lunch                |
-| 14:00 - 15:30      | Tutorial             |
+| 09:00 - 10:30      | Tutorials & Workshops |
 | 15:30 - 16:00      | Coffee break         |
-| 16:00 - 17:30      | Tutorial             |
+| 09:00 - 10:30      | Tutorials & Workshops |
  
 ### WEDNESDAY, DECEMBER 24TH
 
 | Time               | Activity             |
 | ------------------ | -------------------- |
 | 08:00 - 17:30      | Registration (All-Day)|
-| 09:00 - 10:30      | Tutorial             |
+| 09:00 - 10:30      | Workshops             |
 | 10:30 - 11:00      | Coffee break         |
-| 11:00 - 12:30      | Tutorial             |
+| 11:00 - 12:30      | Workshops             |
 | 12:30 - 14:00      | Lunch                |
-| 14:00 - 15:30      | Tutorial             |
+| 14:00 - 15:30      | Workshops             |
 | 15:30 - 16:00      | Coffee break         |
-| 16:00 - 17:30      | Tutorial             |
+| 16:00 - 17:30      | Workshops             |
