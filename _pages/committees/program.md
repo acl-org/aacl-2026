@@ -316,7 +316,7 @@ institution="Tencent AI Lab"
 {% include committee-member.html
 name="François Yvon"
 picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Université Pierre et Marie Curie - Paris 6, Sorbonne Université - Faculté des Sciences (Paris VI)"
+institution="Senior Researcher, CNRS & Sorbonne Université"
 %}
 
 {% include committee-member.html
