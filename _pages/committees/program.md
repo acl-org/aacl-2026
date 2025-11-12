@@ -57,7 +57,7 @@ institution="University of Southern California"
 {% include committee-member.html
 name="Farah Benamara"
 picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Institut de recherche en informatique de toulouse"
+institution="Toulouse University and IPAL-CNRS Singapore"
 %}
 
 {% include committee-member.html
