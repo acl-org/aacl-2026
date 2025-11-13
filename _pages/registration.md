@@ -134,7 +134,7 @@ If you require visa application support to attend the event, please indicate you
 
 For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com).
 
-**Useful Documents for Visa Application***
+**Useful Documents for Visa Application**
 
 - [Office Memorundum](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/officememo.pdf)
 - [State Government Clearance](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/stategovernmentclearance.pdf)
