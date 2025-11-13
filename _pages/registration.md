@@ -134,6 +134,12 @@ If you require visa application support to attend the event, please indicate you
 
 For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com).
 
+**Useful Documents for Visa Application***
+
+- [Office Memorundum](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/officememo.pdf)
+- [State Government Clearance](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/stategovernmentclearance.pdf)
+- [MHA’s Order](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/MHAs-order.pdf)
+
 ### Membership Policy 
 
 All attendees must be 2025 ACL members. Membership will be added if not already paid:
