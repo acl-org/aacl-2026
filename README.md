@@ -1,4 +1,4 @@
-# EMNLP 2025 official website
+# IJCNLP-AACL 2025 official website
 
 This is the code for the official website for the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), based on the code for [EMNLP 2024](https://github.com/acl-org/emnlp-2024/), the following are the configuration details.
 
