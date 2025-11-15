@@ -14,7 +14,7 @@ We're excited to announce the Diversity and Inclusion initiatives for **IJCNLP-A
 
 ## D&I Subsidy Program
 
-- **Application Deadline**: November 14, 2025
+- **Application Deadline**: November 20, 2025
 - **Notifications**: November 24, 2025
 
 We're offering subsidies to support participation from researchers facing financial barriers, particularly those from developing countries, underrepresented communities, and students. Available subsidies include:
@@ -50,7 +50,7 @@ Apply here - [Application Form](https://forms.office.com/r/Tr9aSqebzN)
 
 **Diversity & Inclusion Chairs:**
 - [Sriparna Saha](https://www.iitp.ac.in/~sriparna/), IIT Patna
-- [Sudeshna Sarkar](https://cse.iitkgp.ac.in/~sudeshna/), IT Kharagpur
+- [Sudeshna Sarkar](https://cse.iitkgp.ac.in/~sudeshna/), IIT Kharagpur
 - [Tirthankar Ghosal](https://www.ornl.gov/staff-profile/tirthankar-ghosal), Oak Ridge National Laboratory
 
 
