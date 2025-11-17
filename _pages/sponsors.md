@@ -61,7 +61,7 @@ bronze:
 #     title: Apple
 ---
 
-IJCAI-AACL 2025 invites you to sponsor the conference.If your organization would like to sponsor the EMNLP, please refer to our [Sponsorship Booklet](/assets/AACL25Brochure.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Aditya Joshi (<aditya.joshi@unsw.edu.au>), Manmeet Singh Kapoor (<manmeetsinghkapoor27@gmail.com>) and Sudipta Kar (<sudipta.kar.8080@gmail.com>). 
+IJCAI-AACL 2025 invites you to sponsor the conference.If your organization would like to sponsor the IJCNLP-AACL 2025, please refer to our [Sponsorship Booklet](/assets/AACL25Brochure.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Aditya Joshi (<aditya.joshi@unsw.edu.au>), Manmeet Singh Kapoor (<manmeetsinghkapoor27@gmail.com>) and Sudipta Kar (<sudipta.kar.8080@gmail.com>). 
 <!-- The deadline to sponsor IJCAI-AACL 2025 is Wednesday, September 10, 2025. -->
 
 <style>
