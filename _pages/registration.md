@@ -77,12 +77,12 @@ Invited speakers will receive a registration code. Additional invited speakers m
 **In-Person Full Conference Registration Includes:**
 - Access to all in-person and virtual sessions, with on-demand recordings available for one month after the conference.
 - Daily coffee breaks and lunch during the conference.
-- Social Dinner on 23 December 2025.
+- Social Dinner on 21 December 2025.
 
 **In-Person Tutorial/Workshop-Only Registration Includes:**
 - Admission to the specific tutorial or workshop session (in-person and virtual).
 - Daily coffee breaks and lunch during the session days.
-- Social Dinner on 23 December 2025.
+- Social Dinner on 21 December 2025.
 
 **Virtual Registration Includes:**
 - Access to all sessions via the Underline online platform.
