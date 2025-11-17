@@ -12,6 +12,7 @@ sidebar:
 **Conference Dates**: December 20 – 24, 2025
 
 **Registration Link**: [https://www.cfilt.iitb.ac.in/ijcnlp-aacl](https://www.cfilt.iitb.ac.in/ijcnlp-aacl)
+**Visa Assistance**: [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9)
 
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpectedly high volume with last-minute registrations. ￼
 
@@ -132,7 +133,7 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 If you require visa application support to attend the event, please indicate your interest by filling out the [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9). 
 
-For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com).
+For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com) or [Whatsapp](https://wa.me/+917506290327).
 
 **Useful Documents for Visa Application**
 
