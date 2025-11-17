@@ -49,6 +49,10 @@ bronze:
     image_path: /assets/images/logos/unsw-sydney-logo.jpg
     alt: School of Computer Science and Engineering, UNSW Sydney
     title: School of Computer Science and Engineering, UNSW Sydney
+  - url: https://www.netwebindia.com/
+    image_path: /assets/images/logos/04_Netweb.jpg
+    alt: Netweb Technologies India Limited
+    title: Netweb
 
 # di_ally:
 #   - url: https://machinelearning.apple.com
