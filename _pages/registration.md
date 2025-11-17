@@ -12,6 +12,7 @@ sidebar:
 **Conference Dates**: December 20 – 24, 2025
 
 **Registration Link**: [https://www.cfilt.iitb.ac.in/ijcnlp-aacl](https://www.cfilt.iitb.ac.in/ijcnlp-aacl)
+
 **Visa Assistance**: [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9)
 
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpectedly high volume with last-minute registrations. ￼
