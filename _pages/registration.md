@@ -134,7 +134,7 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 If you require visa application support to attend the event, please indicate your interest by filling out the [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9). 
 
-For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com) or [Whatsapp Call](https://wa.me/+917506290327).
+For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com) or [Whatsapp Call us (9am to 6pm IST)](https://wa.me/+917506290327).
 
 **Useful Documents for Visa Application**
 
