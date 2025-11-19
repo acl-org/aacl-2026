@@ -19,16 +19,22 @@ platinum:
     image_path: /assets/images/logos/e2enetworks-logo.png
     alt: E2E NETWORKS
     title: E2E NETWORKS
-#   - url: https://home.baidu.com/home/index
-#     image_path: /assets/images/logos/baidu-logo.png
-#     alt: Baidu
-#     title: Baidu
+  - url: https://velloni.com/
+    image_path: /assets/images/logos/velloni_logo.png
+    alt: Velloni Ind Pvt. Ltd.
+    title: Velloni
 
 gold:
   - url: https://research.google/
     image_path: /assets/images/logos/google-logo.jpg
     alt: Google
     title: Google
+
+ruby:
+  - url: https://dsai.iitm.ac.in/
+    image_path: /assets/images/logos/WSAI_Logo.png
+    alt: Wadhwani School of AI: IIT Madras
+    title: Wadhwani School of AI: IIT Madras
 
 silver:
   - url: https://www.ibm.com/
