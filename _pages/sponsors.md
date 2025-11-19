@@ -32,7 +32,7 @@ gold:
 
 silver:
   - url: https://www.ibm.com/
-    image_path: /assets/images/logos/IBM_LOGO.JPG
+    image_path: /assets/images/logos/IBM_LOGO.jpg
     alt: IBM
     title: IBM
 #   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
