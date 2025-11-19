@@ -30,11 +30,11 @@ gold:
     alt: Google
     title: Google
 
-# silver:
-#   - url: https://research.adobe.com/
-#     image_path: /assets/images/logos/adobe-logo.png
-#     alt: Adobe
-#     title: Adobe
+ silver:
+  - url: https://www.ibm.com/
+    image_path: /assets/images/logos/IBM_LOGO.JPG
+    alt: IBM
+    title: IBM
 #   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
 #     image_path: /assets/images/logos/bloomberg-logo.png
 #     alt: Bloomberg
@@ -53,10 +53,6 @@ bronze:
     image_path: /assets/images/logos/04_Netweb.jpg
     alt: Netweb Technologies India Limited
     title: Netweb
-  - url: https://www.ibm.com/
-    image_path: /assets/images/logos/IBM_LOGO.JPG
-    alt: IBM
-    title: IBM
 
 # di_ally:
 #   - url: https://machinelearning.apple.com
