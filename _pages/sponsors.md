@@ -35,6 +35,8 @@ silver:
     image_path: /assets/images/logos/IBM_LOGO.jpg
     alt: IBM
     title: IBM
+
+
 #   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
 #     image_path: /assets/images/logos/bloomberg-logo.png
 #     alt: Bloomberg
@@ -97,9 +99,9 @@ IJCNLP-AACL 2025 invites you to sponsor the conference. If your organization wou
 
 {% include sponsors-list id="gold" layout="third" %}
 
-<!-- ## Silver
+## Silver
 
-{% include sponsors-list id="silver" layout="third" %} -->
+{% include sponsors-list id="silver" layout="third" %}
 
 ## Bronze
 
