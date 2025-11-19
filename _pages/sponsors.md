@@ -33,8 +33,8 @@ gold:
 ruby:
   - url: https://dsai.iitm.ac.in/
     image_path: /assets/images/logos/WSAI_Logo.png
-    alt: Wadhwani School of AI: IIT Madras
-    title: Wadhwani School of AI: IIT Madras
+    alt: Wadhwani School of Data Science and AI, IIT Madras
+    title: Wadhwani School of Data Science and AI, IIT Madras
 
 silver:
   - url: https://www.ibm.com/
@@ -104,6 +104,10 @@ IJCNLP-AACL 2025 invites you to sponsor the conference. If your organization wou
 ## Gold
 
 {% include sponsors-list id="gold" layout="third" %}
+
+## Ruby
+
+{% include sponsors-list id="ruby" layout="third" %}
 
 ## Silver
 
