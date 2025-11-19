@@ -18,9 +18,9 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Saturday, December 20th, 09:00 - 10:00 
 
-<img src="https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/kurohashi.jpg" style="height: 150px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/kurohashi.jpg" style="height: 150px; display: block; margin: 0 auto;">
 
-### Sadao Kurohashi, Kyoto University, In-Person Keynote
+### Sadao Kurohashi, National Institute of Informatics, In-Person Keynote
 
 **Title**: LLM-jp: Building a Sovereign LLM Ecosystem through Open and Team Science
 
