@@ -53,6 +53,10 @@ bronze:
     image_path: /assets/images/logos/04_Netweb.jpg
     alt: Netweb Technologies India Limited
     title: Netweb
+  - url: https://www.ibm.com/
+    image_path: /assets/images/logos/IBM_LOGO.JPG
+    alt: IBM
+    title: IBM
 
 # di_ally:
 #   - url: https://machinelearning.apple.com
