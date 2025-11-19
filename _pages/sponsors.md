@@ -30,7 +30,7 @@ gold:
     alt: Google
     title: Google
 
- silver:
+silver:
   - url: https://www.ibm.com/
     image_path: /assets/images/logos/IBM_LOGO.JPG
     alt: IBM
