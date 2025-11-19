@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Saturday, December 20th, 12:00 - 12:30 
 
-<img src="https://eecs.iisc.ac.in/wp-content/uploads/2019/10/Prasanta_Kumar_Ghosh-300x270.jpg" style="height: 325px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/Prasanta-Kumar-Ghosh.jpg" style="height: 325px; display: block; margin: 0 auto;">
 
 ### Prasanta Kumar Ghosh, Indian Institute of Science, In-Person Plenary Talk
 
@@ -33,7 +33,7 @@ Prasanta Kumar Ghosh is an associate professor in the department of Electrical E
 
 ## Sunday, December 21st, 12:00 - 12:30
 
-<img src="https://media.licdn.com/dms/image/v2/C5603AQGo40X_WZMu1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1619533755916?e=1762387200&v=beta&t=vNOYQa1gyJzTTyj8sGAmCcMYNVicIRFKdzet2K9Ee1w" style="height: 325px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/milena-haykowska.jpg" style="height: 325px; display: block; margin: 0 auto;">
 
 ### Milena Haykowska, Clear Global / Translators without Borders, In-Person Plenary Talk
 
