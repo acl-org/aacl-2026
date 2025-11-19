@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Saturday, December 20th, 09:00 - 10:00 
 
-<img src="/assets/images/committee/keynote/kurohashi.jpg" style="height: 250px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/kurohashi.jpg" style="height: 325px; display: block; margin: 0 auto;">
 
 ### Sadao Kurohashi, National Institute of Informatics, In-Person Keynote
 
@@ -40,7 +40,7 @@ Sadao Kurohashi received a PhD in Electrical Engineering from Kyoto University i
 
 ## Sunday, December 21st, 09:00 - 10:00
 
-<img src="https://cs.stanford.edu/~diyiy/img/Diyi_Yang.jpg" style="height: 250px; display: block; margin: 0 auto;">
+<img src="https://cs.stanford.edu/~diyiy/img/Diyi_Yang.jpg" style="height: 325px; display: block; margin: 0 auto;">
 
 ### Diyi Yang, Stanford University, Remote Keynote
 
@@ -57,7 +57,7 @@ Diyi Yang is an assistant professor in the Computer Science Department at Stanfo
 
 ## Monday, December 22nd, 09:00 - 10:00
 
-<img src="https://chenghua-lin.github.io/assets/img/p_chenghua.png" style="height: 250px; display: block; margin: 0 auto;">
+<img src="https://chenghua-lin.github.io/assets/img/p_chenghua.png" style="height: 325px; display: block; margin: 0 auto;">
 
 ### Chenghua Lin, Manchester University, In-Person Keynote
 
