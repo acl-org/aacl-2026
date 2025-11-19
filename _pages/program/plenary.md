@@ -33,7 +33,7 @@ Prasanta Kumar Ghosh is an associate professor in the department of Electrical E
 
 ## Sunday, December 21st, 12:00 - 12:30
 
-<img src="/assets/images/committee/keynote/milena-haykowska.jpg" style="height: 325px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/milena-haykowska.jpeg" style="height: 325px; display: block; margin: 0 auto;">
 
 ### Milena Haykowska, Clear Global / Translators without Borders, In-Person Plenary Talk
 
