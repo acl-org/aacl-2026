@@ -15,6 +15,12 @@ sidebar:
 
 **Visa Assistance**: [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9)
 
+**Note**: International participants intending to attend the conference in person are required to complete the Visa Assistance Google Form to initiate the process for obtaining political clearance from the Ministry of External Affairs (MEA).
+
+**Participants are advised not to apply for a visa until political clearance has been granted.**
+
+Please note that the clearance process generally takes one to two weeks from the date of form submission.
+
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpectedly high volume with last-minute registrations. ￼
 
 ### Registration Dates
