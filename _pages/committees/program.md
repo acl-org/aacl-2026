@@ -457,9 +457,10 @@ institution="University of Tuebingen"
 %}
 
 {% include committee-member.html
-name="Zoey Liu"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Florida"
+   name="Zoey Liu"
+   picture="/assets/images/committee/senior_area_chairs/zoey-liu.jpg"
+   institution="University of Florida"
+   email="liu.ying@ufl.edu"
 %}
 
 
