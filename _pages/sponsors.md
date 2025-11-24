@@ -8,11 +8,11 @@ toc_sticky: true
 toc_icon: "cog"
 toc_label: "&nbsp;Sponsorship Tier"
 
-# diamond:
-#   - url: https://machinelearning.apple.com
-#     image_path: /assets/images/logos/apple-logo.png
-#     alt: Apple
-#     title: Apple
+ diamond:
+   - url: https://bhashini.gov.in/
+     image_path: /assets/images/logos/BHASHINI_LOGO.jpeg
+     alt: Mission Bhashini
+     title: BHASHINI
 
 platinum:
   - url: https://www.e2enetworks.com/
@@ -29,6 +29,10 @@ gold:
     image_path: /assets/images/logos/google-logo.jpg
     alt: Google
     title: Google
+  - url: https://sbifoundation.in/
+    image_path: /assets/images/logos/SBI_LOGO.png
+    alt: SBI Foundation
+    title: SBI Foundation
 
 ruby:
   - url: https://dsai.iitm.ac.in/
