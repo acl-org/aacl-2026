@@ -39,6 +39,10 @@ ruby:
     image_path: /assets/images/logos/WSAI_Logo.png
     alt: Wadhwani School of Data Science and AI, IIT Madras
     title: Wadhwani School of Data Science and AI, IIT Madras
+  - url: https://desicrew.in/
+    image_path: /assets/images/logos/desicrew.png
+    alt: DesiCrew Solutions Private Limited
+    title: DesiCrew Solutions Private Limited
 
 silver:
   - url: https://www.ibm.com/
