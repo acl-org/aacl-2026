@@ -10,7 +10,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 
 diamond:
    - url: https://bhashini.gov.in/
-     image_path: /assets/images/logos/BHASHINI_LOGO.jpeg
+     image_path: /assets/images/BHASHINI_LOGO.jpeg
      alt: Mission Bhashini
      title: BHASHINI
 
@@ -30,7 +30,7 @@ gold:
     alt: Google
     title: Google
   - url: https://sbifoundation.in/
-    image_path: /assets/images/logos/SBI_LOGO.png
+    image_path: /assets/images/SBI_LOGO.png
     alt: SBI Foundation
     title: SBI Foundation
 
