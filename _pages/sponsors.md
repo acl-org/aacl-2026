@@ -28,7 +28,7 @@ platinum:
     alt: BharatGen Technology Foundation
     title: BharatGen
   - url: https://www.joshtalks.com/
-    image_path: /assets/images/logos/joshtalks_logo.png
+    image_path: /assets/images/joshtalks_logo.png
     alt: Josh Talks Private Limited
     title: Humanness by Josh Talks
 
@@ -56,7 +56,7 @@ ruby:
     alt: DAIA Tech Private Limited
     title: Karya
   - url: https://tribal.nic.in/
-    image_path: /assets/images/logos/mota_logo.png
+    image_path: /assets/images/mota_logo.png
     alt: Ministry of Tribal Affairs
     title: Ministry of Tribal Affairs
 
