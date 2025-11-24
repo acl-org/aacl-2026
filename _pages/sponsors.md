@@ -96,10 +96,11 @@ IJCNLP-AACL 2025 invites you to sponsor the conference. If your organization wou
 .sponsors-list > a:hover { box-shadow: 0 0 10px #00000044; }
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
-<!-- 
+
+
 ## Diamond
 
-{% include sponsors-list id="diamond" layout="third" %} -->
+{% include sponsors-list id="diamond" layout="third" %}
 
 ## Platinum
 
