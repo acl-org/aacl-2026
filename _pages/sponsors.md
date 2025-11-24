@@ -27,6 +27,10 @@ platinum:
     image_path: /assets/images/logos/BharatGen.png
     alt: BharatGen Technology Foundation
     title: BharatGen
+  - url: https://www.joshtalks.com/
+    image_path: /assets/images/logos/joshtalks_logo.png
+    alt: Josh Talks Private Limited
+    title: Humanness by Josh Talks
 
 gold:
   - url: https://research.google/
@@ -51,6 +55,10 @@ ruby:
     image_path: /assets/images/logos/karya_logo.png
     alt: DAIA Tech Private Limited
     title: Karya
+  - url: https://tribal.nic.in/
+    image_path: /assets/images/logos/mota_logo.png
+    alt: Ministry of Tribal Affairs
+    title: Ministry of Tribal Affairs
 
 silver:
   - url: https://www.ibm.com/
