@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: "cog"
 toc_label: "&nbsp;Sponsorship Tier"
 
- diamond:
+diamond:
    - url: https://bhashini.gov.in/
      image_path: /assets/images/logos/BHASHINI_LOGO.jpeg
      alt: Mission Bhashini
