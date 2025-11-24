@@ -23,6 +23,10 @@ platinum:
     image_path: /assets/images/logos/velloni_logo.png
     alt: Velloni Ind Pvt. Ltd.
     title: Velloni
+  - url: https://bharatgen.com/
+    image_path: /assets/images/logos/BharatGen.png
+    alt: BharatGen Technology Foundation
+    title: BharatGen
 
 gold:
   - url: https://research.google/
@@ -43,6 +47,10 @@ ruby:
     image_path: /assets/images/logos/desicrew.png
     alt: DesiCrew Solutions Private Limited
     title: DesiCrew Solutions Private Limited
+  - url: https://www.karya.in/
+    image_path: /assets/images/logos/karya_logo.png
+    alt: DAIA Tech Private Limited
+    title: Karya
 
 silver:
   - url: https://www.ibm.com/
