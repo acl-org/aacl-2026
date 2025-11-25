@@ -68,11 +68,11 @@ toc_icon: "cog"
 | 08:00 - 17:30      | Registration (All-Day)|
 | 09:00 - 10:30      | Tutorials & Workshops |
 | 10:30 - 11:00      | Coffee break         |
-| 09:00 - 10:30      | Tutorials & Workshops |
+| 11:00 - 12:30      | Tutorials & Workshops |
 | 12:30 - 14:00      | Lunch                |
-| 09:00 - 10:30      | Tutorials & Workshops |
+| 14:00 - 15:30      | Tutorials & Workshops |
 | 15:30 - 16:00      | Coffee break         |
-| 09:00 - 10:30      | Tutorials & Workshops |
+| 16:00 - 17:30      | Tutorials & Workshops |
  
 ### WEDNESDAY, DECEMBER 24TH
 
