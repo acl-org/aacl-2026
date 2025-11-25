@@ -64,7 +64,7 @@ toc_icon: "cog"
 ### TUESDAY, DECEMBER 23RD
 
 | Time               | Activity             |
-| ------------------ | -------------------- |
+| ------------------ | :------------------: |
 | 08:00 - 17:30      | Registration (All-Day)|
 | 09:00 - 10:30      | Tutorials & Workshops |
 | 10:30 - 11:00      | Coffee break         |
@@ -77,7 +77,7 @@ toc_icon: "cog"
 ### WEDNESDAY, DECEMBER 24TH
 
 | Time               | Activity             |
-| ------------------ | -------------------- |
+| ------------------ | :------------------: |
 | 08:00 - 17:30      | Registration (All-Day)|
 | 09:00 - 10:30      | Workshops             |
 | 10:30 - 11:00      | Coffee break         |
