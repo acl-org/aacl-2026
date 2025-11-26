@@ -69,6 +69,14 @@ silver:
     image_path: /assets/images/logos/IBM_LOGO.jpg
     alt: IBM
     title: IBM
+  - url: https://www.minds.iitb.ac.in
+    image_path: /assets/images/logos/cminds.png
+    alt: CMinDS
+    title: CMinDS
+  - url: https://drdo.gov.in/
+    image_path: /assets/images/logos/dysl.png
+    alt: DYSL-AI-DRDO
+    title: DYSL-AI-DRDO
 
 
 #   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
