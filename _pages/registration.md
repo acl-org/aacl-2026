@@ -28,12 +28,12 @@ We offer early and late rates to encourage early registrations. This helps us es
 ### Registration Dates
 
 - **Early Registration (Non-Presenters)**: Starts October 25, 2025 (GMT +5:30) 
-- **Early Registration**: Ends November 30, 2025, 23:59 (GMT +5:30) 
+- **Early Registration**: Ends November 30(extended till 05 December), 2025, 23:59 (GMT +5:30) 
 - **Regular Registration**: Ends for In-Person and Virtual: Dec 19, 2025, 23:59 (GMT +5:30)
 - **On-site Registration**: Will open for In-Person and Virtual during Dec 20-24. See onsite registration times (GMT +5:30)
 
 ### Registration and Attendance 
-To be included in the **IJCNLP-AACL 2025 Proceedings**, at least **one author for each accepted paper** must be registered **by the Early Registration Deadline of November 30**. 
+To be included in the **IJCNLP-AACL 2025 Proceedings**, at least **one author for each accepted paper** must be registered **by the Early Registration Deadline of November 30(extended till 05 December)**. 
 
 For **Findings** papers, only those **being presented** require at least one author to register. Findings papers **not being presented** do not require registration, but they will **still be included** in both the **conference proceedings** and the **ACL Anthology**.
 
@@ -102,8 +102,8 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 #### Registration Rates for Full Conference
 
-| **Start Date** | **10-Nov-25 (GMT +5:30)** | **1-Dec-25 (GMT +5:30)** | **20-Dec-25 (GMT +5:30)**|
-| **End Date**   | **30-Nov-25 (GMT +5:30)** | **19-Dec-25 (GMT +5:30)** | **24-Dec-25 (GMT +5:30)** |
+| **Start Date** | **10-Nov-25 (GMT +5:30)** | **06-Dec-25 (GMT +5:30)** | **20-Dec-25 (GMT +5:30)**|
+| **End Date**   | **05-Dec-25 (GMT +5:30)** | **19-Dec-25 (GMT +5:30)** | **24-Dec-25 (GMT +5:30)** |
 | **IP Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **On-site (In USD)** |
 | **IP - Full Conference - Registering Paper - Academic** | 650 | 750 | 850 |
 | **IP - Full Conference - Registering Paper (Industry/Non-Academic)** | 750 | 850 | 950 |
@@ -121,8 +121,8 @@ Invited speakers will receive a registration code. Additional invited speakers m
 
 #### Registration Rates for Workshops/Tutorial-Only
 
-| **Start Date** | **10-Nov-25 (GMT +5:30)** | **1-Dec-25 (GMT +5:30)** | **20-Dec-25 (GMT +5:30)** |
-| **End Date**   | **30-Nov-25 (GMT +5:30)** | **19-Dec-25 (GMT +5:30)** | **24-Dec-25 (GMT +5:30)** |
+| **Start Date** | **10-Nov-25 (GMT +5:30)** | **06-Dec-25 (GMT +5:30)** | **20-Dec-25 (GMT +5:30)** |
+| **End Date**   | **05-Dec-25 (GMT +5:30)** | **19-Dec-25 (GMT +5:30)** | **24-Dec-25 (GMT +5:30)** |
 | **IP Tiers** | **Early Registration (In USD)** | **Late Registration (In USD)** | **On-site (In USD)** |
 | **IP - Workshop/Tutorials only - Registering Paper - Academic** | 390 | 450 | 510 |
 | **IP - Workshop/Tutorials only - Registering Paper - Industry/Non-Academic** | 450 | 510 | 570 |
