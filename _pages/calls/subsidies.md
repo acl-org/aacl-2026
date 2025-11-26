@@ -14,8 +14,8 @@ We're excited to announce the Diversity and Inclusion initiatives for **IJCNLP-A
 
 ## D&I Subsidy Program
 
-- **Application Deadline**: November 20, 2025
-- **Notifications**: November 24, 2025
+- **Application Deadline**: <s>November 14, 2025</s> November 20, 2025
+- **Notifications**: <s>November 24, 2025</s>  November 28, 2025
 
 We're offering subsidies to support participation from researchers facing financial barriers, particularly those from developing countries, underrepresented communities, and students. Available subsidies include:
 - **Registration fee waivers** for conference attendance
