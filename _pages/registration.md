@@ -28,7 +28,7 @@ We offer early and late rates to encourage early registrations. This helps us es
 ### Registration Dates
 
 - **Early Registration (Non-Presenters)**: Starts October 25, 2025 (GMT +5:30) 
-- **Early Registration**: Ends November 30(extended till 05 December), 2025, 23:59 (GMT +5:30) 
+- **Early Registration**: Ends November 30 (extended till December 5), 2025, 23:59 (GMT +5:30) 
 - **Regular Registration**: Ends for In-Person and Virtual: Dec 19, 2025, 23:59 (GMT +5:30)
 - **On-site Registration**: Will open for In-Person and Virtual during Dec 20-24. See onsite registration times (GMT +5:30)
 
