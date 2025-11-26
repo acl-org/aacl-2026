@@ -32,7 +32,7 @@ platinum:
     alt: Josh Talks Private Limited
     title: Humanness by Josh Talks
   - url: https://baidu.com
-    image_path: /assets/images/baidu.png
+    image_path: /assets/images/Baidu.png
     alt: Baidu
     title: Baidu
 
