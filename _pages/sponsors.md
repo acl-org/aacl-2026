@@ -74,7 +74,7 @@ silver:
     alt: CMinDS
     title: CMinDS
   - url: https://drdo.gov.in/
-    image_path: /assets/images/logos/drdo.png
+    image_path: /assets/images/drdo.png
     alt: DYSL-AI-DRDO
     title: DYSL-AI-DRDO
 
