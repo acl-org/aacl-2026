@@ -45,8 +45,7 @@ Note: Most good hotels in the vicinity of IIT campus have tariff upwards of ₹4
 ## Discounted Accommodations
 
 ### On-Campus Guest Houses
-
-[IIT Bombay Guest House](https://guesthouse.iitb.ac.in/index.htmlz`1)  
+ 
 
 Tucked away in the pristinely beautiful campus of one of the most prestigious institutions of India, the Indian Institute of Technology Bombay (IITB), the IIT Bombay Guest House consisting of the Jalvihar, the Vanvihar and a set of Faculty Apartments, remains a pleasant haven for the Institute’s guests, whether guests from academia, or the Institue's alumni, or the parents/wards of its students.
 
