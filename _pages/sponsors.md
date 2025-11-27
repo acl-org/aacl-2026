@@ -77,6 +77,10 @@ silver:
     image_path: /assets/images/drdo.png
     alt: DYSL-AI-DRDO
     title: DYSL-AI-DRDO
+  - url: https://scai.iitd.ac.in/
+    image_path: /assets/images/scai.png
+    alt: School of AI, IIT Delhi
+    title: Yardi School of Artificial Intelligence
 
 
 #   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
