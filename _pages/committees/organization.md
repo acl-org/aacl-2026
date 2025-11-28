@@ -85,6 +85,13 @@ sidebar:
    role="Local Organizing Chairs"
    picture="/assets/images/committee/Dhirendra-Pratap-Singh.jpg"
 %}
+{% include committee-member.html
+   name="Harshal Vashi"
+   institution="IIT Bombay"
+   email="harshal_ece@iitb.ac.in"
+   role="Local Organizing Chairs"
+   picture="/assets/images/committee/Harshal-Vashi.jpg"
+%}
 
 
 <h2>Workshop Chairs</h2>
