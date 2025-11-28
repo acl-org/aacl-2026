@@ -35,6 +35,10 @@ platinum:
     image_path: /assets/images/Baidu.png
     alt: Baidu
     title: Baidu
+  - url: https://www.hcltech.com/
+    image_path: /assets/images/hcltech.jpg
+    alt: HCLTech
+    title: HCLTech
 
 gold:
   - url: https://research.google/
