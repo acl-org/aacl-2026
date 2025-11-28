@@ -22,22 +22,7 @@ Workshops will be held in Mumbai, India. In-person format is preferred, with hyb
 
 ## Workshop Schedule
 
-Here is a list of workshops in IJCNLP-AACL 2025.
-
-| Date         | Workshop       | Full Name                                                                           | 
-| ------------ | -------------- | ----------------------------------------------------------------------------------- | 
-| 24th Dec  | WSLP   | [The 1st Workshop on Sign Language Processing (WSLP)](https://exploration-lab.github.io/WSLP/) |
-| 23rd Dec | Eval4NLP | [Fifth Workshop on Evaluation & Comparison of NLP Systems (Eval4NLP)](https://eval4nlp.github.io/2025/index.html) |
-| 24th Dec | QuantumNLP | [QuantumNLP: Integrating Quantum Computing with Natural Language Processing](http://qnlp.in/) |
-| 23rd Dec | SciProdLLM | [The 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production](https://sciprodllm.github.io/2025/) |
-| 23rd Dec | CHOMPS | [CHOMPS – Confabulation, Hallucinations, & Overgeneration in Multilingual & Precision-critical Settings](https://chomps2025.github.io/) |
-| 24th Dec | WAT | [The 12th Workshop on Asian Translation (WAT2025)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2025/) |
-| 23rd Dec | WASP | [Third Workshop on Artificial intelligence for Scientific Publications (WASP)](https://ui.adsabs.harvard.edu/WIESP/2025/) |
-| 23rd Dec | MMLoSo | [Multimodal Models for Low-Resource Contexts and Social Impact](https://mmloso-workshop.github.io/) |
-| 24th Dec | JUST-NLP | [JUST-NLP: Workshop on NLP for Empowering Justice](https://exploration-lab.github.io/JUST-NLP/) |
-| 23rd Dec | BHASHA | [BHASHA: Benchmarks, Harmonization, Annotation, and Standardization for Human-Centric AI in Indian Languages](https://bhasha-workshop.github.io) | 
-| 23rd Dec | BLP | [Second Bangla Language Processing Workshop](https://blp-workshop.github.io/) |
-| 24th Dec | NLP-AI4Health | [NLP-AI4Health: Second Workshop on Integrating NLP and AI for Multilingual and Patient-Centric Healthcare Communication](https://2025.nlpai4health.com/) | 
+You can find the list and schedule of accepted workshops for IJCNLP–AACL 2025 [here](https://2025.aaclnet.org/program/workshops/).
 
 ## Important Dates
 
