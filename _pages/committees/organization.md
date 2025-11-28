@@ -85,6 +85,9 @@ sidebar:
    role="Local Organizing Chairs"
    picture="/assets/images/committee/Dhirendra-Pratap-Singh.jpg"
 %}
+
+
+<h2>Local Organizing Committees</h2>
 {% include committee-member.html
    name="Harshal Vashi"
    institution="IIT Bombay"
