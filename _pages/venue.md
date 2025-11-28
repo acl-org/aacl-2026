@@ -51,6 +51,8 @@ Tucked away in the pristinely beautiful campus of one of the most prestigious in
 
 Just a short stroll away from the Main Gate, the primary entry to the institute, these restful residences are flanked by green lawns, walkways, and a pond which is home to a lively flock of geese. Great vistas and breathtaking sunsets on the Powai Lake, which borders the **Jalvihar** Guest House, while **Vanvihar**, as the name suggests remains ensconced amidst trees, complete the picture perfect charm of the Guest House.
 
+For reservations : [Contact Guest House](https://guesthouse.iitb.ac.in/index.html)
+
 Address: Indian Institute of Technology Bombay
 
 Powai, Mumbai - 400076
