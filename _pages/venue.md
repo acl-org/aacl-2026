@@ -59,7 +59,6 @@ Powai, Mumbai - 400076
 
 Maharashtra, India
 
-Booking Link: Coming Soon!
 
 ### Off-Campus Hotels
 
