@@ -53,4 +53,4 @@ W11. **[Second Bangla Language Processing Workshop](https://blp-workshop.github.
 
 W12. **[NLP-AI4Health: Second Workshop on Integrating NLP and AI for Multilingual and Patient-Centric Healthcare Communication](https://2025.nlpai4health.com/)** 
 * Organizers: Arun Zechariah, Balukrishna S, Dipti Misra Sharma, Hannah Thomas, Joy Mammen, Parameswari Krishnamurthy and Vandan Mujadia
-* Date: Wed, Dec 24
+* Date: Tue, Dec 23
