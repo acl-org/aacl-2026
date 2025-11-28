@@ -13,6 +13,8 @@ sidebar:
 
 **Registration Link**: [https://www.cfilt.iitb.ac.in/ijcnlp-aacl](https://www.cfilt.iitb.ac.in/ijcnlp-aacl)
 
+### Visa Application
+
 **Visa Assistance**: [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9)
 
 **Note**: International participants intending to attend the conference in person are required to complete the Visa Assistance Google Form to initiate the process for obtaining political clearance from the Ministry of External Affairs (MEA).
@@ -22,6 +24,17 @@ sidebar:
 clearance process generally takes one to two weeks from the date of form submission.
 
 **As per MEA Guidelines, foreign participants may attend conferences in India only after obtaining a conference visa.**
+
+For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com) or [Whatsapp Call us (9am to 6pm IST)](https://wa.me/+917506290327).
+
+**Useful Documents for Visa Application**
+
+- [Office Memorundum](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/officememo.pdf)
+- [State Government Clearance](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/stategovernmentclearance.pdf)
+- [MHA’s Order](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/MHAs-order.pdf)
+- [MoE Letter](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/moe_letter.pdf)
+
+
 
 We offer early and late rates to encourage early registrations. This helps us estimate the number of onsite and virtual attendees for planning space, food, beverage, supplies, and to avoid system crashes and other glitches from unexpectedly high volume with last-minute registrations. ￼
 
@@ -138,17 +151,6 @@ Invited speakers will receive a registration code. Additional invited speakers m
 | **V - Workshop/Tutorials only - Industry/Non-Academic (Virtual)** | 210 | 270 | 320 |
 | **V - Workshop/Tutorials only - Student (Virtual)** | 120 | 135 | 150 |
 
-### Visa Application
-
-If you require visa application support to attend the event, please indicate your interest by filling out the [Google Form](https://forms.gle/jZ8qmeSXzdCLZLcW9). 
-
-For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com) or [Whatsapp Call us (9am to 6pm IST)](https://wa.me/+917506290327).
-
-**Useful Documents for Visa Application**
-
-- [Office Memorundum](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/officememo.pdf)
-- [State Government Clearance](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/stategovernmentclearance.pdf)
-- [MHA’s Order](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/MHAs-order.pdf)
 
 ### Membership Policy 
 
