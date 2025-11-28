@@ -27,7 +27,7 @@ clearance process generally takes one to two weeks from the date of form submiss
 
 For any other enquiries, please contact us at [aacl-ijcnlp25-visateam@googlegroups.com](aacl-ijcnlp25-visateam@googlegroups.com) or [Whatsapp Call us (9am to 6pm IST)](https://wa.me/+917506290327).
 
-**Useful Documents for Visa Application**
+**Other Useful Documents for Visa Application**
 
 - [Office Memorundum](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/officememo.pdf)
 - [State Government Clearance](https://www.cfilt.iitb.ac.in/ijcnlp-aacl/visadocs/stategovernmentclearance.pdf)
