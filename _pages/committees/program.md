@@ -64,16 +64,14 @@ sidebar:
    name="Farah Benamara"
    picture="/assets/images/committee/senior_area_chairs/Farah-Benamara.png"
    institution="Toulouse University and IPAL-CNRS Singapore"
-   email="farah.benamara@irit.fr
-   site="https://www.irit.fr/~Farah.Benamara/"
+   email="farah.benamara@irit.fr" site="https://www.irit.fr/~Farah.Benamara/"
 %}
 
 {% include committee-member.html
    name="Amir Zeldes"
    picture="/assets/images/committee/senior_area_chairs/amir_zeldes.jpg"
    institution="Georgetown University"
-   email="amir.zeldes@georgetown.edu"
-   site="https://gucorpling.org/amir/"
+   email="amir.zeldes@georgetown.edu" site="https://gucorpling.org/amir/"
 %}
 
 
