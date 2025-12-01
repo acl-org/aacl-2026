@@ -62,7 +62,7 @@ sidebar:
 
 {% include committee-member.html
    name="Farah Benamara"
-   picture="/assets/images/committee/senior_area_chairs/Farah-Benamara.png"
+   picture="/assets/images/committee/senior_area_chairs/Farah-Benamara.jpg"
    institution="Toulouse University and IPAL-CNRS Singapore"
    email="farah.benamara@irit.fr" site="https://www.irit.fr/~Farah.Benamara/"
 %}
@@ -366,7 +366,7 @@ sidebar:
 
 {% include committee-member.html
    name="Zhaopeng Tu"
-   picture="/assets/images/committee/senior_area_chairs/zhaopeng-tu.jpg"
+   picture="/assets/images/committee/senior_area_chairs/zhaopeng-tu.png"
    institution="Tencent"
    email="tuzhaopeng@gmail.com"
    site="zptu.net"
@@ -600,7 +600,7 @@ sidebar:
 
 {% include committee-member.html
    name="Preslav Nakov"
-   picture="/assets/images/committee/senior_area_chairs/Preslav-Nakov.png"
+   picture="/assets/images/committee/senior_area_chairs/Preslav-Nakov.jpg"
    institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
    email="preslav.nakov@mbzuai.ac.ae"
    site="https://mbzuai.ac.ae/study/faculty/preslav-nakov/"
