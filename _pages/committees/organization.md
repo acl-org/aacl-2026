@@ -89,19 +89,11 @@ sidebar:
 
 <h2>Local Organizing Committees</h2>
 {% include committee-member.html
-   name="Harshal Vashi"
-   institution="IIT Bombay"
-   email="harshal_ece@iitb.ac.in"
-   role="Local Organizing Committees"
-   picture="/assets/images/committee/Harshal-Vashi.jpg"
-%}
-
-{% include committee-member.html
    name="Sushma Gawanda"
    institution="IIT Bombay"
    email="sushmag@iitb.ac.in"
    role="Local Organizing Committees"
-   picture="/assets/images/committee/Sushma-Gawanda.jpg"
+   picture="/assets/images/committee/sushma.jpeg"
 %}
 
 {% include committee-member.html
@@ -109,9 +101,16 @@ sidebar:
    institution="IIT Bombay"
    email="deepakjagtap@iitb.ac.in"
    role="Local Organizing Committees"
-   picture="/assets/images/committee/Deepak-Jagtap.jpg"
+   picture="/assets/images/committee/deepak.jpg"
 %}
 
+{% include committee-member.html
+   name="Harshal Vashi"
+   institution="IIT Bombay"
+   email="harshal_ece@iitb.ac.in"
+   role="Local Organizing Committees"
+   picture="/assets/images/committee/Harshal-Vashi.jpg"
+%}
 
 <h2>Workshop Chairs</h2>
 {% include committee-member.html
