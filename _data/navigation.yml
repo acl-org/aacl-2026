@@ -25,8 +25,8 @@ main:
   # - title: "MiniConf"
   #   url: https://virtual2023.emnlp.org/
     
-  # - title: "FAQ"
-  #   url: /faq/
+   - title: "FAQ"
+     url: /faq/
  
   # - title: "Ethics"
   #   url: /ethics/faq/
