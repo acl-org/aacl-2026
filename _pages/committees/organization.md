@@ -443,7 +443,7 @@ sidebar:
    picture="/assets/images/committee/Maggie-Wenjie-Li.jpg"
 %}
 
-<h2>Website Chairs</h2>
+<h2>Web and App Chairs</h2>
 {% include committee-member.html
    name="Roy Ka-Wei Lee"
    institution="Singapore University of Technology and Design"
