@@ -22,8 +22,8 @@ sidebar:
 
 {% include committee-member.html
    name="Nikos Aletras"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
-   institution="University of Sheffield, Amazon"
+   picture="/assets/images/committee/senior_area_chairs/Nikos-Aletras.jpg"
+   institution="University of Sheffield"
 %}
 
 ### Dialogue and Interactive Systems
@@ -62,8 +62,10 @@ sidebar:
 
 {% include committee-member.html
    name="Farah Benamara"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Farah-Benamara.png"
    institution="Toulouse University and IPAL-CNRS Singapore"
+   email="farah.benamara@irit.fr
+   site="https://www.irit.fr/~Farah.Benamara/"
 %}
 
 {% include committee-member.html
@@ -79,8 +81,9 @@ sidebar:
 
 {% include committee-member.html
    name="Min Yang"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Min-Yang.jpeg"
    institution="Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+   site="https://minyang.me/"
 %}
 
 {% include committee-member.html
@@ -100,8 +103,10 @@ sidebar:
 
 {% include committee-member.html
    name="Kewei Tu"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Kewei-Tu.jpeg"
    institution="ShanghaiTech University"
+   email="tukw@shanghaitech.edu.cn"
+   site="https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/"
 %}
 
 
@@ -109,14 +114,16 @@ sidebar:
 
 {% include committee-member.html
    name="Yue Dong"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
-   institution="University of California, Riverside, McGill University"
+   picture="/assets/images/committee/senior_area_chairs/Yue-Dong.jpg"
+   institution="University of California, Riverside"
+   site="https://yuedong.us/"
 %}
 
 {% include committee-member.html
    name="Sunipa Dev"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Sunipa-Dev.jpeg"
    institution="Google"
+   site="https://sunipa.github.io/"
 %}
 
 {% include committee-member.html
@@ -136,8 +143,10 @@ sidebar:
 
 {% include committee-member.html
    name="Yue Zhang"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yue-Zhang.jpg"
    institution="Westlake University"
+   email="yue.zhang@wias.org.cn"
+   site="https://frcchang.github.io/"
 %}
 
 {% include committee-member.html
@@ -152,21 +161,27 @@ sidebar:
 ### Human-centered NLP
 
 {% include committee-member.html
-name="Heriberto Cuayahuitl"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Lincoln"
+   name="Heriberto Cuayahuitl"
+   picture="/assets/images/committee/senior_area_chairs/Heriberto-Cuayahuitl.jpeg"
+   institution="University of Lincoln"
+   email="HCuayahuitl@lincoln.ac.uk"
+   site="https://staff.lincoln.ac.uk/hcuayahuitl"
 %}
 
 {% include committee-member.html
-name="Jing Ma"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Hong Kong Baptist University"
+   name="Jing Ma"
+   picture="/assets/images/committee/senior_area_chairs/Ma-Jing.jpg"
+   institution="Hong Kong Baptist University"
+   email="majing@hkbu.edu.hk"
+   site="https://majingcuhk.github.io/"
 %}
 
 {% include committee-member.html
-name="Pierre Lison"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Norwegian Computing Center"
+   name="Pierre Lison"
+   picture="/assets/images/committee/senior_area_chairs/Pierre-Lison.jpg"
+   institution="Norwegian Computing Center"
+   email="plison@nr.no"
+   site="https://home.nr.no/~plison/"
 %}
 
 
@@ -180,24 +195,27 @@ institution="Norwegian Computing Center"
 %}
 
 {% include committee-member.html
-name="Francis Ferraro"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Maryland, Baltimore County"
+   name="Francis Ferraro"
+   picture="/assets/images/committee/senior_area_chairs/Francis-Ferraro.png"
+   institution="University of Maryland, Baltimore County"
+   email="ferraro@umbc.edu"
+   site="https://userpages.cs.umbc.edu/ferraro/"
 %}
 
 {% include committee-member.html
-name="Makoto Miwa"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Toyota Technological Institute"
+   name="Makoto Miwa"
+   picture="/assets/images/committee/senior_area_chairs/Makoto-Miwa.jpeg"
+   email="makoto-miwa@toyota-ti.ac.jp"
+   institution="Toyota Technological Institute"
 %}
 
 
 ### Information Retrieval and Text Mining
 
 {% include committee-member.html
-name="Yi Cai"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="South China University of Technology"
+   name="Yi Cai"
+   picture="/assets/images/committee/senior_area_chairs/Yi-Cai.jpeg"
+   institution="South China University of Technology"
 %}
 
 {% include committee-member.html
@@ -222,7 +240,9 @@ institution="South China University of Technology"
 
 {% include committee-member.html
    name="Qianying Liu"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Qianying-Liu.png"
+   email="ying@nii.ac.jp"
+   site="https://yiyunya.github.io/"
    institution="NII, Tokyo Institute of Technology"
 %}
 
@@ -243,15 +263,19 @@ institution="South China University of Technology"
 %}
 
 {% include committee-member.html
-name="Xiaojun Wan"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Peking University"
+   name="Xiaojun Wan"
+   picture="/assets/images/committee/senior_area_chairs/Xiaojun-Wan.png"
+   email="wanxiaojun@pku.edu.cn"
+   site="https://wanxiaojun.github.io/"
+   institution="Peking University"
 %}
 
 {% include committee-member.html
-name="Meishan Zhang"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Harbin Institute of Technology (Shenzhen)"
+   name="Meishan Zhang"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="Harbin Institute of Technology (Shenzhen)"
+   email="mason.zms@gmail.com"
+   site="https://zhangmeishan.github.io/"
 %}
 
 
