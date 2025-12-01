@@ -12,6 +12,8 @@ toc_icon: "cog"
 
 ## FULL SCHEDULE OF EVENTS
 
+<iframe src="https://underline.io/events/512/schedule/embed" width="100%" height="700"></iframe>
+
 <!-- [Conference handbook](https://github.com/acl-org/emnlp-2024/raw/refs/heads/main/downloads/EMNLP_2024_Handbook_digital.pdf) and [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now live! -->    
 
 ### SATURDAY, DECEMBER 20TH
