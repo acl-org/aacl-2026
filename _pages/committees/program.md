@@ -262,7 +262,7 @@ sidebar:
 
 {% include committee-member.html
    name="Xiaojun Wan"
-   picture="/assets/images/committee/senior_area_chairs/Xiaojun-Wan.png"
+   picture="/assets/images/committee/senior_area_chairs/Xiaojun-Wan.jpg"
    email="wanxiaojun@pku.edu.cn"
    site="https://wanxiaojun.github.io/"
    institution="Peking University"
@@ -281,13 +281,17 @@ sidebar:
 
 {% include committee-member.html
    name="Chris Brew"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
-   institution="Ohio State University, Columbus, Lexis Nexis"
+   picture="/assets/images/committee/senior_area_chairs/Chris-Brew.jpg"
+   email="christopher.brew@lexisnexis.com"
+   site="https://sites.google.com/site/chrisbrew475"
+   institution="Lexis Nexis"
 %}
 
 {% include committee-member.html
    name="Deyi Xiong"
    picture="/assets/images/committee/senior_area_chairs/test.png"
+   email="dyxiong@tju.edu.cn"
+   site="https://dyxiong.github.io/"
    institution="Tianjin University"
 %}
 
@@ -311,9 +315,11 @@ sidebar:
 %}
 
 {% include committee-member.html
-name="Emily Allaway"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Edinburgh"
+   name="Emily Allaway"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="University of Edinburgh"
+   email="emily.allaway@ed.ac.uk"
+   site="https://emilyallaway.github.io/"
 %}
 
 {% include committee-member.html
@@ -327,9 +333,11 @@ institution="University of Edinburgh"
 ### Machine Learning for NLP
 
 {% include committee-member.html
-name="Chenghua Lin"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Manchester"
+   name="Chenghua Lin"
+   picture="assets/images/committee/keynote/chenghua-p.png"
+   site="https://chenghua-lin.github.io/"
+   email="chenghua.lin@manchester.ac.uk"
+   institution="University of Manchester"
 %}
 
 {% include committee-member.html
@@ -341,18 +349,18 @@ institution="University of Manchester"
 %}
 
 {% include committee-member.html
-name="Nicola Cancedda"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Meta"
+   name="Nicola Cancedda"
+   picture="/assets/images/committee/senior_area_chairs/Nicola-Cancedda.jpeg"
+   institution="Meta"
 %}
 
 
 ### Machine Translation
 
 {% include committee-member.html
-name="Jan Niehues"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Karlsruhe Institute for Technology (KIT)"
+   name="Jan Niehues"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="Karlsruhe Institute for Technology (KIT)"
 %}
 
 
@@ -375,8 +383,10 @@ institution="Karlsruhe Institute for Technology (KIT)"
 
 {% include committee-member.html
    name="Lemao Liu"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
-   institution="Tencent"
+   picture="/assets/images/committee/senior_area_chairs/Lemao-Liu.jpg"
+   institution="Fudan University"
+   email="lemaoliu@fudan.edu.cn"
+   site="https://lemaoliu.github.io/"
 %}
 
 {% include committee-member.html
@@ -391,15 +401,15 @@ institution="Karlsruhe Institute for Technology (KIT)"
 ### Multimodality and Language Grounding to Vision, Robotics and Beyond
 
 {% include committee-member.html
-name="Hideki Nakayama"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="The University of Tokyo"
+   name="Hideki Nakayama"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="The University of Tokyo"
 %}
 
 {% include committee-member.html
-name="Liang Li"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Institute of Computing Technology, Chinese Academy of Sciences"
+   name="Liang Li"
+   picture="/assets/images/committee/senior_area_chairs/Liang-Li.jpeg"
+   institution="Institute of Computing Technology, Chinese Academy of Sciences"
 %}
 
 {% include committee-member.html
@@ -428,54 +438,65 @@ institution="Institute of Computing Technology, Chinese Academy of Sciences"
 %}
 
 {% include committee-member.html
-name="Tianqing Fang"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="The Hong Kong University of Science and Technology"
+   name="Tianqing Fang"
+   picture="/assets/images/committee/senior_area_chairs/Tianqing-Fang.png"
+   site="https://tqfang.github.io"
+   institution="Tencent AI Lab"
 %}
 
 {% include committee-member.html
-name="Xuebo Liu"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Harbin Institute of Technology, Shenzhen"
+   name="Xuebo Liu"
+   picture="/assets/images/committee/senior_area_chairs/Xuebo-Liu.jpg"
+   site="https://sunbowliu.github.io/"
+   email="liuxuebo@hit.edu.cn"
+   institution="Harbin Institute of Technology, Shenzhen"
 %}
 
 {% include committee-member.html
-name="Yang Feng"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Institute of Computing Technology, Chinese Academy of Sciences"
+   name="Yang Feng"
+   picture="/assets/images/committee/senior_area_chairs/Yang-Feng.jpg"
+   email="fengyang@ict.ac.cn"
+   site="https://yangfengyf.github.io/"
+   institution="Institute of Computing Technology, Chinese Academy of Sciences"
 %}
 
 {% include committee-member.html
-name="Ruihong Huang"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Texas A&M University"
+   name="Ruihong Huang"
+   picture="/assets/images/committee/senior_area_chairs/Ruihong-Huang.jpg"
+   email="huangrh@cse.tamu.edu"
+   site="https://people.engr.tamu.edu/huangrh/index.html"
+   institution="Texas A&M University"
 %}
 
 {% include committee-member.html
-name="Takehito Utsuro"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Tsukuba"
+   name="Takehito Utsuro"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   site="http://nlp.iit.tsukuba.ac.jp/member/utsuro/"
+   institution="University of Tsukuba"
 %}
 
 {% include committee-member.html
-name="Tao Qi"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Tsinghua University, Tsinghua University"
+   name="Tao Qi"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="Tsinghua University"
 %}
 
 {% include committee-member.html
-name="Jey Han Lau"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Melbourne"
+   name="Jey Han Lau"
+   picture="/assets/images/committee/senior_area_chairs/Jey-Han-Lau.jpg"
+   site="https://jeyhan.my/"
+   email="jeyhan.lau@gmail.com"
+   institution="University of Melbourne"
 %}
 
 
 ### Phonology, Morphology, and Word Segmentation
 
 {% include committee-member.html
-name="Cagri Coltekin"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="University of Tuebingen"
+   name="Cagri Coltekin"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="University of Tuebingen"
+   site="https://coltekin.net/cagri/"
 %}
 
 {% include committee-member.html
@@ -489,9 +510,10 @@ institution="University of Tuebingen"
 ### Question Answering
 
 {% include committee-member.html
-name="Yansong Feng"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Peking University"
+   name="Yansong Feng"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="Peking University"
+   site="https://yansongfeng.github.io/"
 %}
 
 {% include committee-member.html
@@ -515,27 +537,32 @@ institution="Peking University"
 ### Resources and Evaluation
 
 {% include committee-member.html
-name="Yunbo Cao"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Tencent"
+   name="Yunbo Cao"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="Tencent"
+   site="https://scholar.google.com/citations?user=nNVDLb4AAAAJ&hl=en"
 %}
 
 {% include committee-member.html
-name="Nianwen Xue"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Brandeis University"
+   name="Nianwen Xue"
+   picture="/assets/images/committee/senior_area_chairs/Nianwen-Xue.jpg"
+   institution="Brandeis University"
+   email="xuen@brandeis.edu"
+   site="https://www.cs.brandeis.edu/~xuen/"
 %}
 
 {% include committee-member.html
-name="Jinsong Su"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Xiamen University"
+   name="Jinsong Su"
+   picture="/assets/images/committee/senior_area_chairs/Jinsong-Su.jpeg"
+   institution="Xiamen University"
+   site="https://scholar.google.com/citations?user=w6qCk3sAAAAJ&hl=zh-CN"
 %}
 
 {% include committee-member.html
-name="Joel R. Tetreault"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Dataminr"
+   name="Joel R. Tetreault"
+   picture="/assets/images/committee/senior_area_chairs/Joel-R-Tetreault.jpeg"
+   institution="Dataminr"
+   site="https://scholar.google.com/citations?user=Fn52EXUAAAAJ&hl=en"
 %}
 
 {% include committee-member.html
@@ -547,9 +574,10 @@ institution="Dataminr"
 %}
 
 {% include committee-member.html
-name="Ruifeng Xu"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Harbin Institute of Technology at Shenzhen"
+   name="Ruifeng Xu"
+   picture="/assets/images/committee/senior_area_chairs/Ruifeng-Xu.jpeg"
+   institution="Harbin Institute of Technology at Shenzhen"
+   site="https://scholar.google.com/citations?user=mObXnNIAAAAJ&hl=en"
 %}
 
 {% include committee-member.html
@@ -561,24 +589,28 @@ institution="Harbin Institute of Technology at Shenzhen"
 %}
 
 {% include committee-member.html
-name="Baotian Hu"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Harbin Institute of Technology (Shenzhen)"
+   name="Baotian Hu"
+   picture="/assets/images/committee/senior_area_chairs/Baotian-Hu.jpeg"
+   institution="Harbin Institute of Technology (Shenzhen)"
+   site="https://scholar.google.com/citations?user=5NiJ1VoAAAAJ&hl=zh-CN"
 %}
 
 
 ### Semantics: Lexical and Sentence-Level
 
 {% include committee-member.html
-name="Preslav Nakov"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+   name="Preslav Nakov"
+   picture="/assets/images/committee/senior_area_chairs/Preslav-Nakov.png"
+   institution="Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)"
+   email="preslav.nakov@mbzuai.ac.ae"
+   site="https://mbzuai.ac.ae/study/faculty/preslav-nakov/"
 %}
 
 {% include committee-member.html
-name="Steven Schockaert"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Cardiff University"
+   name="Steven Schockaert"
+   picture="/assets/images/committee/senior_area_chairs/test.png"
+   institution="Cardiff University"
+   site="https://scholar.google.com/citations?user=hNCN09AAAAAJ&hl=en"
 %}
 
 
@@ -612,18 +644,21 @@ institution="Cardiff University"
 %}
 
 {% include committee-member.html
-name="Wasi Uddin Ahmad"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="NVIDIA"
+   name="Wasi Uddin Ahmad"
+   picture="/assets/images/committee/senior_area_chairs/Wasi-Uddin-Ahmad.png"
+   institution="NVIDIA"
+   site="https://wasiahmad.github.io/"
+   email="wasiahmad@ucla.edu"
 %}
 
 
 ### Speech Recognition, Text-to-Speech and Spoken Language Understanding
 
 {% include committee-member.html
-name="Brian Roark"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Google"
+   name="Brian Roark"
+   picture="/assets/images/committee/senior_area_chairs/Brian-Roark.png"
+   institution="Google"
+   site="https://research.google/people/brianroark/"
 %}
 
 {% include committee-member.html
@@ -634,9 +669,10 @@ institution="Google"
 %}
 
 {% include committee-member.html
-name="Kehai Chen"
-picture="/assets/images/committee/senior_area_chairs/test.png"
-institution="Harbin Institute of Technology (Shenzhen)"
+   name="Kehai Chen"
+   picture="/assets/images/committee/senior_area_chairs/Kehai-Chen.jpeg"
+   institution="Harbin Institute of Technology (Shenzhen)"
+   site="https://scholar.google.com/citations?user=_M4Am0AAAAAJ&hl=zh-CN"
 %}
 
 
