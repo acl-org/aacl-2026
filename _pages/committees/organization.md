@@ -380,13 +380,23 @@ sidebar:
 %}
 
 <h2>Student Volunteer Chairs</h2>
+
 {% include committee-member.html
    name="Yuxia Wang"
-   institution="Mohamed bin Zayed University of Artificial Intelligence"
-   email="Yuxia.Wang@mbzuai.ac.ae"
+   institution="Institute for Computer Science, Artificial Intelligence and Technology"
+   email="yuxia.wang@insait.ai"
    role="Student Volunteer Chairs"
    site="https://yuxiaw.github.io/"
    picture="/assets/images/committee/Yuxia-Wang.jpg"
+%}
+
+{% include committee-member.html
+   name="Mukund Choudhary"
+   institution="Mohamed bin Zayed University of Artificial Intelligence"
+   email="mukund.choudhary@mbzuai.ac.ae"
+   role="Student Volunteer Chairs"
+   site="https://mukundc2k.github.io/"
+   picture="/assets/images/committee/Mukund-Choudhary.jpeg"
 %}
 
 <h2>Publicity Chairs</h2>
