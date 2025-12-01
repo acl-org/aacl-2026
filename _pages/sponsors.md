@@ -67,6 +67,10 @@ ruby:
     image_path: /assets/images/mota_logo.png
     alt: Ministry of Tribal Affairs
     title: Ministry of Tribal Affairs
+  - url: https://www.jioinstitute.edu.in/
+    image_path: /assets/images/logos/jio.png
+    alt: Jio Institute
+    title: Jio Institute
 
 silver:
   - url: https://www.ibm.com/
