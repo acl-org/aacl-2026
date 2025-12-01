@@ -92,8 +92,24 @@ sidebar:
    name="Harshal Vashi"
    institution="IIT Bombay"
    email="harshal_ece@iitb.ac.in"
-   role="Local Organizing Chairs"
+   role="Local Organizing Committees"
    picture="/assets/images/committee/Harshal-Vashi.jpg"
+%}
+
+{% include committee-member.html
+   name="Sushma Gawanda"
+   institution="IIT Bombay"
+   email="sushmag@iitb.ac.in"
+   role="Local Organizing Committees"
+   picture="/assets/images/committee/Sushma-Gawanda.jpg"
+%}
+
+{% include committee-member.html
+   name="Deepak Jagtap"
+   institution="IIT Bombay"
+   email="deepakjagtap@iitb.ac.in"
+   role="Local Organizing Committees"
+   picture="/assets/images/committee/Deepak-Jagtap.jpg"
 %}
 
 
