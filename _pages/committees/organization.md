@@ -89,7 +89,7 @@ sidebar:
 
 <h2>Local Organizing Committees</h2>
 {% include committee-member.html
-   name="Sushma Gawanda"
+   name="Sushma Gawande"
    institution="IIT Bombay"
    email="sushmag@iitb.ac.in"
    role="Local Organizing Committees"
