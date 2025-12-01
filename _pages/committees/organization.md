@@ -93,7 +93,7 @@ sidebar:
    institution="IIT Bombay"
    email="sushmag@iitb.ac.in"
    role="Local Organizing Committees"
-   picture="/assets/images/committee/sushma.jpeg"
+   picture="/assets/images/sushma.jpeg"
 %}
 
 {% include committee-member.html
@@ -101,7 +101,7 @@ sidebar:
    institution="IIT Bombay"
    email="deepakjagtap@iitb.ac.in"
    role="Local Organizing Committees"
-   picture="/assets/images/committee/deepak.jpg"
+   picture="/assets/images/deepak.jpg"
 %}
 
 {% include committee-member.html
