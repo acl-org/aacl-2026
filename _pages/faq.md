@@ -159,7 +159,69 @@ Yes. Co-authors attending the conference in person (but not presenting) should r
 No. Only one presenting author per paper needs to register under the "Registering Paper" category.
 {: .answer}
 
-### 19. Whom should I contact for registration problems or clarifications?
+### 19. FAQs Regarding Non-Archival Workshop Papers
+{: .question}
+
+**Do authors of non-archival workshop papers need to register?**
+
+Yes. The presenting author of the non-archival paper must register for the conference.
+
+**Do non-archival papers require a "registering-paper" registration category?**
+
+No. Since non-archival papers will not be included in the official proceedings, such papers do not need to be registered in the "registering paper" category.
+
+**Under which category should authors of non-archival papers register?**
+
+Authors should register under any regular registration category appropriate to their status, such as:
+- IP – Full Conference – Academic
+- IP – Full Conference – Industry/Non-Academic
+- IP – Full Conference – Student
+- Workshop-Only Registration (if they plan to attend only the workshop)
+
+**If multiple authors of a non-archival paper want to attend, do all of them need to register?**
+
+Yes. Each attendee (including all coauthors) must register to attend the conference either virtually or in-person.
+
+**If an author is not attending the workshop but another co-author is presenting, does the non-attending author need to register?**
+
+No. Only authors who physically or virtually attend/present need to register.
+{: .answer}
+
+### 20. Will I receive a digital ID card?
+{: .question}
+Digital ID cards are only issued to virtual participants. If you are attending the conference in person, you will receive a physical ID card at the venue during on-site registration.
+{: .answer}
+
+### 21. Registration Invoice & ACL Membership Invoice
+{: .question}
+
+**My registration payment included both the conference fee and the ACL membership fee. Why does my invoice show only the conference fee?**
+
+ACL policy treats the conference registration fee and the ACL membership fee as two separate transactions, even if they are paid together through the same interface. Therefore, the registration system generates an invoice only for the conference fee.
+
+**How do I get the invoice for my ACL membership fee?**
+
+The ACL membership invoice/receipt is issued directly by the Association for Computational Linguistics. You can download it from your ACL Member Portal:
+- Visit: [aclweb.org/portal](https://aclweb.org/portal)
+- Log in → Go to "Payments/Receipts"
+- Download your membership invoice/receipt
+
+If you need help accessing it, contact: membership@aclweb.org
+
+**Can I receive a single combined invoice for both the conference registration fee and the ACL membership fee?**
+
+No. A combined invoice cannot be issued. Conference registration and ACL membership payments are processed through different systems, and ACL policy does not allow merging the two into a single invoice.
+
+**The conference system emailed me an invoice. Is that my official conference receipt?**
+
+Yes. The invoice you received from the IJCNLP–AACL 2025 registration system is the official conference registration invoice.
+
+**I need documents for reimbursement. Can the registration chairs help?**
+
+Yes. If you require any additional documentation for reimbursement purposes, the Registration Chairs will assist you. Please contact us.
+{: .answer}
+
+### 22. Whom should I contact for registration problems or clarifications?
 {: .question}
 **Registration Chairs – IJCNLP–AACL 2025**
 
