@@ -16,7 +16,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Saturday, December 20th, 09:00 - 10:00 
+## Saturday, December 20th, 09:30 - 10:30
 
 <img src="/assets/images/committee/keynote/kurohashi.jpg" style="height: 325px; display: block; margin: 0 auto;">
 

@@ -16,22 +16,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Saturday, December 20th, 12:00 - 12:30 
-
-<img src="/assets/images/committee/keynote/Prasanta-Kumar-Ghosh.jpg" style="height: 325px; display: block; margin: 0 auto;">
-
-### Prasanta Kumar Ghosh, Indian Institute of Science, In-Person Plenary Talk
-
-**Title**: Capturing the spoken language landscape of India for an inclusive digital India
-
-**Abstract**
-
-Digital interfaces and communications have become critical for access to information, entertainment, economic opportunities and even essential services such as healthcare. Speech is the most natural form of communication, and most Indians are not digital natives comfortable with typing or English. This brings the need for spoken language interfaces that work for all variations and dialects. But such data barely exists. IISc-ARTPARK's umbrella of open-source speech data initiatives, such as RESPIN, SYSPIN and VAANI, are capturing the true diversity of India’s spoken languages to propel language AI technologies and content for an inclusive digital India, in collaboration with Bhashini, MEITY.
-
-**Speaker's Bio**
-Prasanta Kumar Ghosh is an associate professor in the department of Electrical Engineering, Indian Institute of Science (IISc). Graduated (PhD) from University of Southern California, he has approximately 20 years of research experience in science and technology related to speech, audio and language, particularly in Indian languages. He has taken up major initiatives for creating open-sourced resources and models in Indic languages through projects like RESPIN, SYSPIN and Vaani.
-
-## Sunday, December 21st, 12:00 - 12:30
+## Sunday, December 21st, 10:00 - 10:30 
 
 <img src="/assets/images/committee/keynote/milena-haykowska.jpeg" style="height: 325px; display: block; margin: 0 auto;">
 
@@ -50,3 +35,18 @@ Throughout our work, CLEAR Global's 100,000+ volunteer linguist community provid
 **Speaker's Bio**
 
 Milena Haykowska is Technical Lead for Language Technology Programs at CLEAR Global. Her focus as an ICT(4D) professional of nearly 20 years in Africa, Asia and Europe has been on applying a human-centered approach to the design and implementation, ensuring an end-to-end inclusive delivery process.
+
+## Monday, December 22nd, 10:00 - 10:30
+
+<img src="/assets/images/committee/keynote/Prasanta-Kumar-Ghosh.jpg" style="height: 325px; display: block; margin: 0 auto;">
+
+### Prasanta Kumar Ghosh, Indian Institute of Science, In-Person Plenary Talk
+
+**Title**: Capturing the spoken language landscape of India for an inclusive digital India
+
+**Abstract**
+
+Digital interfaces and communications have become critical for access to information, entertainment, economic opportunities and even essential services such as healthcare. Speech is the most natural form of communication, and most Indians are not digital natives comfortable with typing or English. This brings the need for spoken language interfaces that work for all variations and dialects. But such data barely exists. IISc-ARTPARK's umbrella of open-source speech data initiatives, such as RESPIN, SYSPIN and VAANI, are capturing the true diversity of India’s spoken languages to propel language AI technologies and content for an inclusive digital India, in collaboration with Bhashini, MEITY.
+
+**Speaker's Bio**
+Prasanta Kumar Ghosh is an associate professor in the department of Electrical Engineering, Indian Institute of Science (IISc). Graduated (PhD) from University of Southern California, he has approximately 20 years of research experience in science and technology related to speech, audio and language, particularly in Indian languages. He has taken up major initiatives for creating open-sourced resources and models in Indic languages through projects like RESPIN, SYSPIN and Vaani.
