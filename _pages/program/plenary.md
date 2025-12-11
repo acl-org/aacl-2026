@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Sunday, December 21st, 10:00 - 10:30 
 
-<img src="/assets/images/committee/keynote/milena-haykowska.jpeg" style="height: 325px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/milena-haykowska.jpeg" style="height: 275px; display: block; margin: 0 auto;">
 
 ### Milena Haykowska, Clear Global / Translators without Borders, In-Person Plenary Talk
 
@@ -38,7 +38,7 @@ Milena Haykowska is Technical Lead for Language Technology Programs at CLEAR Glo
 
 ## Monday, December 22nd, 10:00 - 10:30
 
-<img src="/assets/images/committee/keynote/Prasanta-Kumar-Ghosh.jpg" style="height: 325px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/keynote/Prasanta-Kumar-Ghosh.jpg" style="height: 275px; display: block; margin: 0 auto;">
 
 ### Prasanta Kumar Ghosh, Indian Institute of Science, In-Person Plenary Talk
 
