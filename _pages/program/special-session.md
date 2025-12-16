@@ -18,7 +18,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 
 ## Tech for Tribes: Cultural Preservation, Social Equity and Enabling Access
 
-<img src="/assets/images/committee/special_sessions/Vibhu-Nayar.jpeg" style="height: 275px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/special_sessions/Vibhu-Nayar.jpeg" style="height: 225px; display: block; margin: 0 auto;">
 
 ### Shri. Vibhu Nayar, Senior Indian Administrative Service (IAS) Officer
 
@@ -38,7 +38,7 @@ Over the past years, he has worked on directing AI for disadvantaged communities
 
 ## BharatGen: Building India’s Sovereign, Multilingual AI
 
-<img src="/assets/images/committee/keynote/Ganesh.png" style="height: 275px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/special_sessions/Ganesh.png" style="height: 225px; display: block; margin: 0 auto;">
 
 ### Prof. Ganesh Ramakrishnan, IIT Bombay (Dept. of Computer Science and Engineering) & BharatGen (Lead PI)
 
@@ -56,7 +56,7 @@ Prof. Ganesh Ramakrishnan is the Principal Investigator at BharatGen, India's la
 
 ## CFILT Day (Special Session on CFILT)
 
-<img src="/assets/images/committee/keynote/pb.jpg" style="height: 275px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/special_sessions/pb.jpg" style="height: 225px; display: block; margin: 0 auto;">
 
 ### In memory of Prof. Pushpak Bhattacharyya: Alumni of CFILT and Invited NLP researchers from India
 
@@ -70,7 +70,7 @@ As part of IJCNLP–AACL 2025, we are hosting a special session titled "CFILT Da
 
 ## Special Session on Mission Bhashini
 
-<img src="/assets/images/committee/keynote/Amitabh-Nag.jpeg" style="height: 275px; display: block; margin: 0 auto;">
+<img src="/assets/images/committee/special_sessions/Amitabh-Nag.jpeg" style="height: 225px; display: block; margin: 0 auto;">
 
 ### Shri. Amitabh Nag, CEO of Digital India's BHASHINI Division and Director at Digital India Corporation
 
