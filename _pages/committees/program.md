@@ -126,7 +126,7 @@ sidebar:
 
 {% include committee-member.html
    name="Seunghun J. Lee"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Seunghun-J.-Lee.jpg"
    institution="International Christian University"
 %}
 
@@ -135,7 +135,7 @@ sidebar:
 
 {% include committee-member.html
    name="Qipeng Guo"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Qipeng-Guo.jpg"
    institution="Shanghai AI Laboratory"
 %}
 
@@ -270,7 +270,7 @@ sidebar:
 
 {% include committee-member.html
    name="Meishan Zhang"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Meishan-Zhang.png"
    institution="Harbin Institute of Technology (Shenzhen)"
    email="mason.zms@gmail.com"
    site="https://zhangmeishan.github.io/"
@@ -289,7 +289,7 @@ sidebar:
 
 {% include committee-member.html
    name="Deyi Xiong"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Deyi-Xiong.jpg"
    email="dyxiong@tju.edu.cn"
    site="https://dyxiong.github.io/"
    institution="Tianjin University"
@@ -316,7 +316,7 @@ sidebar:
 
 {% include committee-member.html
    name="Emily Allaway"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Emily-Allaway.jpg"
    institution="University of Edinburgh"
    email="emily.allaway@ed.ac.uk"
    site="https://emilyallaway.github.io/"
@@ -359,7 +359,7 @@ sidebar:
 
 {% include committee-member.html
    name="Jan Niehues"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Jan-Niehues.jpeg"
    institution="Karlsruhe Institute for Technology (KIT)"
 %}
 
@@ -377,7 +377,7 @@ sidebar:
 
 {% include committee-member.html
    name="François Yvon"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/François-Yvon.jpeg"
    institution="Senior Researcher, CNRS & Sorbonne Université"
 %}
 
@@ -402,7 +402,7 @@ sidebar:
 
 {% include committee-member.html
    name="Hideki Nakayama"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Hideki-Nakayama.png"
    institution="The University of Tokyo"
 %}
 
@@ -470,14 +470,14 @@ sidebar:
 
 {% include committee-member.html
    name="Takehito Utsuro"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Takehito-Utsuro.jpg"
    site="http://nlp.iit.tsukuba.ac.jp/member/utsuro/"
    institution="University of Tsukuba"
 %}
 
 {% include committee-member.html
    name="Tao Qi"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Tao-Qi.jpeg"
    institution="Tsinghua University"
 %}
 
@@ -511,7 +511,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yansong Feng"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yansong-Feng.jpeg"
    institution="Peking University"
    site="https://yansongfeng.github.io/"
 %}
@@ -538,7 +538,7 @@ sidebar:
 
 {% include committee-member.html
    name="Yunbo Cao"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Yunbo-Cao.jpeg"
    institution="Tencent"
    site="https://scholar.google.com/citations?user=nNVDLb4AAAAJ&hl=en"
 %}
@@ -608,7 +608,7 @@ sidebar:
 
 {% include committee-member.html
    name="Steven Schockaert"
-   picture="/assets/images/committee/senior_area_chairs/test.png"
+   picture="/assets/images/committee/senior_area_chairs/Steven-Schockaert.jpeg"
    institution="Cardiff University"
    site="https://scholar.google.com/citations?user=hNCN09AAAAAJ&hl=en"
 %}
