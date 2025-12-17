@@ -14,9 +14,7 @@ We are delighted to announce that the following special sessions happening durin
 
 ## Special Session on Mission Bhashini
 
-**Date & Time**
-
-20 December 2025 (Saturday), 4:00PM – 5:30PM
+### 20 December 2025 (Saturday), 4:00 PM – 5:30 PM
 
 **Venue**
 
@@ -30,30 +28,30 @@ Mission Bhashini is India’s pioneering initiative to break digital and languag
 
 This special session explores how Generative AI can be designed for India’s unique linguistic, cultural, and societal diversity, with a focus on inclusion, equity, and national capability-building. The session features the following two invited talks:
 
-### Tech for Tribes: Cultural Preservation, Social Equity, and Enabling Access
-
-**Date & Time** 
-
-21 December 2025 (Sunday), 2:00PM - 2:45PM
+### 21 December 2025 (Sunday), 2:00 PM - 2:45 PM
 
 **Venue**
 
 Room 23
+
+**Title**
+
+Tech for Tribes: Cultural Preservation, Social Equity, and Enabling Access
 
 **Abstract**
 
 This talk explores how NLP and AI can drive transformative change for India’s tribal communities through language preservation, digital inclusion, and culturally aligned technologies. Featuring Shri Vibhu Nayar, former Secretary, Ministry of Tribal Affairs, the session highlights the Ministry’s efforts in safeguarding tribal languages, enabling access to digital resources, and fostering technology-enabled development. Drawing on his extensive experience in governance and global development, Shri Nayar will discuss how Generative AI can amplify representation, preserve cultural heritage, and create new opportunities for disadvantaged geographies.
 
 
-### BharatGen — Building India’s Sovereign, Multilingual AI
-
-**Date and Time** 
-
-21 December 2025 (Sunday), 2:45PM - 3:30PM
+### 21 December 2025 (Sunday), 2:45 PM - 3:30 PM
 
 **Venue**
 
 Room 23
+
+**Title**
+
+BharatGen — Building India’s Sovereign, Multilingual AI
 
 **Abstract**
 
@@ -62,9 +60,7 @@ This talk presents BharatGen, India’s landmark initiative to develop sovereign
 
 ## Special Session on CFILT
 
-**Date & Time** 
-
-21 December 2025 (Sunday), 4:00PM - 5:30PM
+### 21 December 2025 (Sunday), 4:00 PM - 5:30 PM
 
 **Venue**
 
@@ -77,9 +73,7 @@ As part of IJCNLP–AACL 2025, we are hosting a special session titled "CFILT Da
 
 ## Special Session on Diversity & Inclusivity
 
-**Date & Time** 
-
-22 December 2025 (Monday), 11:00AM - 1:00PM
+### 22 December 2025 (Monday), 11:00 AM - 1:00 PM
 
 **Venue**
 
