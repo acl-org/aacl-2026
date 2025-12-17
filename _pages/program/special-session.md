@@ -14,7 +14,7 @@ We are delighted to announce that the following special sessions happening durin
 
 ## Special Session on Mission Bhashini
 
-**Date \& Time**
+**Date & Time**
 
 20 December 2025 (Saturday), 4:00PM – 5:30PM
 
@@ -32,7 +32,7 @@ This special session explores how Generative AI can be designed for India’s un
 
 ### Tech for Tribes: Cultural Preservation, Social Equity, and Enabling Access
 
-**Date \& Time** 
+**Date & Time** 
 
 21 December 2025 (Sunday), 2:00PM - 2:45PM
 
@@ -62,7 +62,7 @@ This talk presents BharatGen, India’s landmark initiative to develop sovereign
 
 ## Special Session on CFILT
 
-**Date \& Time** 
+**Date & Time** 
 
 21 December 2025 (Sunday), 4:00PM - 5:30PM
 
@@ -77,7 +77,7 @@ As part of IJCNLP–AACL 2025, we are hosting a special session titled "CFILT Da
 
 ## Special Session on Diversity & Inclusivity
 
-**Date \& Time** 
+**Date & Time** 
 
 22 December 2025 (Monday), 11:00AM - 1:00PM
 
