@@ -16,7 +16,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Sunday, December 21st, 10:00 - 10:30 
+## Sunday, December 21st, 10:00 AM - 10:30 AM
 
 <img src="/assets/images/committee/keynote/milena-haykowska.jpeg" style="height: 275px; display: block; margin: 0 auto;">
 
@@ -36,7 +36,7 @@ Throughout our work, CLEAR Global's 100,000+ volunteer linguist community provid
 
 Milena Haykowska is Technical Lead for Language Technology Programs at CLEAR Global. Her focus as an ICT(4D) professional of nearly 20 years in Africa, Asia and Europe has been on applying a human-centered approach to the design and implementation, ensuring an end-to-end inclusive delivery process.
 
-## Monday, December 22nd, 10:00 - 10:30
+## Monday, December 22nd, 10:00 AM - 10:30 AM
 
 <img src="/assets/images/committee/keynote/Prasanta-Kumar-Ghosh.jpg" style="height: 275px; display: block; margin: 0 auto;">
 

@@ -16,7 +16,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Saturday, December 20th, 09:30 - 10:30
+## Saturday, December 20th, 09:30 AM - 10:30 AM
 
 <img src="/assets/images/committee/keynote/kurohashi.jpg" style="height: 275px; display: block; margin: 0 auto;">
 
@@ -38,7 +38,7 @@ In this keynote, I will present the motivations, organization, and progress of L
 
 Sadao Kurohashi received a PhD in Electrical Engineering from Kyoto University in 1994. He is currently the Director-General of the National Institute of Informatics, Japan, and a Specially Appointed Professor at the Graduate School of Informatics at Kyoto University. His research interests include natural language processing, knowledge infrastructure, and open science. He received the 10th and 20th anniversary best paper awards from the Journal of Natural Language Processing in 2004 and 2014, respectively, the 2009 IBM Faculty Award, the 2010 NTT DOCOMO Mobile Science Award, and the 2017 Commendation for Science and Technology by the Minister of Education.
 
-## Sunday, December 21st, 09:00 - 10:00
+## Sunday, December 21st, 09:00 AM - 10:00 AM
 
 <img src="/assets/images/committee/keynote/diyi-yang.jpg" style="height: 275px; display: block; margin: 0 auto;">
 
@@ -55,7 +55,7 @@ Recent advances in large language models (LLMs) have revolutionized how humans a
 Diyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Diyi received her PhD from Carnegie Mellon University, and her bachelor's degree from Shanghai Jiao Tong University. Her research focuses on socially aware natural language processing, large language models, and human-AI interaction. She is a recipient of  IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).   Her work has received multiple paper awards at top NLP and HCI conferences.
 
 
-## Monday, December 22nd, 09:00 - 10:00
+## Monday, December 22nd, 09:00 AM - 10:00 AM
 
 <img src="/assets/images/committee/keynote/chenghua-p.png" style="height: 275px; display: block; margin: 0 auto;">
 
