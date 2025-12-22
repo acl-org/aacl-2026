@@ -30,7 +30,7 @@ Mission Bhashini is India’s pioneering initiative to break digital and languag
 
 This special session explores how Generative AI can be designed for India’s unique linguistic, cultural, and societal diversity, with a focus on inclusion, equity, and national capability-building. The session features the following two invited talks:
 
-### Tech for Tribes: Cultural Preservation, Social Equity, and Enabling Access
+### BharatGen — Building India’s Sovereign, Multilingual AI
 
 **Date & Time** 
 
@@ -45,7 +45,7 @@ Room 23
 This talk explores how NLP and AI can drive transformative change for India’s tribal communities through language preservation, digital inclusion, and culturally aligned technologies. Featuring Shri Vibhu Nayar, former Secretary, Ministry of Tribal Affairs, the session highlights the Ministry’s efforts in safeguarding tribal languages, enabling access to digital resources, and fostering technology-enabled development. Drawing on his extensive experience in governance and global development, Shri Nayar will discuss how Generative AI can amplify representation, preserve cultural heritage, and create new opportunities for disadvantaged geographies.
 
 
-### BharatGen — Building India’s Sovereign, Multilingual AI
+### Tech for Tribes: Cultural Preservation, Social Equity, and Enabling Access
 
 **Date and Time** 
 
