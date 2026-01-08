@@ -22,7 +22,7 @@ sidebar:
     
     Datetime: 23 Dec, 14:00 - 17:30
 
-3. **NLP for Affective Science: Exploring Fundamental Questions on Emotions through Language and Computation**
+3. **[NLP for Affective Science: Exploring Fundamental Questions on Emotions through Language and Computation](https://saifmohammad.com/WebPages/CAS-tutorial.html)**
 
     *Saif M. Mohammad, Krishnapriya Vishnubhotla*
 
