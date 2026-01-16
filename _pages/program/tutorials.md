@@ -10,13 +10,13 @@ sidebar:
     nav: program
 ---
 
-1. **Source Attribution for Large Language Models**
+1. <s>**Source Attribution for Large Language Models**</s> (Canceled)
 
-    *Vipula Rawte, Koustava Goswami, Puneet Mathur and Nedim Lipka*
+    <s>*Vipula Rawte, Koustava Goswami, Puneet Mathur and Nedim Lipka*</s>
     
-    Datetime: 23 Dec, 9:00 - 12:30
+    <s>Datetime: 23 Dec, 9:00 - 12:30</s>
 
-2. **Continual Learning in Large Language Models: Foundations to Frontiers**
+2. **[Continual Learning in Large Language Models: Foundations to Frontiers](https://clnlptutorial.github.io/)**
     
     *P. K. Srijith, Shrey Satapara and Sarath Chandar*
     
@@ -28,13 +28,14 @@ sidebar:
 
     Datetime: 23 Dec, 9:00 - 12:30
 
-4. **Human–Agent Teaming for Higher-Order Thinking Augmentation**
+4. **[Human–Agent Teaming for Higher-Order Thinking Augmentation](https://nlpfin.github.io/sites/aacl2025.html)**
 
     *Chung-Chi Chen*
 
     Datetime: 23 Dec, 14:00 - 17:30
 
-5. **Beyond Guardrails: Advanced Safety for Large Language Models — Monolingual, Multilingual and Multimodal Frontiers**
+5. **[Beyond Guardrails: Advanced Safety for Large Language Models — Monolingual, Multilingual and Multimodal Frontiers](https://softminer-tutorial.github.io/
+)**
 
     *Somnath Banerjee, Rima Hazra and Animesh Mukherjee*
     
