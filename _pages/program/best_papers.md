@@ -15,7 +15,6 @@ sidebar:
 _Jonne Sälevä, Duygu Ataman, Constantine Lignos_
 
 ## Best Theme Paper
-*(Advanced Reasoning and Chain‑of‑Thought in Language Models)*
 
 **Reasoning Models Reason Well, Until They Don't**<br/>
 _Revanth Rameshkumar, Jimson Huang, Yunxin Sun, Fei Xia, Abulhair Saparov_
