@@ -50,7 +50,7 @@ program:
         url: /program/special-sessions/
   - title: "Awards"
     children:
-      - title: "Best \& Outstanding Papers"
+      - title: "Best Papers & Honorable Mentions"
         url: /program/best_papers/
       - title: "Outstanding ACs/Reviewers"
         url: /program/outstanding_reviewers/
