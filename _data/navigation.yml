@@ -48,6 +48,12 @@ program:
         url: /program/plenary/
       - title: "Special Sessions"
         url: /program/special-sessions/
+  - title: "Awards"
+    children:
+      - title: "Best \& Outstanding Papers"
+        url: /program/best_papers/
+      - title: "Outstanding ACs/Reviewers"
+        url: /program/outstanding_reviewers/
 
 calls:
   - title: "Call for"
