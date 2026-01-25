@@ -11,7 +11,7 @@ sidebar:
 
 ## Best Paper
 
-**From Tests to Effect Sizes: Quantifying Uncertainty and Statistical Variability in Multilingual NLP Evaluation**<br/>
+**Beyond statistical significance: Quantifying uncertainty and statistical variability in multilingual and multitask NLP evaluation**<br/>
 _Jonne Sälevä, Duygu Ataman, Constantine Lignos_
 
 ## Best Theme Paper
