@@ -9,5 +9,4 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-Coming soon!
-
+The AACL-IJCNLP 2026 Ethics Committee will be announced soon.

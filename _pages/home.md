@@ -1,47 +1,25 @@
 ---
-title: "International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025"
+title: "The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/mumbai/aacl_2025_background.jpg"
-  #caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2025 Website Image.png</a> '
-  # caption: "Photo @ Wallpaper Flare"
-excerpt: "December 20 &ndash;24<br>Mumbai, India"
+  overlay_image: "/assets/images/aacl_2026_banner_v2.png"
+excerpt: "November 6 &ndash; 10, 2026<br>Hengqin, China"
 ---
 
 ## Welcome!
-The 14th IJCNLP & 4th AACL will be held in Mumbai, India from **December 20th** to **December 24th, 2025**.
+The 5th AACL & 15th IJCNLP will be held in Hengqin, China from **November 6th** to **November 10th, 2026**.
 
 ## Important Dates
 
-ARR submission deadline (long & short papers) | July 28, 2025
-Reviewer registration deadline for ALL authors | July 30, 2025
-Review submission deadline | September 1, 2025
-Author response and author-reviewer discussion | September 9 - 15, 2025
-Meta-review deadline | September 25, 2025
-Meta-review release | October 2, 2025
-Commitment deadline | October 10, 2025
-Notification of acceptance (long & short papers) | October 25, 2025
-Camera-ready papers due (long & short) | November 10, 2025
-Main Conference (dates for Workshops/Tutorials TBD) | December 20 - 24, 2025
-
-**Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
-
+More details will be announced soon. Please stay tuned!
 
 <!--
-## Important Dates
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
+ARR submission deadline (long & short papers) | TBD
+Commitment deadline | TBD
+Notification of acceptance (long & short papers) | TBD
+Camera-ready papers due (long & short) | TBD
+Main Conference | November 6 - 10, 2026
 
-### Main Conference Papers
-<style>
-.news-table { font-size: .9em; table-layout: fixed;}
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
-</style>
-| ARR submission deadline (long & short papers) | June 15, 2024
-| Commitment deadline for EMNLP 2024 | August 20, 2024
-| Notification of acceptance (long & short papers) | September 20, 2024
-| Camera-ready papers due (long & short) | October 3, 2024
-| Main Conference | November 12-14, 2024
-| Workshops and Tutorials | November 15-16, 2024
-{: .news-table}
+**Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
 -->

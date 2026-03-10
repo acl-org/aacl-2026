@@ -8,117 +8,28 @@ toc_sticky: true
 toc_icon: "cog"
 toc_label: "&nbsp;Sponsorship Tier"
 
-diamond:
-   - url: https://bhashini.gov.in/
-     image_path: /assets/images/BHASHINI_LOGO.jpeg
-     alt: Mission Bhashini
-     title: BHASHINI
+# diamond:
+#   - url:
+#     image_path:
+#     alt:
+#     title:
 
-platinum:
-  - url: https://www.e2enetworks.com/
-    image_path: /assets/images/logos/e2enetworks-logo.png
-    alt: E2E NETWORKS
-    title: E2E NETWORKS
-  - url: https://velloni.com/
-    image_path: /assets/images/logos/velloni_logo.png
-    alt: Velloni Ind Pvt. Ltd.
-    title: Velloni
-  - url: https://bharatgen.com/
-    image_path: /assets/images/logos/BharatGen.png
-    alt: BharatGen Technology Foundation
-    title: BharatGen
-  - url: https://www.joshtalks.com/
-    image_path: /assets/images/joshtalks_logo.png
-    alt: Josh Talks Private Limited
-    title: Humanness by Josh Talks
-  - url: https://baidu.com
-    image_path: /assets/images/Baidu.png
-    alt: Baidu
-    title: Baidu
-  - url: https://www.hcltech.com/
-    image_path: /assets/images/hcltech.jpg
-    alt: HCLTech
-    title: HCLTech
+# platinum:
+#   - url:
+#     image_path:
+#     alt:
+#     title:
 
-gold:
-  - url: https://research.google/
-    image_path: /assets/images/logos/google-logo.jpg
-    alt: Google
-    title: Google
-  - url: https://sbifoundation.in/
-    image_path: /assets/images/SBI_LOGO.png
-    alt: SBI Foundation
-    title: SBI Foundation
-
-ruby:
-  - url: https://dsai.iitm.ac.in/
-    image_path: /assets/images/logos/WSAI_Logo.png
-    alt: Wadhwani School of Data Science and AI, IIT Madras
-    title: Wadhwani School of Data Science and AI, IIT Madras
-  - url: https://desicrew.in/
-    image_path: /assets/images/logos/desicrew.png
-    alt: DesiCrew Solutions Private Limited
-    title: DesiCrew Solutions Private Limited
-  - url: https://www.karya.in/
-    image_path: /assets/images/logos/karya_logo.png
-    alt: DAIA Tech Private Limited
-    title: Karya
-  - url: https://tribal.nic.in/
-    image_path: /assets/images/mota_logo.png
-    alt: Ministry of Tribal Affairs
-    title: Ministry of Tribal Affairs
-  - url: https://www.jioinstitute.edu.in/
-    image_path: /assets/images/logos/jio.png
-    alt: Jio Institute
-    title: Jio Institute
-
-silver:
-  - url: https://www.ibm.com/
-    image_path: /assets/images/logos/IBM_LOGO.jpg
-    alt: IBM
-    title: IBM
-  - url: https://www.minds.iitb.ac.in
-    image_path: /assets/images/logos/cminds.png
-    alt: CMinDS
-    title: CMinDS
-  - url: https://drdo.gov.in/
-    image_path: /assets/images/drdo.png
-    alt: DYSL-AI-DRDO
-    title: DYSL-AI-DRDO
-  - url: https://scai.iitd.ac.in/
-    image_path: /assets/images/scai.png
-    alt: School of AI, IIT Delhi
-    title: Yardi School of Artificial Intelligence
-
-
-#   - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
-#     image_path: /assets/images/logos/bloomberg-logo.png
-#     alt: Bloomberg
-#     title: Bloomberg
-#   - url: https://www.appen.com/
-#     image_path: /assets/images/logos/appen-logo.png
-#     alt: Appen
-#     title: Appen
-
-bronze:
-  - url: https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering
-    image_path: /assets/images/logos/unsw-sydney-logo.jpg
-    alt: School of Computer Science and Engineering, UNSW Sydney
-    title: School of Computer Science and Engineering, UNSW Sydney
-  - url: https://www.netwebindia.com/
-    image_path: /assets/images/logos/04_Netweb.jpg
-    alt: Netweb Technologies India Limited
-    title: Netweb
-
-# di_ally:
-#   - url: https://machinelearning.apple.com
-#     image_path: /assets/images/logos/apple-logo.png
-#     alt: Apple
-#     title: Apple
+# gold:
+#   - url:
+#     image_path:
+#     alt:
+#     title:
 ---
 
-IJCNLP-AACL 2025 invites you to sponsor the conference. If your organization would like to sponsor the IJCNLP-AACL 2025, please refer to our [Sponsorship Booklet](/assets/AACL25Brochure.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Aditya Joshi (<aditya.joshi@unsw.edu.au>), Manmeet Singh Kapoor (<manmeetsinghkapoor27@gmail.com>) and Sudipta Kar (<sudipta.kar.8080@gmail.com>). 
-<!-- The deadline to sponsor IJCAI-AACL 2025 is Wednesday, September 10, 2025. -->
+AACL-IJCNLP 2026 invites you to sponsor the conference. If your organization would like to sponsor AACL-IJCNLP 2026, please contact us for information about sponsorship rates and benefits.
+
+<!-- Sponsorship details will be announced soon. -->
 
 <style>
 .sponsors-list { justify-content: flex-start; }
@@ -141,31 +52,14 @@ IJCNLP-AACL 2025 invites you to sponsor the conference. If your organization wou
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-
-## Diamond
+<!-- ## Diamond
 
 {% include sponsors-list id="diamond" layout="third" %}
 
 ## Platinum
 
-{% include sponsors-list id="platinum" layout="third" %} 
+{% include sponsors-list id="platinum" layout="third" %}
 
 ## Gold
 
-{% include sponsors-list id="gold" layout="third" %}
-
-## Ruby
-
-{% include sponsors-list id="ruby" layout="third" %}
-
-## Silver
-
-{% include sponsors-list id="silver" layout="third" %}
-
-## Bronze
-
-{% include sponsors-list id="bronze" layout="third" %}
-
-<!-- ## Diversity and Inclusion: Ally
-
-{% include sponsors-list id="di_ally" layout="third" %} -->
+{% include sponsors-list id="gold" layout="third" %} -->

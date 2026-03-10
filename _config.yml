@@ -17,22 +17,22 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "IJCNLP-AACL 2025"
+title                    : "AACL-IJCNLP 2026"
 title_separator          : "-"
-name                     : "ijcnlp-aacl"
-description              : "Official website for the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, 2025"
-url                      : "https://github.com/FreedomIntelligence/FreedomIntelligence.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "aacl-ijcnlp"
+description              : "Official website for the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing, 2026"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logos/aacl-logo-v0.1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/aacl-2026-logo-v2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "          " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "emnlp2025"
+    shortname            : "aacl2026"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -57,9 +57,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : emnlpmeeting
+  username               : aaclmeeting
 facebook:
-  username               : emnlp2025
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haiyue Song"
+  name             : "AACL-IJCNLP 2026"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Contact me if any information need to be added to this website."
-  location         : "Kyoto, Japan"
+  bio              : "Contact us if any information needs to be added to this website."
+  location         : "Hengqin, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:haiyue.song@nict.go.jp
+      # url: mailto:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://shyyhs.github.io/"
+      # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -119,8 +119,7 @@ footer:
     #   url: https://facebook.com/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/aacl-ijcnlp-2025
-      #url: https://github.com/FreedomIntelligence/FreedomIntelligence.github.io
+      # url: https://github.com/acl-org/aacl-ijcnlp-2026
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   url:

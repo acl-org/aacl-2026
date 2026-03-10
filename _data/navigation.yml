@@ -4,14 +4,14 @@ main:
   - title: "Calls"
     url: /calls/main_conference_papers/
 
-  - title: "Program"
-    url: /program/
+  # - title: "Program"
+  #   url: /program/
 
-  - title: "Registration"
-    url: /registration/
+  # - title: "Registration"
+  #   url: /registration/
 
-  - title: "Participants Info"
-    url: /venue
+  # - title: "Participants Info"
+  #   url: /venue
 
   - title: "Committees"
     url: /organization
@@ -19,17 +19,26 @@ main:
   - title: "Sponsors"
     url: /sponsors/
 
-  # - title: "Proceedings"
-  #   url: "https://aclanthology.org/events/emnlp-2022/"
+  # - title: "FAQ"
+  #   url: /faq/
 
-  # - title: "MiniConf"
-  #   url: https://virtual2023.emnlp.org/
-    
-  - title: "FAQ"
-    url: /faq/
- 
-  # - title: "Ethics"
-  #   url: /ethics/faq/
+calls:
+  - title: "Call for"
+    children:
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
+      - title: "Workshops"
+        url: /calls/workshops/
+      - title: "Tutorials"
+        url: /calls/tutorials/
+      - title: "System Demonstration"
+        url: /calls/demos/
+      - title: "Student Research Workshop"
+        url: /calls/srw/
+      # - title: "Volunteers"
+      #   url: /calls/volunteers/
+      # - title: "Diversity & Inclusion Subsidies"
+      #   url: /calls/subsidies/
 
 program:
   - title: "Programs"
@@ -55,25 +64,6 @@ program:
       - title: "Outstanding ACs/Reviewers"
         url: /program/outstanding_reviewers/
 
-calls:
-  - title: "Call for"
-    children:
-      - title: "Main Conference Papers"
-        url: /calls/main_conference_papers/
-      - title: "Workshops"
-        url: /calls/workshops/
-      - title: "Tutorials"
-        url: /calls/tutorials/
-      - title: "System Demonstration"
-        url: /calls/demos/
-      - title: "Student Research Workshop"
-        url: /calls/srw/
-      - title: "Volunteers"
-        url: /calls/volunteers/ 
-      - title: "Diversity & Inclusion Subsidies"
-        url: /calls/subsidies/
-
-
 committees:
   - title: Committees
     children:
@@ -82,13 +72,8 @@ committees:
       - title: "Senior Area Chairs"
         url: /organization/program/
 
-
 participants:
   - title: "Participants Information"
     children:
       - title: "Venue"
         url: /venue
-#       - title: "Visa Requirements"
-#         url: /participants/visa_requirements
-#       - title: "Transportation"
-#         url: /participants/transportation

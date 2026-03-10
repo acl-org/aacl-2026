@@ -1,5 +1,5 @@
 ---
-title: EMNLP 2025 Blog
+title: AACL-IJCNLP 2026 Blog
 layout: archive
 permalink: /blog/
 author_profile: false
@@ -9,6 +9,4 @@ share: true
 comments: false
 ---
 
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+No blog posts yet. Check back later for updates about AACL-IJCNLP 2026.

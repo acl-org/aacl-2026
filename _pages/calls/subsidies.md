@@ -2,20 +2,20 @@
 title: Call for Diversity and Inclusion Subsidies
 layout: single
 permalink: /calls/subsidies/
-sidebar: 
+sidebar:
     nav: "calls"
 toc: true
 toc_sticky: true
 toc_icon: "cog"
 ---
 
-We're excited to announce the Diversity and Inclusion initiatives for **IJCNLP-AACL 2025**, designed to make our conference more accessible and inclusive for the global NLP community.
+We're excited to announce the Diversity and Inclusion initiatives for **AACL-IJCNLP 2026** (the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 15th International Joint Conference on Natural Language Processing), designed to make our conference more accessible and inclusive for the global NLP community.
 
 
 ## D&I Subsidy Program
 
-- **Application Deadline**: <s>November 14, 2025</s> **November 20, 2025**
-- **Notifications**: <s>November 24, 2025</s>  **November 30, 2025**
+- **Application Deadline**: TBD
+- **Notifications**: TBD
 
 We're offering subsidies to support participation from researchers facing financial barriers, particularly those from developing countries, underrepresented communities, and students. Available subsidies include:
 - **Registration fee waivers** for conference attendance
@@ -28,17 +28,16 @@ We're offering subsidies to support participation from researchers facing financ
 **Who should apply?** Priority goes to first-time attendees, authors with accepted papers, and members of underrepresented communities without institutional funding support.
 
 
-**Application tips:** Clearly justify your need (e.g., "I have an accepted paper but my institution cannot fund registration fees" or "As a first-time attendee from [country], I lack travel funding"). **Do not register until you receive notification—early bird registration ends November 30, 2025.**
+**Application tips:** Clearly justify your need (e.g., "I have an accepted paper but my institution cannot fund registration fees" or "As a first-time attendee from [country], I lack travel funding"). **Do not register until you receive notification.**
 
-
-Apply here - [https://tinyurl.com/ijcnlp-aacl-2025-di](https://tinyurl.com/ijcnlp-aacl-2025-di)
+The application form will be announced soon.
 
 
 ## Mentorship Program
 
-This year the IJCNLP-AACL 2025 D&I committee is partnering with the [Widening NLP initiative](https://winlp-workshop.github.io) to conduct this activity. Connect with experienced researchers through our mentorship program, available both in-person and virtually. Whether you're navigating your first conference or seeking career guidance, we'll match you with mentors aligned with your interests and goals.
+The AACL-IJCNLP 2026 D&I committee plans to partner with the [Widening NLP initiative](https://winlp-workshop.github.io) to conduct mentorship activities. Connect with experienced researchers through our mentorship program, available both in-person and virtually. Whether you're navigating your first conference or seeking career guidance, we'll match you with mentors aligned with your interests and goals.
 
-Apply here - [Application Form](https://forms.office.com/r/Tr9aSqebzN)
+The application form will be announced soon.
 
 ## Additional D&I Activities
 
@@ -49,11 +48,7 @@ Apply here - [Application Form](https://forms.office.com/r/Tr9aSqebzN)
 ## Contact Information
 
 **Diversity & Inclusion Chairs:**
-- [Sriparna Saha](https://www.iitp.ac.in/~sriparna/), IIT Patna
-- [Sudeshna Sarkar](https://cse.iitkgp.ac.in/~sudeshna/), IIT Kharagpur
-- [Tirthankar Ghosal](https://www.ornl.gov/staff-profile/tirthankar-ghosal), Oak Ridge National Laboratory
 
+Details will be announced soon.
 
-If you have any enquiries, please contact the IJCNLP-AACL 2025 D&I Chairs via [aacl-ijcnlp25-dei_chairs@googlegroups.com](mailto:aacl-ijcnlp25-dei_chairs@googlegroups.com).
-
-We look forward to welcoming a diverse community of researchers to IJCNLP-AACL 2025!
+We look forward to welcoming a diverse community of researchers to AACL-IJCNLP 2026 in Hengqin, China!

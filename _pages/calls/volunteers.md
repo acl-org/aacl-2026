@@ -2,52 +2,47 @@
 title:  Call for Volunteers
 layout: single
 permalink: /calls/volunteers/
-sidebar: 
+sidebar:
     nav: "calls"
 ---
 
 ## Call for Volunteers
 
-Join us as a student volunteer at the 2025 Conference on International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025), taking place December 20–24 in Mumbai, India. We are seeking dedicated students, both for in-person and online roles, to contribute to the success of this event.
+Join us as a student volunteer at AACL-IJCNLP 2026 (the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 15th International Joint Conference on Natural Language Processing), taking place November 6-10, 2026 in Hengqin, China. We are seeking dedicated students, both for in-person and online roles, to contribute to the success of this event.
 
 ### What You Gain
 Selected volunteers will receive complimentary registration to the main conference, workshops, tutorials, and social events. Shifts are designed to optimize your access to conference events.
 
 ## Roles and Responsibilities
 
-Volunteer tasks encompass various aspects such as assisting at the registration desk, on-boarding briefs to delegates checking in, problem solving, providing directional support at the conference venue, organizing delegate packs, overseeing poster sessions, coordinating volunteers, and providing AV/technical support, including social media management and aiding with conference events. If you apply and are selected as a virtual volunteer your roles and responsibilities will be monitoring content on platforms such as RocketChat; Underline, MiniConf etc. As a virtual attendee you will report content issues on publications and report issues to the on-site technical support team. With this knowledge, please make sure you possess the skills to handle such requirements during the conference.
+Volunteer tasks encompass various aspects such as assisting at the registration desk, on-boarding briefs to delegates checking in, problem solving, providing directional support at the conference venue, organizing delegate packs, overseeing poster sessions, coordinating volunteers, and providing AV/technical support, including social media management and aiding with conference events. If you apply and are selected as a virtual volunteer your roles and responsibilities will be monitoring content on various conference platforms. As a virtual attendee you will report content issues on publications and report issues to the on-site technical support team. With this knowledge, please make sure you possess the skills to handle such requirements during the conference.
 
 ## Selection Criteria
 Candidates will be assessed based on their application package (details below). Preference will be given to students presenting papers at the main conference or affiliated workshops without alternative travel support.
 
 ## Application Process
 - Applicants must be full-time students.
-- Submission requires a completed [application form](https://docs.google.com/forms/d/1DDzeCPGD8si5wNCeCyN1WrIgAbWEVL44tSCAUnxcbeE/edit) with a few questions and a concise one-page CV (resume).
-- Travel and accommodations should be arranged independently, regardless of the application outcome. Special Rate Lodging is secured by ACL months in advance to the conference. The discounted rates can be seen and secured by going to the Conference website under Venue.
+- Submission requires a completed application form (to be announced) with a few questions and a concise one-page CV (resume).
+- Travel and accommodations should be arranged independently, regardless of the application outcome.
 
 ## Application Instructions
-**Important Note: Please refrain from registering for the ACL Conference until you receive a confirmation of acceptance into the Volunteer Service.** 
+**Important Note: Please refrain from registering for the conference until you receive a confirmation of acceptance into the Volunteer Service.**
 
-Upon acceptance, you’ll receive a dedicated registration link. Additionally, access will be provided to a Volunteer Website with essential information, FAQs, training materials, and a scheduling system to choose volunteer days and roles. To receive a complimentary registration for the ACL Event, it is crucial to note that a minimum of **10 hours of volunteer work** at the event is mandatory. These hours can be divided across several shifts on different days or completed in a single shift. Failure to meet the volunteer commitment will result in being charged the in-person conference fee.
+Upon acceptance, you'll receive a dedicated registration link. Additionally, access will be provided to a Volunteer Website with essential information, FAQs, training materials, and a scheduling system to choose volunteer days and roles. To receive a complimentary registration for the conference, it is crucial to note that a minimum of **10 hours of volunteer work** at the event is mandatory. These hours can be divided across several shifts on different days or completed in a single shift. Failure to meet the volunteer commitment will result in being charged the in-person conference fee.
 
-**In the event of non-acceptance, the Registrar will assist in securing early registration fee rates.** For late volunteer registration reimbursements, students need to provide receipts for paid registration fees to the IJCNLP-AACL 2025 Reimbursement Link which will be provided to you by the Volunteer Chairs.
+**In the event of non-acceptance, the Registrar will assist in securing early registration fee rates.**
 
 ## Financial Support
-Being a volunteer awards you a complimentary registration solely for IJCNLP-AACL 2025. If you require further financial assistance for lodging, airfare, or daily expenses, it’s advisable to apply for [Diversity and Inclusion Subsidies](https://2025.aaclnet.org/calls/subsidies/). You have the liberty to seek both a Volunteer subsidy and a D&I subsidy simultaneously, as there are no restrictions against receiving both. To review the criteria for D&I Subsidies, please refer to the Call for D&I Post, which includes selection criteria.
+Being a volunteer awards you a complimentary registration solely for AACL-IJCNLP 2026. If you require further financial assistance for lodging, airfare, or daily expenses, it's advisable to apply for [Diversity and Inclusion Subsidies](/calls/subsidies/). You have the liberty to seek both a Volunteer subsidy and a D&I subsidy simultaneously, as there are no restrictions against receiving both. To review the criteria for D&I Subsidies, please refer to the Call for D&I Subsidies page, which includes selection criteria.
 
 ## Important Dates
-- Application Opens: October 20, 2025
-- Application Deadline: November 20, 2025 (23:59 Anywhere on Earth)
-- Acceptance Notifications: November 27, 2025 (23:59 Anywhere on Earth)
+- Application Opens: TBD
+- Application Deadline: TBD
+- Acceptance Notifications: TBD
 
 ## Contact Details
 
-For any inquiries, please reach out to the Student Volunteer Chairs: 
-[ijcnlp-aacl-2025-student-volunteers@googlegroups.com](mailto:ijcnlp-aacl-2025-student-volunteers@googlegroups.com)
+Details will be announced soon.
 
 
-We look forward to your participation in making IJCNLP-AACL 2025 a success!
-
-
-
-
+We look forward to your participation in making AACL-IJCNLP 2026 a success!
