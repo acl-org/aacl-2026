@@ -56,7 +56,7 @@ sidebar:
 %}
 {% include committee-member.html
    name="Haofen Wang"
-   institution="Tongji University, China"
+   institution="Tongji University"
    email="haofen.wang@tongji.edu.cn"
    role="Local Organizing Chair"
    picture="/assets/images/committee/Haofen-Wang.jpg"
