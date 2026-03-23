@@ -27,7 +27,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     title:
 ---
 
-AACL-IJCNLP 2026 extends its deepest gratitude to all its sponsors. We sincerely thank you in advance for your commitment to the NLP/CL community. If your organization would like to sponsor AACL-IJCNLP 2026, please refer to our Sponsorship Booklet for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Yan Song (<songyan@ustc.edu.cn>), Yuanhe Tian (<tianyuanhe@zgci.ac.cn>) and Longyue Wang (<vincentwang0229@gmail.com>).
+AACL-IJCNLP 2026 extends its deepest gratitude to all its sponsors. We sincerely thank you in advance for your commitment to the NLP/CL community. If your organization would like to sponsor AACL-IJCNLP 2026, please refer to our Sponsorship Booklet for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Yan Song (<songyan@ustc.edu.cn>) and Yuanhe Tian (<tianyuanhe@zgci.ac.cn>).
 
 <!-- Sponsorship details will be announced soon. -->
 
