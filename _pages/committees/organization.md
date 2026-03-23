@@ -54,6 +54,13 @@ sidebar:
    role="Local Organizing Chair"
    picture="/assets/images/committee/Derek-F-Wong.png"
 %}
+{% include committee-member.html
+   name="Haofen Wang"
+   institution="Tongji University, China"
+   email="haofen.wang@tongji.edu.cn"
+   role="Local Organizing Chair"
+   picture="/assets/images/committee/Haofen-Wang.jpg"
+%}
 
 <h2>Local Organizing Committees</h2>
 {% include committee-member.html
