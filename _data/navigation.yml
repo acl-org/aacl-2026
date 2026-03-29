@@ -10,8 +10,8 @@ main:
   # - title: "Registration"
   #   url: /registration/
 
-  # - title: "Participants Info"
-  #   url: /venue
+  - title: "Participants Info"
+    url: /venue
 
   - title: "Committees"
     url: /organization
@@ -75,5 +75,9 @@ committees:
 participants:
   - title: "Participants Information"
     children:
-      - title: "Venue"
+      - title: "Venue & Accommodation"
         url: /venue
+      - title: "Transport"
+        url: /venue#transport
+      - title: "What to Do in Hengqin"
+        url: /venue#what-to-do-in-hengqin
