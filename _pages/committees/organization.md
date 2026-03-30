@@ -43,7 +43,7 @@ sidebar:
    institution="Tohoku University"
    email="jun.suzuki@tohoku.ac.jp"
    role="Program Chairs"
-   picture="/assets/images/committee/default-avatar.png"
+   picture="/assets/images/committee/Jun-Suzuki-2026.jpeg"
 %}
 
 <h2>Local Organizing Chair</h2>
