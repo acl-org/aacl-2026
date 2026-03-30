@@ -41,9 +41,9 @@ sidebar:
 {% include committee-member.html
    name="Jun Suzuki"
    institution="Tohoku University"
-   email="is-failab-research@grp.tohoku.ac.jp"
+   email="jun.suzuki@tohoku.ac.jp"
    role="Program Chairs"
-   picture="/assets/images/committee/Jun-Suzuki-2026.jpeg"
+   picture="/assets/images/committee/default-avatar.png"
 %}
 
 <h2>Local Organizing Chair</h2>
