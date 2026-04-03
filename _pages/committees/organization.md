@@ -126,13 +126,29 @@ sidebar:
    picture="/assets/images/committee/Derry-Wijaya.jpg"
 %}
 
-<h2>Student Research Workshop Chair</h2>
+<h2>Student Research Workshop Chair: Faculty Advisors</h2>
 {% include committee-member.html
    name="Yixin Cao"
    institution="Fudan University"
    email="yxcao@fudan.edu.cn"
    role="Student Research Workshop Chair"
    picture="/assets/images/committee/Yixin-Cao.png"
+%}
+
+<h2>Student Research Workshop Chairs</h2>
+{% include committee-member.html
+   name="Shibo Hong"
+   institution="Fudan University"
+   email="hongshibo02@gmail.com"
+   role="Student Research Workshop Chair"
+   picture="/assets/images/committee/default-avatar.png"
+%}
+{% include committee-member.html
+   name="Yuhang Zhou"
+   institution="Shanghai Innovation Institute"
+   email="yuhangzhou22@m.fudan.edu.cn"
+   role="Student Research Workshop Chair"
+   picture="/assets/images/committee/Yuhang-Zhou.png"
 %}
 
 <h2>Best Paper Award Chair</h2>
