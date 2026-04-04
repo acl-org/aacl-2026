@@ -141,14 +141,14 @@ sidebar:
    institution="Fudan University"
    email="hongshibo02@gmail.com"
    role="Student Research Workshop Chair"
-   picture="/assets/images/committee/default-avatar.png"
+   picture="/assets/images/committee/Shibo-Hong.jpg"
 %}
 {% include committee-member.html
    name="Yuhang Zhou"
    institution="Shanghai Innovation Institute"
    email="yuhangzhou22@m.fudan.edu.cn"
    role="Student Research Workshop Chair"
-   picture="/assets/images/committee/Yuhang-Zhou.png"
+   picture="/assets/images/committee/Yuhang-Zhou.jpg"
 %}
 
 <h2>Best Paper Award Chair</h2>
