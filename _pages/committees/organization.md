@@ -95,17 +95,16 @@ sidebar:
 %}
 
 <h2>Tutorial Chairs</h2>
+Contact: <a href="mailto:aacl-2026-tutorial-chairs@googlegroups.com">aacl-2026-tutorial-chairs@googlegroups.com</a>
 {% include committee-member.html
    name="Zhongqing Wang"
    institution="Soochow University"
-   email="wangzq@suda.edu.cn"
    role="Tutorial Chairs"
    picture="/assets/images/committee/Zhongqing-Wang.jpg"
 %}
 {% include committee-member.html
    name="Naoaki Okazaki"
    institution="Institute of Science Tokyo"
-   email="okazaki@comp.isct.ac.jp"
    role="Tutorial Chairs"
    picture="/assets/images/committee/Naoaki-Okazaki.jpg"
 %}

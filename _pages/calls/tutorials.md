@@ -17,11 +17,11 @@ We especially encourage submissions from early-career researchers.
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Proposal Submission Due</td>
-      <td>TBD</td>
+      <td>June 1, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Notification of Acceptance</td>
-      <td>TBD</td>
+      <td>July 15, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Main Conference</td>
@@ -94,4 +94,7 @@ Accepted tutorial presenters will be notified by the date mentioned above. They 
 
 **Tutorial Chairs:**
 
-Details will be announced soon.
+- Zhongqing Wang, Soochow University
+- Naoaki Okazaki, Institute of Science Tokyo
+
+Email: [aacl-2026-tutorial-chairs@googlegroups.com](mailto:aacl-2026-tutorial-chairs@googlegroups.com)
