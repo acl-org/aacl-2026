@@ -23,28 +23,29 @@ Submissions (in both categories) may be archival or non-archival, based on the w
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Pre-Submission Mentorship Deadline</td>
-      <td>TBD</td>
+      <td>June 8, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Pre-Submission Mentorship Feedback</td>
-      <td>TBD</td>
+      <td>July 5, 2026</td>
   </tr>
   <tr>
-      <td style="width: 50%;">Submission Deadline</td>
-      <td>TBD</td>
+      <td style="width: 50%;">Direct Submission Deadline</td>
+      <td>July 26, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">ARR Commitment Deadline</td>
-      <td>TBD</td>
+      <td>September 17, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Notification of Acceptance</td>
-      <td>TBD</td>
+      <td>September 21, 2026</td>
   </tr>
   <tr>
-      <td style="width: 50%;">Camera Ready</td>
-      <td>TBD</td>
+      <td style="width: 50%;">Camera-Ready Deadline</td>
+      <td>September 30, 2026</td>
   </tr>
+  <!--
   <tr>
       <td style="width: 50%;">Grant Application Submission</td>
       <td>TBD</td>
@@ -53,6 +54,7 @@ Submissions (in both categories) may be archival or non-archival, based on the w
       <td style="width: 50%;">Grant Application Notification</td>
       <td>TBD</td>
   </tr>
+  -->
   <tr>
       <td style="width: 50%;">Main Conference</td>
       <td>November 6 - 10, 2026</td>
@@ -115,10 +117,11 @@ You CAN submit a paper at the SRW submission deadline even if you did not partic
 
 ## Contact Information
 
-**Student Chairs:**
+**Student Research Workshop Chairs:**
 
-Details will be announced soon.
+- Shibo Hong, Fudan University
+- Yuhang Zhou, Shanghai Innovation Institute
 
-**Faculty Advisors:**
+**Faculty Advisor:**
 
-Details will be announced soon.
+- Yixin Cao, Fudan University
