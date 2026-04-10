@@ -25,8 +25,6 @@ Tutorials will be held at one of the following conference venues:
 
 ## Important Dates
 
-EMNLP/AACL-IJCNLP 2026 shared dates:
-
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Proposal Submission Deadline</td>
@@ -42,11 +40,7 @@ EMNLP/AACL-IJCNLP 2026 shared dates:
   </tr>
   <tr>
       <td style="width: 50%;">Main Conference</td>
-      <td>
-        <b>EMNLP</b>: October 24 - 29, 2026
-        <br/>
-        <b>AACL-IJCNLP</b>: November 6 - 10, 2026
-      </td>
+      <td>November 6 - 10, 2026</td>
   </tr>
 </table>
 
