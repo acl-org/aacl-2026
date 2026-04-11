@@ -27,12 +27,12 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
-      - title: "Workshops"
-        url: /calls/workshops/
+      # - title: "Workshops"
+      #   url: /calls/workshops/
       - title: "Tutorials"
         url: /calls/tutorials/
-      - title: "System Demonstration"
-        url: /calls/demos/
+      # - title: "System Demonstration"
+      #   url: /calls/demos/
       - title: "Student Research Workshop"
         url: /calls/srw/
       # - title: "Volunteers"

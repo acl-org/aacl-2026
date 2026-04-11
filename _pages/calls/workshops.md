@@ -4,6 +4,7 @@ layout: single
 permalink: /calls/workshops/
 sidebar:
     nav: "calls"
+published: false
 ---
 
 ## Overview
