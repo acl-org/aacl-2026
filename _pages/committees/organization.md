@@ -149,6 +149,13 @@ Contact: <a href="mailto:aacl-2026-tutorial-chairs@googlegroups.com">aacl-2026-t
    role="Student Research Workshop Chair"
    picture="/assets/images/committee/Yuhang-Zhou.jpg"
 %}
+{% include committee-member.html
+   name="Wenhe Sun"
+   institution="Fudan University"
+   email="whsun25@m.fudan.edu.cn"
+   role="Student Research Workshop Chair"
+   picture="/assets/images/committee/Wenhe-Sun.jpg"
+%}
 
 <h2>Best Paper Award Chair</h2>
 {% include committee-member.html
