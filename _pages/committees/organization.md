@@ -89,7 +89,7 @@ sidebar:
 {% include committee-member.html
    name="Ratish Puduppully"
    institution="IT University of Copenhagen"
-   email="ratishpuduppully@gmail.com"
+   email="rapu@itu.dk"
    role="Workshop Chairs"
    picture="/assets/images/committee/Ratish-Puduppully.jpg"
 %}
