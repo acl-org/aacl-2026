@@ -4,6 +4,9 @@ layout: single
 permalink: /calls/workshops/
 sidebar:
     nav: "calls"
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
 
 ## Overview
@@ -57,7 +60,7 @@ Each workshop runs its own Call for Papers, with its own deadlines and topics. T
 
 
 ## Submission Guidelines
-Workshop proposals were solicited through a [joint call](https://groups.google.com/g/ml-news/c/W-fucfhVto4) issued by AACL and EMNLP. The call is now closed.
+Workshop proposals were solicited through a joint call issued by AACL and EMNLP.
 
 Each submission should contain a maximum 4 pages: max 2 pages for main proposal + max 2 pages for workshop organizers information.
 
