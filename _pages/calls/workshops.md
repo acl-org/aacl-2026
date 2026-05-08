@@ -4,7 +4,6 @@ layout: single
 permalink: /calls/workshops/
 sidebar:
     nav: "calls"
-published: false
 ---
 
 ## Overview
@@ -17,9 +16,17 @@ AACL-IJCNLP 2026 (the 5th Conference of the Asia-Pacific Chapter of the Associat
 - Computational Social Science
 - Digital Humanities.
 
-Workshops will be held in Hengqin, China. In-person format is preferred, with hybrid format allowed under special circumstances.
+Workshops will be held on **November 9–10, 2026** in Hengqin, China. In-person format is preferred, with hybrid format allowed under special circumstances.
 
 *Important Note*: At least one organizer of accepted workshops must be present in person in Hengqin, China.
+
+## Workshop Schedule
+
+You can find the list and schedule of accepted workshops for AACL-IJCNLP 2026 [here](/program/workshops/).
+
+## Submitting a Paper to a Workshop
+
+Each workshop runs its own Call for Papers, with its own deadlines and topics. To submit, please visit the website of the workshop you are interested in. Links are provided on the [Workshops](/program/workshops/) page.
 
 ## Important Dates
 
@@ -27,30 +34,22 @@ Workshops will be held in Hengqin, China. In-person format is preferred, with hy
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">First Call for Proposals</td>
-      <td>TBD</td>
-  </tr>
-  <tr>
-      <td style="width: 50%;">Submission Link Posted</td>
-      <td>TBD</td>
-  </tr>
-  <tr>
-      <td style="width: 50%;">Second Call for Proposals</td>
-      <td>TBD</td>
+      <td>December 12, 2025</td>
   </tr>
   <tr>
       <td style="width: 50%;">Proposal Submission Due</td>
-      <td>TBD</td>
+      <td>January 16, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Notification of Acceptance</td>
-      <td>TBD</td>
+      <td>February 20, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Main Conference - Workshops</td>
       <td>
         <b>Main</b>: November 6 - 10, 2026
         <br/>
-        <b>Workshops</b>: TBD
+        <b>Workshops</b>: November 9 - 10, 2026
       </td>
 
   </tr>
@@ -58,6 +57,8 @@ Workshops will be held in Hengqin, China. In-person format is preferred, with hy
 
 
 ## Submission Guidelines
+Workshop proposals were solicited through a [joint call](https://groups.google.com/g/ml-news/c/W-fucfhVto4) issued by AACL and EMNLP. The call is now closed.
+
 Each submission should contain a maximum 4 pages: max 2 pages for main proposal + max 2 pages for workshop organizers information.
 
 **Main Proposal (2 Pages)**
@@ -78,9 +79,6 @@ Each submission should contain a maximum 4 pages: max 2 pages for main proposal 
 - Brief advertisement/tagline (up to 140 characters)
 - Review platform choice (ARR/OpenReview/START)
 - Unlimited space for references
-
-**Submission Style & Portal**
-The template and submission guidelines will be announced soon. Details on the submission portal will be provided in due course.
 
 ## Diversity & Evaluation
 We encourage diverse participation and evaluate proposals on multiple criteria.
@@ -103,4 +101,5 @@ We encourage diverse participation and evaluate proposals on multiple criteria.
 
 **Workshop Chairs:**
 
-Details will be announced soon.
+- Xuefeng Bai, Harbin Institute of Technology, Shenzhen — [baixuefeng@hit.edu.cn](mailto:baixuefeng@hit.edu.cn)
+- [Ratish Puduppully](https://ratishsp.github.io/), IT University of Copenhagen — [rapu@itu.dk](mailto:rapu@itu.dk)
