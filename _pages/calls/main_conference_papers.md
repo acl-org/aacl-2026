@@ -65,7 +65,7 @@ AACL-IJCNLP 2026 aims to have a broad technical program. Relevant topics for the
 
 ## Paper Submission Information
 
-Details about the submission process will be announced soon.
+[ARR 2026 May](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May) cycle is aligned with two conferences (EMNLP and AACL). The authors will need to explicitly declare which conference they intend to commit to at submission time. ARR 2026 May submissions that do not select AACL 2026 during submission will not be able to commit to AACL 2026. Meanwhile, any papers submitted and reviewed in prior ARR cycles are welcome to commit to AACL 2026.
 
 ## Presentation at the Conference
 
@@ -73,4 +73,12 @@ All accepted papers must be presented at the conference to appear in the proceed
 
 ## Contact Information
 
-More details will be announced soon.
+**General Chair:** Yue Zhang, Westlake University
+
+**Program Chairs:**
+- Ruifeng Xu, Harbin Institute of Technology, Shenzhen
+- Ayu Purwarianti, Institut Teknologi Bandung
+- Tong Rong, Singapore Institute of Technology
+- Jun Suzuki, Tohoku University
+
+For paper submission and review process inquiries, contact [editors@aclrollingreview.org](mailto:editors@aclrollingreview.org).
