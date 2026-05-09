@@ -41,7 +41,7 @@ Each workshop runs its own Call for Papers, with its own deadlines and topics. T
   </tr>
   <tr>
       <td style="width: 50%;">Proposal Submission Due</td>
-      <td>January 16, 2026</td>
+      <td>January 16, 2026 (11:59 PM <a href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC-12h</a>)</td>
   </tr>
   <tr>
       <td style="width: 50%;">Notification of Acceptance</td>
@@ -60,18 +60,21 @@ Each workshop runs its own Call for Papers, with its own deadlines and topics. T
 
 
 ## Submission Guidelines
-Workshop proposals were solicited through a joint call issued by AACL and EMNLP.
+Workshop proposals were solicited through a joint call issued by AACL and EMNLP. Submissions were accepted via the [SoftConf portal](https://softconf.com/p/acl-workshops2026/).
 
-Each submission should contain a maximum 4 pages: max 2 pages for main proposal + max 2 pages for workshop organizers information.
+Each submission should contain a maximum 4 pages: max 2 pages for main proposal + max 2 pages for workshop organizers information. Proposals must use the provided LaTeX template; non-compliant submissions will be desk rejected.
 
 **Main Proposal (2 Pages)**
 
-- Title and brief description of workshop topic and content
-- List of invited speakers with confirmation status and funding sources
+- Title, acronym, and brief description of workshop topic and content
+- Discussion of hybrid/virtual contingency plans
+- List of invited speakers with confirmation status and funding sources (optional)
 - Estimate of the number of attendees
 - Workshop format specification (in-person preferred)
-- Description of shared tasks and participant estimates
+- Description of shared tasks and participant estimates (optional)
 - Special requirements and technical needs
+- Venue limitations, if applicable
+- Diversity and inclusion plans
 - Previous workshop iterations (if applicable)
 
 **Organizer Information (2 pages)**
@@ -79,9 +82,12 @@ Each submission should contain a maximum 4 pages: max 2 pages for main proposal 
 - Names, affiliations, and email addresses of organizers
 - One-paragraph research interests and expertise statements
 - Program Committee members list with confirmation status
-- Brief advertisement/tagline (up to 140 characters)
-- Review platform choice (ARR/OpenReview/START)
-- Unlimited space for references
+- Review platform choice (ARR/OpenReview or START)
+- References
+
+## Financial Support
+
+A single free workshop registration will be provided for an invited speaker. All other costs must be covered by the workshop organizers independently.
 
 ## Diversity & Evaluation
 We encourage diverse participation and evaluate proposals on multiple criteria.
