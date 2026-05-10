@@ -21,8 +21,6 @@ AACL-IJCNLP 2026 (the 5th Conference of the Asia-Pacific Chapter of the Associat
 
 Workshops will be held on **November 9–10, 2026** in Hengqin, China. In-person format is preferred, with hybrid format allowed under special circumstances.
 
-*Important Note*: At least one organizer of accepted workshops must be present in person in Hengqin, China.
-
 ## Workshop Schedule
 
 You can find the list and schedule of accepted workshops for AACL-IJCNLP 2026 [here](/program/workshops/).
