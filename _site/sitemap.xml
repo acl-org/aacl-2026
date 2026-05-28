@@ -90,6 +90,9 @@
 <loc>http://0.0.0.0:4000/program/demo/</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/calls/demos/</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/registration/discounted_virtual_registration/</loc>
 </url>
 <url>
