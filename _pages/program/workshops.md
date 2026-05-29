@@ -12,7 +12,7 @@ The following 13 workshops will be co-located with AACL-IJCNLP 2026.
 ## Monday, November 9
 
 W1. **Fifth Workshop on Multimodal Machine Learning in Low-resource Languages (MMLow 2026)**
-* Organizers: Bharathi Raja Chakravarthi, Saranya Rajiakodi, Premjith B, Shunmuga Priya MC, Abirami Murugappan, Prasanna Kumar Kumaresan
+* Organizers: Bharathi Raja Chakravarthi, Saranya Rajiakodi, Premjith B, Shunmuga Priya MC, Abirami Murugappan, Jyothish Lal G, Sowmya V, Prasanna Kumar Kumaresan, Rahul Ponnusamy
 * Date: Monday, November 9
 
 W2. **The 13th Workshop on Asian Translation (WAT 2026)**
