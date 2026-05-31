@@ -32,36 +32,35 @@ Main Conference (dates for Workshops/Tutorials TBD) | November 6 - 10, 2026
 
 AACL-IJCNLP 2026 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas:
 
-- Safety and Alignment in LLMs
-- AI/LLM Agents
-- Human-AI Interaction/Cooperation
-- Retrieval-Augmented Language Models
-- Mathematical, Symbolic, and Logical Reasoning in NLP
-- Computational Social Science, Cultural Analytics, and NLP for Social Good
-- Code Models
-- Interpretability, Model Editing, Transparency, and Explainability
-- LLM Efficiency
-- Generalizability and Transfer
+- Clinical and Biomedical Applications
+- Computational Social Science and Cultural Analytics
 - Dialogue and Interactive Systems
-- Discourse, Pragmatics, and Reasoning
-- Low-resource Methods for NLP
+- Discourse and Pragmatics
+- Efficient Methods for NLP
 - Ethics, Bias, and Fairness
-- Natural Language Generation
-- Information Extraction and Retrieval
-- Linguistic theories, Cognitive Modeling and Psycholinguistics
+- Generation
+- Human-Centered NLP and Human-AI Interaction
+- Information Extraction
+- Information Retrieval and Text Mining
+- Interpretability and Analysis of Models for NLP
+- Language Modeling
+- LLM Agents
+- Linguistic Theories, Cognitive Modeling, and Psycholinguistics
+- Machine Learning for NLP
 - Machine Translation
-- Multilinguality and Language Diversity
+- Multilingualism and Cross-Lingual NLP
 - Multimodality and Language Grounding to Vision, Robotics and Beyond
-- Neurosymbolic approaches to NLP
-- Phonology, Morphology and Word Segmentation
+- NLP and Code Models
+- NLP and Symbolic Reasoning
+- NLP Applications
+- Phonology, Morphology, and Word Segmentation
 - Question Answering
 - Resources and Evaluation
-- Semantics: Lexical, Sentence-level Semantics, Textual Inference and Other areas
+- Semantics: Lexical and Sentence-Level
 - Sentiment Analysis, Stylistic Analysis, and Argument Mining
-- Speech Processing and Spoken Language Understanding
+- Speech Recognition, Text-to-Speech and Spoken Language Understanding
 - Summarization
-- Hierarchical Structure Prediction, Syntax, and Parsing
-- NLP Applications
+- Syntax: Tagging, Chunking and Parsing
 
 ## Paper Submission Information
 
