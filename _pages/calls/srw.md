@@ -109,7 +109,7 @@ There are two routes for paper submission:
 ## Pre-Submission Mentorship Program
 The SRW offers students the opportunity to receive feedback prior to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student's work. Participation is optional but encouraged. The pre-submission mentorship is not anonymous.
 
-Students wishing to participate in the pre-submission mentorship must submit their paper draft through the mentorship portal (to be announced) by the pre-submission mentorship deadline listed above. The paper needs to be **anonymized**. The organizers will check the formality of the paper including formatting before matching it with mentors.
+Students wishing to participate in the pre-submission mentorship must submit their paper draft through the [mentorship portal](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2026/SRW_Pre-Submission) by the pre-submission mentorship deadline listed above. The paper needs to be **anonymized**. The organizers will check the formality of the paper including formatting before matching it with mentors.
 
 The participants will be assigned a mentor who will review and provide feedback, which will be given by the pre-submission mentorship feedback date listed above. This mentor will not be the same person who will review the final submission. The feedback will be in the form of guidelines and suggestions to improve the overall writing, which should ideally be incorporated before the actual submission deadline.
 
