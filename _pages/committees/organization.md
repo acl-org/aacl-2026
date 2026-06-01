@@ -264,13 +264,20 @@ Contact: <a href="mailto:aacl-2026-tutorial-chairs@googlegroups.com">aacl-2026-t
    picture="/assets/images/committee/Ekaterina-Vylomova.jpeg"
 %}
 
-<h2>Diversity & Inclusion Chair</h2>
+<h2>Diversity & Inclusion Chairs</h2>
 {% include committee-member.html
    name="Mamoru Komachi"
    institution="Hitotsubashi University"
    email="mamoru.komachi@r.hit-u.ac.jp"
-   role="Diversity & Inclusion Chair"
+   role="Diversity & Inclusion Chairs"
    picture="/assets/images/committee/Mamoru-Komachi.jpeg"
+%}
+{% include committee-member.html
+   name="Emily Ohman"
+   institution="Waseda University"
+   email="ohman@waseda.jp"
+   role="Diversity & Inclusion Chairs"
+   picture="/assets/images/committee/Emily-Ohman.jpeg"
 %}
 
 <h2>Student Volunteer Chair</h2>
