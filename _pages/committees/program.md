@@ -19,7 +19,7 @@ sidebar:
 
 {% include committee-member.html
    name="Aditya Joshi"
-   institution="UNSW"
+   institution="University of New South Wales"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -27,7 +27,7 @@ sidebar:
 
 {% include committee-member.html
    name="Hyunwoo Kim"
-   institution="KAIST"
+   institution="Korea Advanced Institute of Science and Technology"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -49,7 +49,7 @@ sidebar:
 
 {% include committee-member.html
    name="Zhiqiang Shen"
-   institution="MBZUAI"
+   institution="Mohamed bin Zayed University of Artificial Intelligence"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -57,7 +57,7 @@ sidebar:
 
 {% include committee-member.html
    name="Sirui Han"
-   institution="HKUST(Guangzhou)"
+   institution="The Hong Kong University of Science and Technology (Guangzhou)"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -71,7 +71,7 @@ sidebar:
 
 {% include committee-member.html
    name="Pengfei Cao"
-   institution="Institute of Automation, CAS"
+   institution="Institute of Automation, Chinese Academy of Sciences"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -127,7 +127,7 @@ sidebar:
 
 {% include committee-member.html
    name="Tatsuki Kuribayashi"
-   institution="MBZUAI"
+   institution="Mohamed bin Zayed University of Artificial Intelligence"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -157,7 +157,7 @@ sidebar:
 
 {% include committee-member.html
    name="Fajri Koto"
-   institution="MBZUAI"
+   institution="Mohamed bin Zayed University of Artificial Intelligence"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -205,7 +205,7 @@ sidebar:
 
 {% include committee-member.html
    name="Taro Watanabe"
-   institution="NAIST"
+   institution="Nara Institute of Science and Technology"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -235,7 +235,7 @@ sidebar:
 
 {% include committee-member.html
    name="Bin Liang"
-   institution="CUHK"
+   institution="The Chinese University of Hong Kong"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
@@ -251,7 +251,7 @@ sidebar:
 
 {% include committee-member.html
    name="Min Yen Kan"
-   institution="NUS"
+   institution="National University of Singapore"
    picture="/assets/images/committee/default-avatar.png"
 %}
 
