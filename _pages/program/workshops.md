@@ -62,5 +62,6 @@ W12. **NL2SQL 2026: AI Agents for Robust Natural Language to SQL Generation**
 * Date: Tuesday, November 10
 
 W13. **NORA: KNOwledge GRaphs & Agentic Systems Interplay**
-* Organizers: Andre Melo, Btissam Er-Rahmadi, Damien Graux, Hajira Jabeen, Sebastien Montella
+* Organizers: Btissam Er-Rahmadi, Sebastien Montella, Damien Graux, Andre Melo, Hajira Jabeen
+* Website: [https://nora-workshop.github.io/AACL2026/](https://nora-workshop.github.io/AACL2026/)
 * Date: Tuesday, November 10
