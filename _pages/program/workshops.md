@@ -24,7 +24,8 @@ W3. **The 7th Workshop on Gender Bias in Natural Language Processing (GeBNLP)**
 * Date: Monday, November 9
 
 W4. **The First Workshop on Multimodal, Multilingual, and Multicultural Mental Health and Psychotherapy (MultiPsyche)**
-* Organizers: Zimu Wang, Yiwen Jiang, Yaling Shen, Xiangyu Zhao, Stephanie Fong, Xin Sun, Yi Zhou, Shaoxiong Ji, Joseph Kambeitz, Jiahuan Pei, Barnaby Nelson, Dominic Dwyer, Zongyuan Ge
+* Organizers: Zimu Wang, Yiwen Jiang, Yaling Shen, Xiangyu Zhao, Stephanie Fong, Xin Sun, Yi Zhou, Shaoxiong Ji, Robert Desimone, Barnaby Nelson, Dominic Dwyer, Zongyuan Ge
+* Website: [https://sites.google.com/view/multipsyche](https://sites.google.com/view/multipsyche)
 * Date: Monday, November 9
 
 W5. **Workshop on Multi-modality and Multi-lingual Language Learning**
