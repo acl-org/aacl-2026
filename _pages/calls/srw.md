@@ -27,7 +27,7 @@ Submissions (in both categories) may be archival or non-archival, based on the w
   </tr>
   <tr>
       <td style="width: 50%;">Pre-Submission Mentorship Feedback</td>
-      <td>July 5, 2026</td>
+      <td>July 10, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Direct Submission Deadline</td>
