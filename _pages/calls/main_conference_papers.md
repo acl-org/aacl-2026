@@ -19,7 +19,7 @@ The conference will be held in **Hengqin, China** from **November 6th** to **Nov
 
 ARR submission deadline (long & short papers) | May 25, 2026
 Reviewer registration deadline for ALL authors | May 27, 2026
-Author response and author-reviewer discussion | July 7 - 13, 2026
+Author response and author-reviewer discussion | July 8 - 14, 2026
 Meta review released | July 30, 2026
 Commitment deadline | August 2, 2026
 Notification of acceptance (long & short papers) | September 7, 2026
