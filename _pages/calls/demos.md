@@ -80,7 +80,7 @@ The accompanying paper should outline the system's design with sufficient detail
 
 Submissions lacking any form of evaluation may face desk rejection.
 
-**Length**: Up to **6 pages**, plus **2 pages** for references and informative appendices. Longer submissions will be desk rejected. Papers must conform to the AACL-IJCNLP 2026 official style guidelines, be in PDF format, and describe original, unpublished work (publication is archival). Use the official template and submit via OpenReview (link TBD). Templates are available at the [ACL Rolling Review CFP page](https://aclrollingreview.org/cfp#paper-submission-and-templates).
+**Length**: Up to **6 pages**, plus **2 pages** for references and informative appendices. Longer submissions will be desk rejected. Papers must conform to the AACL-IJCNLP 2026 official style guidelines, be in PDF format, and describe original, unpublished work (publication is archival). Use the official template and submit via [OpenReview](https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2026/System_Demonstrations). Templates are available at the [ACL Rolling Review CFP page](https://aclrollingreview.org/cfp#paper-submission-and-templates).
 
 ### A Demonstration Video
 

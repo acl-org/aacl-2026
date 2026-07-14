@@ -13,14 +13,17 @@ The following 13 workshops will be co-located with AACL-IJCNLP 2026.
 
 W1. **Fifth Workshop on Multimodal Machine Learning in Low-resource Languages (MMLow 2026)**
 * Organizers: Bharathi Raja Chakravarthi, Saranya Rajiakodi, Premjith B, Shunmuga Priya MC, Abirami Murugappan, Jyothish Lal G, Sowmya V, Prasanna Kumar Kumaresan, Rahul Ponnusamy
+* Website: [https://sites.google.com/view/mmlow2026/](https://sites.google.com/view/mmlow2026/)
 * Date: Monday, November 9
 
 W2. **The 13th Workshop on Asian Translation (WAT 2026)**
 * Organizers: Toshiaki Nakazawa, Isao Goto, Hideya Mino, Raj Dabre, Haiyue Song, Shantipriya Parida, Ondřej Bojar, Chenhui Chu, Masaaki Nagata, Katsuhito Sudoh, Sadao Kurohashi
+* Website: [https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/)
 * Date: Monday, November 9
 
 W3. **The 7th Workshop on Gender Bias in Natural Language Processing (GeBNLP)**
 * Organizers: Giuseppe Attanasio, Christine Basta, Marta R. Costa-jussà, Agnieszka Faleńska, Vera Neplenbroek, Debora Nozza, Karolina Stańczak
+* Website: [https://gebnlp-workshop.github.io/](https://gebnlp-workshop.github.io/)
 * Date: Monday, November 9
 
 W4. **The First Workshop on Multimodal, Multilingual, and Multicultural Mental Health and Psychotherapy (MultiPsyche)**
@@ -30,10 +33,12 @@ W4. **The First Workshop on Multimodal, Multilingual, and Multicultural Mental H
 
 W5. **Workshop on Multi-modality and Multi-lingual Language Learning**
 * Organizers: Xiaoman Wang, Qianyu Wang, Zhengyuan Liu, Nancy F. Chen, Zheng Yuan, Yunshi Lan, Jing Jiang
+* Website: [https://xiaoaugenstern.github.io/Multi-LLL-2026/](https://xiaoaugenstern.github.io/Multi-LLL-2026/)
 * Date: Monday, November 9
 
 W6. **Language Technologies for Crisis Preparedness and Response (LT4CPR)**
 * Organizers: Antonios Anastasopoulos, William D. Lewis, Fei Xia
+* Website: [https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/cfp.html](https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/cfp.html)
 * Date: Monday, November 9
 
 ## Tuesday, November 10
@@ -43,15 +48,18 @@ W7. **DASH: Data, Agents, Systems, and Human-in-the-Loop**
 * Date: Tuesday, November 10
 
 W8. **TrustAudio: Workshop on Secure, Safe, and Privacy-Preserving Speech and Audio AI**
-* Organizers: Nancy F. Chen, Yiming Chen, Xiaoxue Gao, Haizhou Li, Berrak Sisman, Xianghu Yue
+* Organizers: Nancy F. Chen, Yiming Chen, Xiaoxue Gao, Haizhou Li, Björn Schuller, Berrak Sisman, Xianghu Yue
+* Website: [https://trustaudio.github.io/](https://trustaudio.github.io/)
 * Date: Tuesday, November 10
 
 W9. **The First Workshop on Pluralistic Value Alignment of LLMs (PlurVA-LLM)**
 * Organizers: Deyi Xiong, António Branco, Hongming Zhang, Yue Dong, Benyou Wang, Wenxuan Zhang, Li Zhou
+* Website: [https://plurvallm2026.github.io/](https://plurvallm2026.github.io/)
 * Date: Tuesday, November 10
 
-W10. **SDP 2026: The 6th Workshop on Scholarly Document Processing**
-* Organizers: Philipp Mayr, Tirthankar Ghosal, Dan Li, Aakanksha Naik, Georg Rehm, Sonja Schimmler, Amanpreet Singh, Anita de Waard
+W10. **Workshop for Artificial Intelligence for Scientific Publications (WASP)**
+* Organizers: Atilla Kaan Alkan, Alberto Accomazzi, Tirthankar Ghosal, Felix Grezes, Kelly Lockhart
+* Website: [https://ui.adsabs.harvard.edu/WIESP/2026/](https://ui.adsabs.harvard.edu/WIESP/2026/)
 * Date: Tuesday, November 10
 
 W11. **RARA: Grounding Documents with Reasoning, Agents, Retrieval, and Attribution**
