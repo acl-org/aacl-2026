@@ -66,6 +66,8 @@ AACL-IJCNLP 2026 aims to have a broad technical program. Relevant topics for the
 
 [ARR 2026 May](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/May) cycle is aligned with two conferences (EMNLP and AACL). The authors will need to explicitly declare which conference they intend to commit to at submission time. ARR 2026 May submissions that do not select AACL 2026 during submission will not be able to commit to AACL 2026. Meanwhile, any papers submitted and reviewed in prior ARR cycles are welcome to commit to AACL 2026.
 
+<p style="color: darkblue;"><strong>Note: The AACL-IJCNLP 2026 commitment site on OpenReview is not yet available. The commitment link will be published here as soon as it is ready.</strong></p>
+
 ## Presentation at the Conference
 
 All accepted papers must be presented at the conference to appear in the proceedings. The conference will include both in-person and virtual presentation options.
