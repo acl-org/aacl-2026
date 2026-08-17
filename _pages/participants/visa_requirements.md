@@ -25,7 +25,7 @@ For the latest visa exemption policy, please refer to the [Visa Exemption Policy
 
 ### 2. Transit Visa
 
-Citizens of ~55 countries can transit through China visa-free when traveling onward to a third country:
+[Citizens of ~55 countries](https://en.nia.gov.cn/n147418/n147463/c183412/content.html) can transit through China visa-free when traveling onward to a third country:
 
 - 24-hour visa-free transit (with interline ticket)
 - 72-hour / 144-hour visa-free transit (54 eligible countries)
