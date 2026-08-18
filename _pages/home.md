@@ -17,6 +17,7 @@ Reviewer registration deadline for ALL authors | May 27, 2026
 Author response and author-reviewer discussion | July 7 - 13, 2026
 Meta review released | July 30, 2026
 Commitment deadline | <del>August 2, 2026</del> <span style="color: darkblue;"><strong>August 7, 2026</strong></span>
+Second-round commitment deadline | <span style="color: darkblue;"><strong>August 25, 2026</strong></span>
 Notification of acceptance (long & short papers) | September 7, 2026
 Camera-ready papers due (long & short) | September 30, 2026
 Main Conference (dates for Workshops/Tutorials TBD) | November 6 - 10, 2026
