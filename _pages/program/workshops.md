@@ -7,7 +7,7 @@ sidebar:
     nav: program
 ---
 
-The following 13 workshops will be co-located with AACL-IJCNLP 2026.
+The following 12 workshops will be co-located with AACL-IJCNLP 2026.
 
 ## Monday, November 9
 
@@ -43,8 +43,9 @@ W6. **Language Technologies for Crisis Preparedness and Response (LT4CPR)**
 
 ## Tuesday, November 10
 
-W7. **DASH: Data, Agents, Systems, and Human-in-the-Loop**
-* Organizers: Yiru Chen, Eduard Dragut, Lucian Popa, Kun Qian
+W7. **Workshop on Autonomous Research and Recursive Self-Improvement (ARRSI)**
+* Organizers: Yuxuan Zhang, Kelsey Allen, Yixuan He, Greg Durrett, Peter West, Yizhi Li, Rui Meng, Dingmin Wang, Hao Zhang, Wenhu Chen, Mingchen Zhuge, Jian Yang, Xianglong Liu, Ming Zhou, Hanqi Yan
+* Website: [https://ar-rsi.github.io/](https://ar-rsi.github.io/)
 * Date: Tuesday, November 10
 
 W8. **TrustAudio: Workshop on Secure, Safe, and Privacy-Preserving Speech and Audio AI**
@@ -62,15 +63,12 @@ W10. **Workshop for Artificial Intelligence for Scientific Publications (WASP)**
 * Website: [https://ui.adsabs.harvard.edu/WIESP/2026/](https://ui.adsabs.harvard.edu/WIESP/2026/)
 * Date: Tuesday, November 10
 
-W11. **RARA: Grounding Documents with Reasoning, Agents, Retrieval, and Attribution**
-* Organizers: Dinesh Manocha, Puneet Mathur, Ryan A. Rossi, Vivek Gupta, Nedim Lipka, Franck Dernoncourt, Manan Suri
+W11. **From Reasoning to Agency: Learning, Acting, and Adapting with Foundation Models**
+* Organizers: Jiaheng Liu, Yuxiang Ren, Zhen Zhang, Yanghai Wang, Haoran Yang, Jiayi Tian
+* Website: [https://agent-aacl-workshop.github.io/](https://agent-aacl-workshop.github.io/)
 * Date: Tuesday, November 10
 
-W12. **NL2SQL 2026: AI Agents for Robust Natural Language to SQL Generation**
-* Organizers: Tim Kraska, Jeff Z. Pan, Vivek Gupta, Zhewei Yao, Chuan Lei, Marianne Liu, Ashish Somayajula
-* Date: Tuesday, November 10
-
-W13. **NORA: KNOwledge GRaphs & Agentic Systems Interplay**
+W12. **NORA: KNOwledge GRaphs & Agentic Systems Interplay**
 * Organizers: Btissam Er-Rahmadi, Sebastien Montella, Damien Graux, Andre Melo, Hajira Jabeen
 * Website: [https://nora-workshop.github.io/AACL2026/](https://nora-workshop.github.io/AACL2026/)
 * Date: Tuesday, November 10
