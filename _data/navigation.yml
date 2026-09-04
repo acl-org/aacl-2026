@@ -37,8 +37,8 @@ calls:
         url: /calls/srw/
       # - title: "Volunteers"
       #   url: /calls/volunteers/
-      # - title: "Diversity & Inclusion Subsidies"
-      #   url: /calls/subsidies/
+      - title: "Diversity & Inclusion Subsidies"
+        url: /calls/subsidies/
 
 program:
   - title: "Programs"
