@@ -42,7 +42,7 @@ Demonstrations should also exhibit:
   </tr>
   <tr>
       <td style="width: 50%;">Notification of Acceptance</td>
-      <td>September 1, 2026</td>
+      <td>September 14, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Camera Ready Submission</td>
