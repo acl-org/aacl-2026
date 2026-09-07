@@ -33,7 +33,7 @@ Convenient transportation: 5 minutes to Hengqin Port, 25 minutes to Hong Kong‑
 
 Website: <https://www.ihg.com/hotelindigo/hotels/us/en/zhuhai/zuhhq/hoteldetail>
 
-Booking for Hotel Indigo Hengqin: _coming soon!_
+The AACL-IJCNLP 2026 official hotel booking portal is now open: [book your hotel here](https://aacl-ijcnlp-2026.scimeeting.cn/en/web/index/38457_3505114) (booking deadline: October 18, 2026, 23:59 Beijing Time).
 
 Perched atop Tianmu Qintai Island at the heart of Tianmu River in the Hengqin Guangdong-Macao In-Depth Cooperation Zone, the hotel lobby artfully blends the World Tree, representing economic vitality, with the nautilus emblem. Each of the 201 guestrooms — resembling branches of the World Tree — offers sweeping views of Tianmu River, warmly welcoming every guest. The rooftop lounge overlooks the entire Hengqin Island, inviting guests to savor and celebrate the region's economic achievements.
 
