@@ -29,17 +29,32 @@ Convenient transportation: 5 minutes to Hengqin Port, 25 minutes to Hong Kong‑
 
 ## Accommodation
 
-**Hotel Indigo Hengqin**
+The following official conference hotels can be booked through the [AACL-IJCNLP 2026 official hotel booking portal](https://aacl-ijcnlp-2026.scimeeting.cn/en/web/index/38457_3505114) (booking deadline: October 18, 2026, 23:59 Beijing Time; reservations are non-cancellable and non-refundable).
+
+**Hotel Indigo Hengqin** (conference venue hotel)
 
 Website: <https://www.ihg.com/hotelindigo/hotels/us/en/zhuhai/zuhhq/hoteldetail>
 
-The AACL-IJCNLP 2026 official hotel booking portal is now open: [book your hotel here](https://aacl-ijcnlp-2026.scimeeting.cn/en/web/index/38457_3505114) (booking deadline: October 18, 2026, 23:59 Beijing Time).
+- Conference rate: King Room CNY 700 / night, breakfast included
+- Distance to venue: 0 km (the hotel is located in the conference venue building)
 
 Perched atop Tianmu Qintai Island at the heart of Tianmu River in the Hengqin Guangdong-Macao In-Depth Cooperation Zone, the hotel lobby artfully blends the World Tree, representing economic vitality, with the nautilus emblem. Each of the 201 guestrooms — resembling branches of the World Tree — offers sweeping views of Tianmu River, warmly welcoming every guest. The rooftop lounge overlooks the entire Hengqin Island, inviting guests to savor and celebrate the region's economic achievements.
 
 ![Hotel Indigo Hengqin](/assets/images/venue/hotel_1.jpg){: .align-center width="80%"}
 
 ![Hotel Indigo Hengqin](/assets/images/venue/hotel_2.jpg){: .align-center width="80%"}
+
+**Sumjoy Hengqin Tianmu Hotel** (星享·横琴天沐酒店, 横琴口岸店)
+
+- Conference rate: King Room CNY 450 / night, Twin Room CNY 500 / night, breakfast included
+- Distance to venue: 2 km (shuttle bus provided)
+- Address: Building 3, Citizen Service Center, No. 868 Gang'ao Avenue, Hengqin, Zhuhai
+
+**Zhuhai Hengqin Port Xingledu Xinglv Hotel** (星乐度星旅酒店)
+
+- Conference rate: King Room / Twin Room CNY 400 / night, breakfast included
+- Distance to venue: 7 km (shuttle bus provided)
+- Address: No. 108 Huandaobei Road, Hengqin, Zhuhai
 
 ## Transport
 
