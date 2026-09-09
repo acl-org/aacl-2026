@@ -23,6 +23,10 @@ Tutorials will be held at one of the following conference venues:
 - [**EMNLP 2026**](https://2026.emnlp.org/) (the 2026 Conference on Empirical Methods in Natural Language Processing), which will be held as a hybrid conference, and physically held in Budapest, Hungary from October 24th to October 29th, 2026.
 - [**AACL-IJCNLP 2026**](https://2026.aaclnet.org/) (the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing), which will be held as a hybrid conference and physically held in Hengqin, China from November 6th to November 10th, 2026.
 
+## Accepted Tutorials
+
+You can find the list of accepted tutorials for AACL-IJCNLP 2026 [here](/program/tutorials/).
+
 ## Important Dates
 
 <table style="width: 100%; font-size: .9em;">
