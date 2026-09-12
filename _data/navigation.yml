@@ -7,8 +7,8 @@ main:
   - title: "Program"
     url: /program/
 
-  # - title: "Registration"
-  #   url: /registration/
+  - title: "Registration"
+    url: /registration/
 
   - title: "Participants Info"
     url: /venue
@@ -63,6 +63,12 @@ program:
   #       url: /program/best_papers/
   #     - title: "Outstanding ACs/Reviewers"
   #       url: /program/outstanding_reviewers/
+
+registration:
+  - title: "Registration"
+    children:
+      - title: "Registration"
+        url: /registration/
 
 committees:
   - title: Committees
