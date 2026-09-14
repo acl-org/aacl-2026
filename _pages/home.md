@@ -10,6 +10,16 @@ excerpt: "November 6 &ndash; 10, 2026<br>Hengqin, China"
 ## Welcome!
 The 5th AACL & 15th IJCNLP will be held in Hengqin, China from **November 6th** to **November 10th, 2026**.
 
+## News
+
+September 12, 2026 | [Registration](/registration/) is officially open
+September 9, 2026 | [The list of tutorials](/program/tutorials/) is out
+September 7, 2026 | [Hotel booking](/venue/#accommodation) is now open
+September 4, 2026 | [Call for Diversity & Inclusion Subsidies](/calls/subsidies/) is out
+September 2, 2026 | [The list of workshops](/program/workshops/) is updated
+August 7, 2026 | [Visa information](/participants/visa_requirements/) is out
+May 29, 2026 | [Call for System Demonstrations](/calls/demos/) is out
+
 ## Important Dates
 
 ARR submission deadline (long & short papers) | May 25, 2026
