@@ -12,6 +12,7 @@ The 5th AACL & 15th IJCNLP will be held in Hengqin, China from **November 6th** 
 
 ## News
 
+September 15, 2026 | [The first keynote speaker](/program/keynotes/) is announced
 September 12, 2026 | [Registration](/registration/) is officially open
 September 9, 2026 | [The list of tutorials](/program/tutorials/) is out
 September 7, 2026 | [Hotel booking](/venue/#accommodation) is now open
