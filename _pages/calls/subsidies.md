@@ -30,6 +30,15 @@ We're offering subsidies to support participation from researchers facing financ
 
 The application form can be accessed [here](https://tally.so/r/pb2PBb).
 
+## Registration Notes for D&I Subsidy Applicants
+
+If you have applied for a D&I subsidy, please note the following registration arrangements:
+
+- If your subsidy application is still pending, you do not need to provide any additional information or special notes in the registration system. The D&I and Registration teams will coordinate directly to keep track of pending applicants.
+- The registration deadline for D&I subsidy applicants is extended to **October 10, 2026 (AOE)**, so you will have sufficient time to complete your registration after subsidy decisions are announced.
+- If your application is approved for a registration fee waiver, you will receive a complimentary registration code with your subsidy notification. Please use this code to complete your conference registration.
+- If your subsidy application is pending, please wait for the notification before completing your registration.
+
 ## Contact Information
 
 **Diversity & Inclusion Chairs:**
