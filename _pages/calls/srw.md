@@ -35,15 +35,15 @@ Submissions (in both categories) may be archival or non-archival, based on the w
   </tr>
   <tr>
       <td style="width: 50%;">ARR Commitment Deadline</td>
-      <td>September 17, 2026</td>
+      <td>September 26, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Notification of Acceptance</td>
-      <td>September 21, 2026</td>
+      <td>September 30, 2026</td>
   </tr>
   <tr>
       <td style="width: 50%;">Camera-Ready Deadline</td>
-      <td>September 30, 2026</td>
+      <td>TBD</td>
   </tr>
   <!--
   <tr>
