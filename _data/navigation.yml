@@ -35,8 +35,8 @@ calls:
         url: /calls/demos/
       - title: "Student Research Workshop"
         url: /calls/srw/
-      # - title: "Volunteers"
-      #   url: /calls/volunteers/
+      - title: "Volunteers"
+        url: /calls/volunteers/
       - title: "Diversity & Inclusion Subsidies"
         url: /calls/subsidies/
 

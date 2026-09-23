@@ -9,4 +9,4 @@ toc_sticky: false
 
 ## Student Volunteer Program
 
-Information about the AACL-IJCNLP 2026 Student Volunteer Program will be announced soon.
+Please see the [Call for Volunteers](/calls/volunteers/) for details on the AACL-IJCNLP 2026 Student Volunteer Program.
