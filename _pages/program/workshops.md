@@ -64,7 +64,7 @@ W10. **Workshop for Artificial Intelligence for Scientific Publications (WASP)**
 * Date: Tuesday, November 10
 
 W11. **From Reasoning to Agency: Learning, Acting, and Adapting with Foundation Models**
-* Organizers: Jiaheng Liu, Yuxiang Ren, Zhen Zhang, Yanghai Wang, Haoran Yang, Jiayi Tian
+* Organizers: Jiaheng Liu, Yuxiang Ren, Zhen Zhang, Yanghai Wang, Yifan Yao, Xinping Lei, Yiyan Ji, Haoran Yang, Jiayi Tian
 * Website: [https://agent-aacl-workshop.github.io/](https://agent-aacl-workshop.github.io/)
 * Date: Tuesday, November 10
 
