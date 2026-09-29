@@ -25,3 +25,19 @@ Can large language models keep improving through experience they generate themse
 **Speaker's Bio**
 
 Yulan He is a Professor in Natural Language Processing at King's College London and a Turing AI Fellow. Her research focuses on making Large Language Models (LLMs) more reliable, interpretable, and safe, particularly in reasoning and agentic AI, with applications spanning across education, health, and science. She has received several awards for her research. Her five-year Turing AI Fellowship project was awarded the Best Research Project (Research Excellence) at the RAi UK AI & Robotics Awards 2026. She also received a Best Research Paper Award at the same awards ceremony. In addition, she is the recipient of a SWSA Ten-Year Award and a CIKM Test-of-Time Award.
+
+## Tim Baldwin, MBZUAI
+
+![Tim Baldwin](/assets/images/keynotes/tim_baldwin.jpg){: .align-left width="160px"}
+
+**Title**: Uncertainty, Belief, and Trust in Language Models
+
+**Abstract**
+
+Language models and other AI technologies are being used in an ever-increasing range of applications, including being trialled for decision support or automated decision-making in sensitive applications. A critical component of any such usage is the capability for the model to output a confidence/uncertainty assessment associated with any output, or (statistical) belief underlying a particular action. In this talk, I will present recent work on uncertainty estimation and belief updates, with a particular focus on practical utility in improving model performance and efficiency, and enabling humans to perform tasks more effectively.
+
+**Speaker's Bio**
+
+Tim Baldwin is Professor of Natural Language Processing at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), in addition to being a Melbourne Laureate Professor in the School of Computing and Information Systems at The University of Melbourne, and Co-founder and Chief Scientist of startups including LibrAI (focused on AI safety) and Examn AI (focused on dialogue-based candidate profiling). At MBZUAI he has also held positions including Provost, Associate Provost, and Foundation Chair of the Department of Natural Language Processing.
+
+Tim completed a BSc(CS/Maths) and BA(Linguistics/Japanese) at The University of Melbourne in 1995, and an MEng(CS) and PhD(CS) at the Tokyo Institute of Technology in 1998 and 2001, respectively. He joined MBZUAI at the start of 2022, prior to which he was based at The University of Melbourne for 17 years. His research has been funded by organisations including the Australian Research Council, Google, Microsoft, Amazon, Xerox, ByteDance, SEEK, NTT, and Fujitsu. He is the author of over 500 peer-reviewed publications across diverse topics in natural language processing and machine learning, and the recipient of a number of awards at top conferences.
