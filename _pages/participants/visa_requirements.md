@@ -9,6 +9,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+**Update**: We encourage the attendee to apply for an L Visa as a general conference participant.
+{: .notice--info}
+
 ## Visa Information
 
 Visitors to the mainland of the People's Republic of China must obtain a visa from one of the Chinese diplomatic missions unless they are citizens of one of the visa-exempt countries.
