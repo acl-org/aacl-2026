@@ -12,6 +12,8 @@ The 5th AACL & 15th IJCNLP will be held in Hengqin, China from **November 6th** 
 
 ## News
 
+October 2, 2026 | [The fourth keynote speaker](/program/keynotes/) is announced
+October 2, 2026 | [The third keynote speaker](/program/keynotes/) is announced
 September 29, 2026 | [The second keynote speaker](/program/keynotes/) is announced
 September 23, 2026 | [Call for Volunteers](/calls/volunteers/) is out
 September 15, 2026 | [The first keynote speaker](/program/keynotes/) is announced
