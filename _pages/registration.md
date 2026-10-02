@@ -20,11 +20,11 @@ We offer early and late rates to encourage early registrations. This helps us es
 <table style="width: 100%; font-size: .9em;">
   <tr>
       <td style="width: 50%;">Presenting Author Registration</td>
-      <td>Ends <strong>September 30, 2026</strong> (AOE)</td>
+      <td>Ends <del>September 30, 2026</del> <span style="color: darkblue;"><strong>October 7, 2026</strong></span> (AOE)</td>
   </tr>
   <tr>
       <td style="width: 50%;">Early Registration</td>
-      <td>Ends <strong>September 30, 2026</strong> (AOE)</td>
+      <td>Ends <del>September 30, 2026</del> <span style="color: darkblue;"><strong>October 7, 2026</strong></span> (AOE)</td>
   </tr>
   <tr>
       <td style="width: 50%;">Late Registration (In-Person and Virtual)</td>
@@ -48,8 +48,9 @@ The ACL Executive Committee has established three registration tiers. Each has a
 
 **Important Deadlines for Authors**
 
-- Main Conference & Findings papers: **September 30, 2026 (AOE)**
-- Workshops: **September 30, 2026 (AOE)**
+- Main Conference & Findings papers: <del>September 30, 2026</del> <span style="color: darkblue;"><strong>October 7, 2026 (AOE)</strong></span>
+- Workshops: <del>September 30, 2026</del> <span style="color: darkblue;"><strong>October 7, 2026 (AOE)</strong></span>
+- D&I subsidy applicants: **October 10, 2026 (AOE)**
 
 **Important Notes**
 
@@ -106,7 +107,7 @@ Rates below are in USD. Amounts in HKD and CNY are also shown on the registratio
 | Virtual, Industry | V-F-NRP-Ind | 350 | 450 | 550 |
 | Virtual, Student | V-F-NRP-Stu | 200 | 225 | 250 |
 
-Early: until September 30, 2026 (AOE). Late: September 30 – October 30, 2026 (AOE). On-site: November 1 – 10, 2026.
+Early: until October 7, 2026 (AOE). Late: October 7 – October 30, 2026 (AOE). On-site: November 1 – 10, 2026.
 {: .notice}
 
 ### Tutorial/Workshop-Only
@@ -126,7 +127,7 @@ Early: until September 30, 2026 (AOE). Late: September 30 – October 30, 2026 (
 | Virtual, Industry | V-TW-NRP-Ind | 210 | 270 | 320 |
 | Virtual, Student | V-TW-NRP-Stu | 120 | 135 | 150 |
 
-Early: until September 30, 2026 (AOE). Late: September 30 – October 30, 2026 (AOE). On-site: November 1 – 10, 2026.
+Early: until October 7, 2026 (AOE). Late: October 7 – October 30, 2026 (AOE). On-site: November 1 – 10, 2026.
 {: .notice}
 
 ## Invited Speakers
