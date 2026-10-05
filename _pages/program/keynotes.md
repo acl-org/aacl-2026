@@ -60,8 +60,16 @@ Iryna Gurevych is a full professor of computer science at the Technical Universi
 
 ![Nizar Habash](/assets/images/keynotes/nizar_habash.jpg){: .align-left width="160px"}
 
-Talk title and abstract to be announced.
+**Title**: The Genie of the LLM: What Shall We Wish for the Future of NLP?
+
+**Abstract**
+
+Large language models have given NLP extraordinary new capabilities. The genie is out of the lamp. The question is no longer only what it can do, but what we should ask it to do, how we know we got what we really wanted, and what it will do to us, our research, and our education.
+
+I reflect on these questions through a multilingual journey from early work on English, Spanish, and Chinese to decades of Arabic NLP. Arabic provides a revealing case study: its morphology, dialects, scripts, and linguistic variation expose assumptions that broad multilingual experiments can overlook. Recent work illustrates both the remarkable capabilities of LLMs and the continuing value of other models, linguistic knowledge, targeted data, careful evaluation, and human expertise.
+
+The future will not simply be a more powerful version of the present. As answers become easier to generate, good questions, deep understanding, and judgment become more valuable. Our challenge is not merely to build more powerful genies, but to choose our lamps wisely, and become better wish-makers.
 
 **Speaker's Bio**
 
-Nizar Habash is a Professor of Computer Science at New York University Abu Dhabi (NYUAD), where he directs the Computational Approaches to Modeling Language (CAMeL) Lab, and a Global Network Professor of Computer Science at the Courant Institute of Mathematical Sciences, NYU. A leading authority on Arabic NLP, his research focuses on the computational processing of morphologically rich and low-resource languages, spanning machine translation, morphological analysis, and computational modeling of Arabic and its dialects. Before joining NYUAD, he was a research scientist at Columbia University's Center for Computational Learning Systems. He is the author of over 150 publications, including the book *Introduction to Arabic Natural Language Processing*, and a recipient of the 2024 Antonio Zampolli Prize for outstanding contributions to language resources.
+Nizar Habash is a Professor of Computer Science at New York University Abu Dhabi (NYUAD). He is also the director of the Computational Approaches to Modeling Language (CAMeL) Lab. Professor Habash specializes in natural language processing and computational linguistics. He received his PhD in Computer Science from the University of Maryland College Park in 2003. His research includes extensive work on machine translation, morphological analysis, and computational modeling of Arabic and its dialects. Professor Habash has been a principal investigator or co-investigator on over 30 research grants. And he has over 300 publications including a book entitled "Introduction to Arabic Natural Language Processing". Professor Habash is one of the inaugural recipients of the King Salman Academy for Arabic Language Award (2022); he is the recipient of the Antonio Zampolli Prize (2024); and he was selected as a Fellow of the Association for Computational Linguistics (2025). His website is [www.nizarhabash.com](https://www.nizarhabash.com/).
