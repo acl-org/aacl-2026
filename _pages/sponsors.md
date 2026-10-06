@@ -14,11 +14,11 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     alt:
 #     title:
 
-# platinum:
-#   - url:
-#     image_path:
-#     alt:
-#     title:
+platinum:
+  - url: https://www.baidu.com/
+    image_path: /assets/images/sponsors/baidu.png
+    alt: Baidu
+    title: Baidu
 
 # gold:
 #   - url:
@@ -54,12 +54,12 @@ AACL-IJCNLP 2026 extends its deepest gratitude to all its sponsors. We sincerely
 
 <!-- ## Diamond
 
-{% include sponsors-list id="diamond" layout="third" %}
+{% include sponsors-list id="diamond" layout="third" %} -->
 
 ## Platinum
 
 {% include sponsors-list id="platinum" layout="third" %}
 
-## Gold
+<!-- ## Gold
 
 {% include sponsors-list id="gold" layout="third" %} -->
