@@ -10,11 +10,29 @@ sidebar:
     nav: program
 ---
 
-We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of AACL-IJCNLP 2026 (dates and times of the talks will be announced soon):
+We are delighted to announce that the esteemed speakers listed below have graciously accepted our invitation to deliver keynote speeches at the main conference of AACL-IJCNLP 2026 (all keynote talks will be held in Muhe B+C):
+
+## Iryna Gurevych, Technical University of Darmstadt
+
+![Iryna Gurevych](/assets/images/keynotes/iryna_gurevych.jpg){: .align-left width="160px"}
+
+**Datetime**: Friday, November 6, 09:30 – 10:30
+
+**Title**: NLP for Mental Health: Risk, Promise, Responsibility
+
+**Abstract**
+
+More than a billion people live with a mental health condition, yet care remains scarce and often a poor fit for the person receiving it — so people increasingly turn to unsupervised chatbots to fill the gap. Because language is the richest signal we have into someone's psychological state, natural language processing is the key to doing this better. In this talk, I argue that NLP can genuinely help — but solving it takes clinical grounding, real data, and responsible evaluation, not just larger models. Drawing on work from my group, I show how large language models can turn therapy transcripts into treatment-relevant structure, how clinically grounded synthetic data eases the field's privacy bottleneck, and why evaluation must reflect what clinicians actually care about — not just what's easy to benchmark. I close with an invitation to build mental health AI that is personalized, privacy-aware, and responsibly evaluated: tools that support clinicians, not replace them.
+
+**Speaker's Bio**
+
+Iryna Gurevych is a full professor of computer science at the Technical University of Darmstadt, Germany, where she founded and heads the Ubiquitous Knowledge Processing (UKP) Lab. She is a pioneer of computational argumentation and cross-document text modeling, with landmark applications to fact verification and misinformation detection, and her research extends to large language models and interdisciplinary NLP for the social sciences and humanities. Prof. Gurevych served as President of the Association for Computational Linguistics (ACL) in 2023 and is an ACL Fellow, a member of the German National Academy of Sciences Leopoldina and Academia Europaea, and a recipient of the 2025 Royal Society Milner Award.
 
 ## Yulan He, King's College London
 
 ![Yulan He](/assets/images/keynotes/yulan_he.png){: .align-left width="160px"}
+
+**Datetime**: Friday, November 6, 14:00 – 15:00
 
 **Title**: Beyond Self-Play: Towards Effective Self-Evolution in LLMs
 
@@ -30,6 +48,8 @@ Yulan He is a Professor in Natural Language Processing at King's College London 
 
 ![Tim Baldwin](/assets/images/keynotes/tim_baldwin.jpg){: .align-left width="160px"}
 
+**Datetime**: Saturday, November 7, 09:00 – 10:00
+
 **Title**: Uncertainty, Belief, and Trust in Language Models
 
 **Abstract**
@@ -42,23 +62,11 @@ Tim Baldwin is Professor of Natural Language Processing at Mohamed bin Zayed Uni
 
 Tim completed a BSc(CS/Maths) and BA(Linguistics/Japanese) at The University of Melbourne in 1995, and an MEng(CS) and PhD(CS) at the Tokyo Institute of Technology in 1998 and 2001, respectively. He joined MBZUAI at the start of 2022, prior to which he was based at The University of Melbourne for 17 years. His research has been funded by organisations including the Australian Research Council, Google, Microsoft, Amazon, Xerox, ByteDance, SEEK, NTT, and Fujitsu. He is the author of over 500 peer-reviewed publications across diverse topics in natural language processing and machine learning, and the recipient of a number of awards at top conferences.
 
-## Iryna Gurevych, Technical University of Darmstadt
-
-![Iryna Gurevych](/assets/images/keynotes/iryna_gurevych.jpg){: .align-left width="160px"}
-
-**Title**: NLP for Mental Health: Risk, Promise, Responsibility
-
-**Abstract**
-
-More than a billion people live with a mental health condition, yet care remains scarce and often a poor fit for the person receiving it — so people increasingly turn to unsupervised chatbots to fill the gap. Because language is the richest signal we have into someone's psychological state, natural language processing is the key to doing this better. In this talk, I argue that NLP can genuinely help — but solving it takes clinical grounding, real data, and responsible evaluation, not just larger models. Drawing on work from my group, I show how large language models can turn therapy transcripts into treatment-relevant structure, how clinically grounded synthetic data eases the field's privacy bottleneck, and why evaluation must reflect what clinicians actually care about — not just what's easy to benchmark. I close with an invitation to build mental health AI that is personalized, privacy-aware, and responsibly evaluated: tools that support clinicians, not replace them.
-
-**Speaker's Bio**
-
-Iryna Gurevych is a full professor of computer science at the Technical University of Darmstadt, Germany, where she founded and heads the Ubiquitous Knowledge Processing (UKP) Lab. She is a pioneer of computational argumentation and cross-document text modeling, with landmark applications to fact verification and misinformation detection, and her research extends to large language models and interdisciplinary NLP for the social sciences and humanities. Prof. Gurevych served as President of the Association for Computational Linguistics (ACL) in 2023 and is an ACL Fellow, a member of the German National Academy of Sciences Leopoldina and Academia Europaea, and a recipient of the 2025 Royal Society Milner Award.
-
 ## Nizar Habash, New York University Abu Dhabi
 
 ![Nizar Habash](/assets/images/keynotes/nizar_habash.jpg){: .align-left width="160px"}
+
+**Datetime**: Sunday, November 8, 09:00 – 10:00
 
 **Title**: The Genie of the LLM: What Shall We Wish for the Future of NLP?
 

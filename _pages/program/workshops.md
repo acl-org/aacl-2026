@@ -14,61 +14,85 @@ The following 12 workshops will be co-located with AACL-IJCNLP 2026.
 W1. **Fifth Workshop on Multimodal Machine Learning in Low-resource Languages (MMLow 2026)**
 * Organizers: Bharathi Raja Chakravarthi, Saranya Rajiakodi, Premjith B, Shunmuga Priya MC, Abirami Murugappan, Jyothish Lal G, Sowmya V, Prasanna Kumar Kumaresan, Rahul Ponnusamy
 * Website: [https://sites.google.com/view/mmlow2026/](https://sites.google.com/view/mmlow2026/)
-* Date: Monday, November 9
+* Date: Monday, November 9, 09:00 – 17:30
+* Room: Meeting Room 3
+* Format: Hybrid
 
 W2. **The 13th Workshop on Asian Translation (WAT 2026)**
 * Organizers: Toshiaki Nakazawa, Isao Goto, Hideya Mino, Raj Dabre, Haiyue Song, Shantipriya Parida, Ondřej Bojar, Chenhui Chu, Masaaki Nagata, Katsuhito Sudoh, Sadao Kurohashi
 * Website: [https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2026/)
-* Date: Monday, November 9
+* Date: Monday, November 9, 09:00 – 17:30
+* Room: Meeting Room 8F
+* Format: Hybrid
 
 W3. **The 7th Workshop on Gender Bias in Natural Language Processing (GeBNLP)**
 * Organizers: Giuseppe Attanasio, Christine Basta, Marta R. Costa-jussà, Agnieszka Faleńska, Vera Neplenbroek, Debora Nozza, Karolina Stańczak
 * Website: [https://gebnlp-workshop.github.io/](https://gebnlp-workshop.github.io/)
-* Date: Monday, November 9
+* Date: Monday, November 9, 09:00 – 17:30
+* Room: Meeting Room 5
+* Format: Virtual
 
 W4. **The First Workshop on Multimodal, Multilingual, and Multicultural Mental Health and Psychotherapy (MultiPsyche)**
 * Organizers: Zimu Wang, Yiwen Jiang, Yaling Shen, Xiangyu Zhao, Stephanie Fong, Xin Sun, Yi Zhou, Shaoxiong Ji, Robert Desimone, Barnaby Nelson, Dominic Dwyer, Zongyuan Ge
 * Website: [https://sites.google.com/view/multipsyche](https://sites.google.com/view/multipsyche)
-* Date: Monday, November 9
+* Date: Monday, November 9, 09:00 – 17:30
+* Room: Meeting Room 6
+* Format: Hybrid
 
 W5. **Workshop on Multi-modality and Multi-lingual Language Learning**
 * Organizers: Xiaoman Wang, Qianyu Wang, Zhengyuan Liu, Nancy F. Chen, Zheng Yuan, Yunshi Lan, Jing Jiang
 * Website: [https://xiaoaugenstern.github.io/Multi-LLL-2026/](https://xiaoaugenstern.github.io/Multi-LLL-2026/)
-* Date: Monday, November 9
+* Date: Monday, November 9, 09:00 – 17:30
+* Room: Meeting Room 8M
+* Format: Hybrid
 
 W6. **Language Technologies for Crisis Preparedness and Response (LT4CPR)**
 * Organizers: Antonios Anastasopoulos, William D. Lewis, Fei Xia
 * Website: [https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/cfp.html](https://lt4cpr.github.io/aacl2026-workshop-LT4CPR/cfp.html)
-* Date: Monday, November 9
+* Date: Monday, November 9, 09:00 – 17:30
+* Room: Meeting Room 4
+* Format: Hybrid
 
 ## Tuesday, November 10
 
 W7. **Workshop on Autonomous Research and Recursive Self-Improvement (ARRSI)**
 * Organizers: Yuxuan Zhang, Kelsey Allen, Yixuan He, Greg Durrett, Peter West, Yizhi Li, Rui Meng, Dingmin Wang, Hao Zhang, Wenhu Chen, Mingchen Zhuge, Jian Yang, Xianglong Liu, Ming Zhou, Hanqi Yan
 * Website: [https://ar-rsi.github.io/](https://ar-rsi.github.io/)
-* Date: Tuesday, November 10
+* Date: Tuesday, November 10, 09:00 – 17:30
+* Room: Meeting Room 3
+* Format: Hybrid
 
 W8. **TrustAudio: Workshop on Secure, Safe, and Privacy-Preserving Speech and Audio AI**
 * Organizers: Nancy F. Chen, Yiming Chen, Xiaoxue Gao, Haizhou Li, Björn Schuller, Berrak Sisman, Xianghu Yue
 * Website: [https://trustaudio.github.io/](https://trustaudio.github.io/)
-* Date: Tuesday, November 10
+* Date: Tuesday, November 10, 09:00 – 17:30
+* Room: Meeting Room 4
+* Format: Hybrid
 
 W9. **The First Workshop on Pluralistic Value Alignment of LLMs (PlurVA-LLM)**
 * Organizers: Deyi Xiong, António Branco, Hongming Zhang, Yue Dong, Benyou Wang, Wenxuan Zhang, Li Zhou
 * Website: [https://plurvallm2026.github.io/](https://plurvallm2026.github.io/)
-* Date: Tuesday, November 10
+* Date: Tuesday, November 10, 09:00 – 17:30
+* Room: Meeting Room 5
+* Format: Hybrid
 
 W10. **Workshop for Artificial Intelligence for Scientific Publications (WASP)**
 * Organizers: Atilla Kaan Alkan, Alberto Accomazzi, Tirthankar Ghosal, Felix Grezes, Kelly Lockhart
 * Website: [https://ui.adsabs.harvard.edu/WIESP/2026/](https://ui.adsabs.harvard.edu/WIESP/2026/)
-* Date: Tuesday, November 10
+* Date: Tuesday, November 10, 09:00 – 17:30
+* Room: Meeting Room 6
+* Format: Virtual
 
 W11. **From Reasoning to Agency: Learning, Acting, and Adapting with Foundation Models**
 * Organizers: Jiaheng Liu, Yuxiang Ren, Zhen Zhang, Yanghai Wang, Yifan Yao, Xinping Lei, Yiyan Ji, Haoran Yang, Jiayi Tian
 * Website: [https://agent-aacl-workshop.github.io/](https://agent-aacl-workshop.github.io/)
-* Date: Tuesday, November 10
+* Date: Tuesday, November 10, 09:00 – 17:30
+* Room: Muhe Hall C
+* Format: Hybrid
 
 W12. **NORA: The 3rd Workshop on KNOwledge GRaphs & Agentic Systems Interplay**
 * Organizers: Btissam Er-Rahmadi, Sebastien Montella, Damien Graux, Andre Melo, Hajira Jabeen
 * Website: [https://nora-workshop.github.io/AACL2026/](https://nora-workshop.github.io/AACL2026/)
-* Date: Tuesday, November 10
+* Date: Tuesday, November 10, 09:00 – 17:30
+* Room: Meeting Room 8M
+* Format: Hybrid

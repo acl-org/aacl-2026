@@ -25,7 +25,8 @@ Commitment deadline | <del>August 2, 2026</del> <span style="color: darkblue;"><
 Second-round commitment deadline | <span style="color: darkblue;"><strong>August 25, 2026</strong></span>
 Notification of acceptance (long & short papers) | September 7, 2026
 Camera-ready papers due (long & short) | <del>September 30, 2026</del> <span style="color: darkblue;"><strong>October 2, 2026</strong></span>
-Main Conference (dates for Workshops/Tutorials TBD) | November 6 - 10, 2026
+Main Conference | November 6 - 8, 2026
+Workshops & Tutorials | November 9 - 10, 2026
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
 

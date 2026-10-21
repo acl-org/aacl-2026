@@ -12,6 +12,7 @@ The 5th AACL & 15th IJCNLP will be held in Hengqin, China from **November 6th** 
 
 ## News
 
+October 22, 2026 | [Conference program overview](/program/) is out
 October 6, 2026 | [Baidu](/sponsors/) joins AACL-IJCNLP 2026 as a Platinum sponsor
 October 2, 2026 | [The fourth keynote speaker](/program/keynotes/) is announced
 October 2, 2026 | [The third keynote speaker](/program/keynotes/) is announced
@@ -36,6 +37,7 @@ Commitment deadline | <del>August 2, 2026</del> <span style="color: darkblue;"><
 Second-round commitment deadline | <span style="color: darkblue;"><strong>August 25, 2026</strong></span>
 Notification of acceptance (long & short papers) | September 7, 2026
 Camera-ready papers due (long & short) | <del>September 30, 2026</del> <span style="color: darkblue;"><strong>October 2, 2026</strong></span>
-Main Conference (dates for Workshops/Tutorials TBD) | November 6 - 10, 2026
+Main Conference | November 6 - 8, 2026
+Workshops & Tutorials | November 9 - 10, 2026
 
 **Note: All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").**
