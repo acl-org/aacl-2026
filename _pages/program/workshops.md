@@ -68,7 +68,7 @@ W11. **From Reasoning to Agency: Learning, Acting, and Adapting with Foundation 
 * Website: [https://agent-aacl-workshop.github.io/](https://agent-aacl-workshop.github.io/)
 * Date: Tuesday, November 10
 
-W12. **NORA: KNOwledge GRaphs & Agentic Systems Interplay**
+W12. **NORA: The 3rd Workshop on KNOwledge GRaphs & Agentic Systems Interplay**
 * Organizers: Btissam Er-Rahmadi, Sebastien Montella, Damien Graux, Andre Melo, Hajira Jabeen
 * Website: [https://nora-workshop.github.io/AACL2026/](https://nora-workshop.github.io/AACL2026/)
 * Date: Tuesday, November 10
