@@ -53,6 +53,8 @@ program:
     children:
       - title: "Keynotes"
         url: /program/keynotes/
+      - title: "Social Event"
+        url: /program/social_event/
       # - title: "Plenary Talks"
       #   url: /program/plenary/
       # - title: "Special Sessions"

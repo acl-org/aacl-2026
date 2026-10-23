@@ -46,7 +46,7 @@ For details, see [Keynote Talks](/program/keynotes/), [Tutorials](/program/tutor
 | 13:30 – 15:00 | Poster Session 4 (Session 3 oral papers) | Poster Area |
 | 15:00 – 15:30 | Coffee Break | |
 | 15:30 – 16:00 | Departure to Social Event | |
-| 16:00 – 21:00 | Social Event | Chimelong Ocean Kingdom, Hengqin |
+| 16:00 – 21:00 | [Social Event](/program/social_event/) | Chimelong Ocean Kingdom, Hengqin |
 
 ## Day 3 – Sunday, November 8
 
