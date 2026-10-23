@@ -20,11 +20,27 @@ platinum:
     alt: Baidu
     title: Baidu
 
-# gold:
-#   - url:
-#     image_path:
-#     alt:
-#     title:
+gold:
+  - url: https://www.fudan.edu.cn/
+    image_path: /assets/images/sponsors/fudan.png
+    alt: Fudan University
+    title: Fudan University
+  - url: https://www.memtensor.cn/
+    image_path: /assets/images/sponsors/memtensor.png
+    alt: MemTensor
+    title: MemTensor
+
+coorganizer:
+  - url: https://fic.um.edu.mo/
+    image_path: /assets/images/sponsors/um_fisc.png
+    alt: University of Macau, Faculty of Information Science and Computing
+    title: University of Macau, Faculty of Information Science and Computing
+
+venue_supporter:
+  - url: https://www.sumlodol.com/
+    image_path: /assets/images/sponsors/sumlodol.png
+    alt: Zhuhai Da Heng Qin Sumlodol Culture & Tourism Development Co., Ltd
+    title: Zhuhai Da Heng Qin Sumlodol Culture & Tourism Development Co., Ltd
 ---
 
 AACL-IJCNLP 2026 extends its deepest gratitude to all its sponsors. We sincerely thank you in advance for your commitment to the NLP/CL community. If your organization would like to sponsor AACL-IJCNLP 2026, please refer to our [Sponsorship Booklet](/assets/Sponsorship%20brochure%20for%20ACL%202026%20Conferences%20-%202026-03-30.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact the sponsorship chairs: Yan Song (<songyan@ustc.edu.cn>) and Yuanhe Tian (<tianyuanhe@zgci.ac.cn>).
@@ -56,10 +72,18 @@ AACL-IJCNLP 2026 extends its deepest gratitude to all its sponsors. We sincerely
 
 {% include sponsors-list id="diamond" layout="third" %} -->
 
+## Co-organizer
+
+{% include sponsors-list id="coorganizer" layout="third" %}
+
 ## Platinum
 
 {% include sponsors-list id="platinum" layout="third" %}
 
-<!-- ## Gold
+## Gold
 
-{% include sponsors-list id="gold" layout="third" %} -->
+{% include sponsors-list id="gold" layout="third" %}
+
+## Venue Supporter
+
+{% include sponsors-list id="venue_supporter" layout="third" %}
