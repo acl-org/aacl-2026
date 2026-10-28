@@ -12,6 +12,8 @@ toc_icon: "cog"
 
 The AACL-IJCNLP 2026 main conference will be held on **November 6 – 8, 2026**, followed by workshops and tutorials on **November 9 – 10, 2026**. All times are local (UTC+8).
 
+You can also download the [AACL-IJCNLP 2026 Program Overview (PDF)](/downloads/AACL_2026_Program_Overview.pdf).
+
 Venue rooms: Muhe B+C / Muhe B / Muhe C refer to the Muhe Hall (used as a whole or in two sections); MR = Meeting Room.
 {: .notice}
 

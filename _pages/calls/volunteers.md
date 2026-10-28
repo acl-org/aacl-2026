@@ -13,7 +13,7 @@ toc_icon: "cog"
 
 AACL-IJCNLP 2026 (the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing) will be held in Hengqin, China from November 6th to November 10th, 2026.
 
-We are currently looking for enthusiastic and dedicated student volunteers to contribute to the success of this event. Selected volunteers will receive complimentary registration to the main conference (including the ACL membership fee of the current year and paper registration fee if applicable), workshops, tutorials, and social events.
+We are currently looking for enthusiastic and dedicated student volunteers to contribute to the success of this event. Selected volunteers will receive complimentary registration to the main conference, workshops, tutorials, and social events.
 
 Please note that volunteering only covers a registration fee waiver. If you need additional funding for travel expenses, we recommend applying for the [Diversity and Inclusion Subsidies](/calls/subsidies/).
 
