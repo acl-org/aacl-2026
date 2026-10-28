@@ -93,3 +93,5 @@ participants:
         url: /participants/visa_requirements/
       - title: "Invitation Letters"
         url: /participants/invitation_letters/
+      - title: "Presenter Information"
+        url: /participants/presenter_info/
