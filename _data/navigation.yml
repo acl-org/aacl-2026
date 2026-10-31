@@ -85,6 +85,8 @@ participants:
     children:
       - title: "Venue & Accommodation"
         url: /venue
+      - title: "Presenter Information"
+        url: /participants/presenter_info/
       - title: "Transport"
         url: /venue#transport
       - title: "What to Do in Hengqin"
@@ -93,5 +95,3 @@ participants:
         url: /participants/visa_requirements/
       - title: "Invitation Letters"
         url: /participants/invitation_letters/
-      - title: "Presenter Information"
-        url: /participants/presenter_info/

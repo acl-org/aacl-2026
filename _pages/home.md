@@ -13,7 +13,7 @@ The 5th AACL & 15th IJCNLP will be held in Hengqin, China from **November 6th** 
 ## News
 
 October 31, 2026 | [On-site poster printing information](/participants/presenter_info/#on-site-poster-printing) is available
-October 28, 2026 | [Presentation material submission](/participants/presenter_info/) is now open
+October 28, 2026 | [Presentation material submission](/participants/presenter_info/) is now open (see the [recording & submission guide](https://docs.google.com/presentation/d/1nAezbzgckj3WKgncHUN0pqZW-jNv7yOg_EiBU8-_ia4/edit))
 October 23, 2026 | [Social event details](/program/social_event/) are out
 October 22, 2026 | [Conference program overview](/program/) is out
 October 6, 2026 | [Baidu](/sponsors/) joins AACL-IJCNLP 2026 as a Platinum sponsor
