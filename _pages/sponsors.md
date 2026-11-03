@@ -30,6 +30,12 @@ gold:
     alt: MemTensor
     title: MemTensor
 
+silver:
+  - url: https://www.lizhiinc.com/
+    image_path: /assets/images/sponsors/lizhi.jpg
+    alt: Lizhi
+    title: Lizhi
+
 coorganizer:
   - url: https://fic.um.edu.mo/
     image_path: /assets/images/sponsors/um_fisc.png
@@ -83,6 +89,10 @@ AACL-IJCNLP 2026 extends its deepest gratitude to all its sponsors. We sincerely
 ## Gold
 
 {% include sponsors-list id="gold" layout="third" %}
+
+## Silver
+
+{% include sponsors-list id="silver" layout="third" %}
 
 ## Venue Supporter
 
