@@ -45,6 +45,12 @@ program:
     children:
       - title: "Conference Overview"
         url: /program/
+      - title: "Oral Presentation"
+        url: /program/oral_program/
+      - title: "In-Person Posters"
+        url: /program/in_person_posters/
+      - title: "Virtual Posters"
+        url: /program/virtual_posters/
       - title: "Workshops"
         url: /program/workshops/
       - title: "Tutorials"

@@ -108,6 +108,9 @@
 <loc>/</loc>
 </url>
 <url>
+<loc>/program/in_person_posters/</loc>
+</url>
+<url>
 <loc>/calls/industry/</loc>
 </url>
 <url>
@@ -127,6 +130,9 @@
 </url>
 <url>
 <loc>/calls/main_conference_papers/</loc>
+</url>
+<url>
+<loc>/program/oral_program/</loc>
 </url>
 <url>
 <loc>/organization/</loc>
@@ -220,6 +226,9 @@
 </url>
 <url>
 <loc>/participants/venue_accommodations/</loc>
+</url>
+<url>
+<loc>/program/virtual_posters/</loc>
 </url>
 <url>
 <loc>/participants/visa_requirements/</loc>
