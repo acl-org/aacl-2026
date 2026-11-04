@@ -10,7 +10,7 @@ sidebar:
     nav: program
 ---
 
-The following 7 tutorials will be offered at AACL-IJCNLP 2026. Tutorials will be held on November 9 – 10, 2026.
+The following 6 tutorials will be offered at AACL-IJCNLP 2026. Tutorials will be held on November 9 – 10, 2026.
 
 ## T1: Code-Switching for Multilingual LLMs
 
@@ -65,11 +65,3 @@ Despite well-known hallucination issues, LLMs have become an increasingly indisp
 * Room: Muhe Hall B
 
 Diffusion language models (DLMs) have recently emerged as a non-autoregressive approach to language generation, enabling parallel, iterative, and refinement-based decoding beyond the conventional left-to-right paradigm. This tutorial offers the NLP community a technical map of this emerging field: starting from diffusion formulations for text, we clarify their connections to autoregressive language modeling, masked language modeling, and earlier iterative generation methods. We then survey recent progress in large-scale DLMs, efficient inference, training objectives, and post-training, including reinforcement learning for reasoning and alignment. Throughout the tutorial, we treat DLMs not as a solved replacement for autoregressive language models, but as a rapidly developing paradigm whose efficiency claims, controllability, practical assessment, and deployment implications require careful examination. We close by discussing representative open directions, from broader formulations such as flow-based language modeling to reliability, safety, and social bias as key requirements for the social acceptability of DLMs.
-
-## AI Scientist: Persistent Scientific Systems with Memory, Verification, and Human Governance
-
-* Instructors: Hejia Geng, Wanghan Xu, Yifan Zhou, Zhenfei Yin, Yingcheng Wu, Philip Torr
-* Website: [https://yyifan-onyen.github.io/ai_scientist/](https://yyifan-onyen.github.io/ai_scientist/)
-* Date: TBD
-
-AI Scientists are evolving from autonomous workflow agents that automate a research pipeline into persistent scientific systems that maintain long-horizon research state, verify novelty against prior work, track experimental provenance, execute in real or simulated laboratories, and collaborate with human scientists. As new systems, benchmarks, and infrastructure proliferate across NLP, machine learning, and the natural sciences, the associated literature has become fragmented across communities that adopt different vocabularies for the same concepts. This cutting-edge tutorial provides a comprehensive overview of AI Scientist research, organizing representative work around six recurring concerns: persistent scientific state, literature-grounded novelty verification, scientific infrastructure and execution environments, embodied scientific interaction, reliability and provenance, and human governance. For each concern, we trace the transition from early end-to-end pipelines to recent persistent-system designs, together with the evaluation methodology used to measure progress. Attendees will leave with a compact field map, a reusable vocabulary that separates agent architecture from scientific infrastructure, an annotated reading list, a hands-on AI Scientist loop, and a set of open problems on which NLP researchers can have immediate impact. All materials are available at [https://yyifan-onyen.github.io/ai_scientist/](https://yyifan-onyen.github.io/ai_scientist/).
