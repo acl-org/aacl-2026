@@ -8,7 +8,7 @@ sidebar:
     nav: program
 ---
 
-The AACL-IJCNLP 2026 main conference features **334 virtual posters**, presented on the Underline platform. Poster PDFs are available through the [presentation submission portal](https://aaclijcnlp-2026-presentations.paperform.co/) and the conference platform.
+The AACL-IJCNLP 2026 main conference features **334 virtual posters**, presented on the [Underline platform](https://underline.io/events/541/reception). Poster PDFs are available through the [presentation submission portal](https://aaclijcnlp-2026-presentations.paperform.co/) and the conference platform.
 
 | # | Paper | Authors | Presenter |
 |---|---|---|---|

@@ -14,6 +14,8 @@ The AACL-IJCNLP 2026 main conference will be held on **November 6 – 8, 2026**,
 
 You can also download the [AACL-IJCNLP 2026 Program Overview (PDF)](/downloads/AACL_2026_Program_Overview.pdf).
 
+Access the [digital conference handbook](/downloads/AACL_2026_Conference_Handbook.pdf) · Join virtual sessions on [Underline](https://underline.io/events/541/reception)
+
 For the detailed program — **148 oral papers** across 25 sessions ([Oral Presentation](/program/oral_program/)), **99 in-person posters** in 6 poster sessions ([In-Person Posters](/program/in_person_posters/)), and **334 virtual posters** ([Virtual Posters](/program/virtual_posters/)) — see the linked pages with titles, authors, presenters, times, and rooms.
 
 For presentation material submission (video, poster, and slides), please see [Presenter Information](/participants/presenter_info/).
