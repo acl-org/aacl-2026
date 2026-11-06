@@ -23,7 +23,7 @@ This tutorial provides a structured overview of code-switching for multilingual 
 
 ## T2: The Future of NLP Needs Ethical Considerations: An Interactive Tutorial for Researchers and Students
 
-* Instructors: Min-Yen Kan, Barid Xi Ai, Esther Gan, Yisong Miao, Abdoul Jalil Djiberou Mahamadou, Seunghun Lee, Margot Mieskes, Adriana Pagano, Monojit Choudhury, Vamshi Krishna Bonagiri
+* Instructors: Xi Ai, Vamshi Krishna Bonagiri, Monojit Choudhury, Abdoul Jalil Djiberou Mahamadou, Esther Gan, Zhijing Jin, Min-Yen Kan, Seunghun J. Lee, Yisong Miao, Margot Mieskes, Aurélie Névéol, Yajing Yang
 * Website: [https://ethics.aclweb.org/tutorials/AACL_IJCNLP_2026/](https://ethics.aclweb.org/tutorials/AACL_IJCNLP_2026/)
 * Date: Monday, November 9, 09:00 – 12:30
 * Room: Muhe Hall C
